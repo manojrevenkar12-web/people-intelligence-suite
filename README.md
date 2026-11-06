@@ -32,8 +32,8 @@ From `pis evaluate` ([reports/REPORT.md](reports/REPORT.md), [dashboard](reports
 - **5,944 person-months reconciled** between HiBob and two payroll providers: 13 people with exceptions,
   all of them planted, no false alarms. Money at stake: €17,425 paid to people after they left, €60,190
   paid for hours that are not in the contract, €6,508 of approved raises never paid.
-- **The file in cents was quarantined whole**, and its 31 people are reported as "source quarantined",
-  not as 31 unpaid employees.
+- **The file in cents was quarantined whole**, and its 35 people are reported as "source quarantined",
+  not as 35 unpaid employees.
 - **All 37 ledger breaks were explained.** Payroll cost and the GL disagree by department in 37
   month-entity pairs. Each pair cancels out, and each is traced to the one transfer Finance still books
   to the old cost centre.
