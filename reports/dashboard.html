@@ -1,0 +1,77 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>People data, reconciled</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500&family=Public+Sans:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#eef2f1;--panel:#fbfcfc;--ink:#132420;--muted:#4f625c;--line:#d3dcd9;--accent:#0e6f66;
+--accent-2:#0a4f49;--warn:#a5520b;--good:#2f6f3e;--radius:10px;--gap:clamp(16px,2.6vw,28px);
+--display:"Newsreader",Georgia,serif;--text:"Public Sans",system-ui,sans-serif}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0f1714;--panel:#15211d;--ink:#e3ece8;
+--muted:#9db1aa;--line:#26362f;--accent:#45b3a6;--accent-2:#7fd1c6;--warn:#e19a50;--good:#79c08a}}
+:root[data-theme="dark"]{--bg:#0f1714;--panel:#15211d;--ink:#e3ece8;--muted:#9db1aa;--line:#26362f;
+--accent:#45b3a6;--accent-2:#7fd1c6;--warn:#e19a50;--good:#79c08a}
+*{box-sizing:border-box}html{background:var(--bg)}
+body{margin:0;background:var(--bg);color:var(--ink);font:15.5px/1.55 var(--text)}
+main{max-width:1100px;margin:0 auto;padding:var(--gap)}
+header{padding:calc(var(--gap)*1.6) 0 var(--gap);max-width:70ch}
+h1{font:500 clamp(34px,5.5vw,58px)/1.02 var(--display);margin:0 0 14px;letter-spacing:-.01em}
+.lede{color:var(--muted);margin:0}
+h2{font:500 26px/1.15 var(--display);margin:0 0 6px}
+.sub{color:var(--muted);margin:0 0 16px;max-width:68ch}
+section{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:var(--gap);
+margin:0 0 var(--gap)}
+.strip{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:var(--gap);margin:0 0 var(--gap)}
+.strip div{border-left:3px solid var(--accent);padding:4px 0 4px 14px}
+.strip b{display:block;font:500 30px/1.1 var(--display)}
+.strip span{color:var(--muted);font-size:13.5px}
+table{width:100%;border-collapse:collapse;font-size:14px}
+th,td{padding:8px 10px;border-bottom:1px solid var(--line);text-align:right;white-space:nowrap}
+th:first-child,td:first-child{text-align:left;white-space:normal}
+th{font-weight:600;color:var(--muted);font-size:13px}
+.scroll{overflow-x:auto}
+.ok{color:var(--good);font-weight:600}.bad{color:var(--warn);font-weight:600}
+svg{width:100%;height:auto;display:block}
+.chart text{fill:var(--muted);font:12px var(--text)} .chart .line{fill:none;stroke:var(--accent);stroke-width:2.2}
+.chart .grid{stroke:var(--line)} .chart .dot{fill:var(--accent)} .chart .warn{fill:var(--warn)}
+.chart .ci{stroke:var(--muted);stroke-width:2} .chart .thr{stroke:var(--warn);stroke-dasharray:4 4}
+.two{display:grid;grid-template-columns:repeat(auto-fit,minmax(330px,1fr));gap:var(--gap)}
+footer{color:var(--muted);font-size:13px;padding-bottom:var(--gap)}
+@media (prefers-reduced-motion:no-preference){.strip div{animation:in .45s ease-out both}
+.strip div:nth-child(2){animation-delay:.05s}.strip div:nth-child(3){animation-delay:.1s}.strip div:nth-child(4){animation-delay:.15s}}
+@keyframes in{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+</style></head><body><main>
+<header><h1>People data, reconciled</h1>
+<p class="lede">HiBob, two payroll providers, the compensation tool and Finance's ledger, checked against each other
+for 2026-10. A simulated company of 252 people in Germany, Spain, Portugal and Italy, with the
+mistakes real systems make planted in it.</p></header>
+<div class="strip">
+<div><b>252</b><span>people, 247 FTE; 11.4% left in 12 months</span></div>
+<div><b>13 of 13</b><span>planted payroll errors found, 0 false alarms</span></div>
+<div><b>€77,615</b><span>overpaid; €6,508 of approved raises unpaid</span></div>
+<div><b>Customer Success, Data & Analytics</b><span>pay gap above 5% with evidence</span></div>
+</div>
+<div class="two">
+<section><h2>Headcount</h2><p class="sub">People at each month end.</p><svg viewBox="0 0 620 220" class="chart" role="img" aria-label="Headcount by month"><line class="grid" x1="40" x2="580" y1="153.1" y2="153.1"/><text x="34" y="157.1" text-anchor="end">236</text><line class="grid" x1="40" x2="580" y1="66.9" y2="66.9"/><text x="34" y="70.9" text-anchor="end">252</text><polyline class="line" points="40.0,153.1 63.5,126.2 87.0,120.8 110.4,93.8 133.9,88.5 157.4,93.8 180.9,83.1 204.3,93.8 227.8,104.6 251.3,120.8 274.8,115.4 298.3,115.4 321.7,120.8 345.2,110.0 368.7,93.8 392.2,110.0 415.7,115.4 439.1,115.4 462.6,99.2 486.1,104.6 509.6,99.2 533.0,99.2 556.5,72.3 580.0,66.9"/><circle class="dot" cx="580.0" cy="66.9" r="4"/><text x="40.0" y="208" text-anchor="middle">24-11</text><text x="133.9" y="208" text-anchor="middle">25-03</text><text x="227.8" y="208" text-anchor="middle">25-07</text><text x="321.7" y="208" text-anchor="middle">25-11</text><text x="415.7" y="208" text-anchor="middle">26-03</text><text x="509.6" y="208" text-anchor="middle">26-07</text></svg></section>
+<section><h2>By department</h2><p class="sub">Headcount now, leavers and attrition over twelve months.</p>
+<div class="scroll"><table><thead><tr><th>Department</th><th>People</th><th>Left</th><th>Attrition</th></tr></thead>
+<tbody><tr><td>Engineering</td><td>61</td><td>5</td><td>8.5%</td></tr><tr><td>Customer Success</td><td>47</td><td>10</td><td>21.3%</td></tr><tr><td>Sales</td><td>27</td><td>2</td><td>7.4%</td></tr><tr><td>Product</td><td>25</td><td>2</td><td>7.9%</td></tr><tr><td>Marketing</td><td>24</td><td>5</td><td>20.7%</td></tr><tr><td>Finance</td><td>22</td><td>1</td><td>5.1%</td></tr><tr><td>Data &amp; Analytics</td><td>21</td><td>1</td><td>5.0%</td></tr><tr><td>People</td><td>13</td><td>1</td><td>8.5%</td></tr><tr><td>Design</td><td>12</td><td>1</td><td>8.6%</td></tr></tbody></table></div></section>
+</div>
+<section><h2>What the checks found</h2><p class="sub">Each row is a mistake planted in the source systems.
+Payroll checks compare every person-month; data-quality checks run on HiBob and the compensation tool.</p>
+<div class="scroll"><table><thead><tr><th>Problem</th><th>Planted</th><th>Flagged</th><th>Correct</th></tr></thead>
+<tbody><tr><td>Paid after leaving</td><td>3</td><td>3</td><td class="ok">3</td></tr><tr><td>Missing from first payroll</td><td>3</td><td>3</td><td class="ok">3</td></tr><tr><td>Raise not in payroll</td><td>5</td><td>5</td><td class="ok">5</td></tr><tr><td>Hours differ from contract</td><td>2</td><td>2</td><td class="ok">2</td></tr><tr><td>Manager has left</td><td>3</td><td>3</td><td class="ok">3</td></tr><tr><td>No manager</td><td>2</td><td>2</td><td class="ok">2</td></tr><tr><td>Rehire as a second person</td><td>1</td><td>3</td><td class="ok">1</td></tr><tr><td>Approved raise not in HiBob</td><td>3</td><td>3</td><td class="ok">3</td></tr><tr><td>Payroll file in cents</td><td>1</td><td>1</td><td class="ok">1</td></tr><tr><td>Cost on old department</td><td>2</td><td>2</td><td class="ok">2</td></tr></tbody></table></div></section>
+<section><h2>Pay equity</h2><p class="sub">Adjusted gap between women and men by department, holding level and
+country equal, with 90% intervals. Groups under 5 are never shown.</p>
+<svg viewBox="0 0 620 310" class="chart" role="img" aria-label="Adjusted pay gap by department"><line class="grid" x1="347.4" x2="347.4" y1="0" y2="284"/><line class="thr" x1="386.8" x2="386.8" y1="0" y2="284"/><text x="390.8" y="300">5% threshold</text><text x="347.4" y="300" text-anchor="middle">0</text><text x="140" y="18" text-anchor="end">People</text><line class="ci" x1="307.6" x2="573.2" y1="14" y2="14"/><circle class="dot" cx="453.2" cy="14" r="5"><title>People: 13.4%</title></circle><text x="140" y="48" text-anchor="end">Customer Success</text><line class="ci" x1="385.9" x2="507.4" y1="44" y2="44"/><circle class="warn" cx="449.3" cy="44" r="5"><title>Customer Success: 12.9%</title></circle><text x="140" y="78" text-anchor="end">Data &amp; Analytics</text><line class="ci" x1="369.2" x2="448.7" y1="74" y2="74"/><circle class="warn" cx="410.1" cy="74" r="5"><title>Data & Analytics: 7.9%</title></circle><text x="140" y="108" text-anchor="end">Marketing</text><line class="ci" x1="256.2" x2="483.7" y1="104" y2="104"/><circle class="dot" cx="378.5" cy="104" r="5"><title>Marketing: 3.9%</title></circle><text x="140" y="138" text-anchor="end">Product</text><line class="ci" x1="237.8" x2="446.4" y1="134" y2="134"/><circle class="dot" cx="348.9" cy="134" r="5"><title>Product: 0.2%</title></circle><text x="140" y="168" text-anchor="end">Engineering</text><line class="ci" x1="288.1" x2="396.9" y1="164" y2="164"/><circle class="dot" cx="344.4" cy="164" r="5"><title>Engineering: -0.4%</title></circle><text x="140" y="198" text-anchor="end">Sales</text><line class="ci" x1="233.6" x2="393.6" y1="194" y2="194"/><circle class="dot" cx="317.4" cy="194" r="5"><title>Sales: -3.8%</title></circle><text x="140" y="228" text-anchor="end">Design</text><line class="ci" x1="184.3" x2="408.5" y1="224" y2="224"/><circle class="dot" cx="303.9" cy="224" r="5"><title>Design: -5.5%</title></circle><text x="140" y="258" text-anchor="end">Finance</text><line class="ci" x1="209.5" x2="340.0" y1="254" y2="254"/><circle class="dot" cx="277.2" cy="254" r="5"><title>Finance: -8.9%</title></circle></svg></section>
+<div class="two">
+<section><h2>Self-service assistant</h2><p class="sub">Questions answered from the handbook, own data only.</p>
+<div class="scroll"><table><thead><tr><th>Set</th><th>Correct</th><th>Answered wrongly</th><th>Handed over</th></tr></thead>
+<tbody><tr><td>Development</td><td>30 of 30</td><td>0</td>
+<td>0</td></tr><tr><td>Held-out v1, first run</td><td>19 of 40</td><td>1</td><td>12</td></tr><tr><td>Held-out v1, latest</td><td>21 of 40</td><td>0</td><td>10</td></tr></tbody></table></div></section>
+<section><h2>Payroll sync</h2><p class="sub">Run twice against the provider stand-in.</p>
+<div class="scroll"><table><tbody><tr><td>First run</td><td>18 items</td></tr>
+<tr><td>To payroll provider</td><td>4</td></tr><tr><td>To People team</td><td>14</td></tr>
+<tr><td>Second run</td><td>0 items</td></tr></tbody></table></div></section>
+</div>
+<footer>Generated by <code>pis report</code>. Leadership reporting lives in Tableau: <code>reports/tableau/people.hyper</code>.</footer>
+</main></body></html>

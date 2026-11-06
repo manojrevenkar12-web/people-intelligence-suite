@@ -30,8 +30,11 @@ def pseudonym(employee_id: str, key: str | None = None) -> str:
     return "P-" + hmac.new(key.encode(), employee_id.encode(), hashlib.sha256).hexdigest()[:12]
 
 
-def pseudonymise(df: pd.DataFrame, columns: tuple[str, ...] = ("employee_id",),
-                 drop: tuple[str, ...] = ("display_name", "email", "manager_id")) -> pd.DataFrame:
+def pseudonymise(
+    df: pd.DataFrame,
+    columns: tuple[str, ...] = ("employee_id",),
+    drop: tuple[str, ...] = ("display_name", "email", "manager_id"),
+) -> pd.DataFrame:
     out = df.drop(columns=[c for c in drop if c in df.columns]).copy()
     for c in columns:
         if c in out.columns:
@@ -73,9 +76,15 @@ class AuditLog:
         return json.loads(last)["hash"]
 
     def append(self, actor: str, action: str, subject: str | None, purpose: str, **extra: Any) -> dict[str, Any]:
-        entry = {"ts": round(time.time(), 3), "actor": actor, "action": action,
-                 "subject": pseudonym(subject) if subject else None, "purpose": purpose, **extra,
-                 "prev": self._last_hash()}
+        entry = {
+            "ts": round(time.time(), 3),
+            "actor": actor,
+            "action": action,
+            "subject": pseudonym(subject) if subject else None,
+            "purpose": purpose,
+            **extra,
+            "prev": self._last_hash(),
+        }
         entry["hash"] = hashlib.sha256(json.dumps(entry, sort_keys=True).encode()).hexdigest()
         with self.path.open("a") as f:
             f.write(json.dumps(entry, sort_keys=True) + "\n")

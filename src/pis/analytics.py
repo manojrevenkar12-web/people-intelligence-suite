@@ -36,10 +36,14 @@ def pay_gap(gender_client: HiBobClient) -> dict[str, Any]:
     resid = y - X.values @ beta
     sigma2 = resid @ resid / (len(y) - X.shape[1])
     se = float(np.sqrt(sigma2 * np.linalg.inv(X.values.T @ X.values)[1, 1]))
-    overall = {"adjusted_gap": round(float(1 - np.exp(beta[1])), 4), "se": round(se, 4),
-               "raw_gap": round(float(1 - mf.loc[mf.female == 1, "fte_base"].median()
-                                      / mf.loc[mf.female == 0, "fte_base"].median()), 4),
-               "people": int(len(mf))}
+    overall = {
+        "adjusted_gap": round(float(1 - np.exp(beta[1])), 4),
+        "se": round(se, 4),
+        "raw_gap": round(
+            float(1 - mf.loc[mf.female == 1, "fte_base"].median() / mf.loc[mf.female == 0, "fte_base"].median()), 4
+        ),
+        "people": int(len(mf)),
+    }
     rows = []
     for (dept, level), grp in mf.groupby(["department", "level"]):
         nf, nm = int((grp.female == 1).sum()), int((grp.female == 0).sum())
@@ -47,11 +51,20 @@ def pay_gap(gender_client: HiBobClient) -> dict[str, Any]:
             rows.append({"department": dept, "level": level, "suppressed": True})
             continue
         # within one category, adjust for country by comparing to each country's male median
-        ratio = grp.apply(lambda r: r.fte_base / grp[(grp.female == 0) & (grp.country == r.country)].fte_base.median()
-                          if ((grp.female == 0) & (grp.country == r.country)).any() else np.nan, axis=1)
+        male_median = grp[grp.female == 0].groupby("country").fte_base.median()
+        ratio = grp.fte_base / grp.country.map(male_median)
         gap = float(1 - ratio[grp.female == 1].median())
-        rows.append({"department": dept, "level": level, "suppressed": False, "women": nf, "men": nm,
-                     "gap": round(gap, 4), "flag": gap >= cfg["threshold"]})
+        rows.append(
+            {
+                "department": dept,
+                "level": level,
+                "suppressed": False,
+                "women": nf,
+                "men": nm,
+                "gap": round(gap, 4),
+                "flag": gap >= cfg["threshold"],
+            }
+        )
     by_dept = []
     for dept, grp in mf.groupby("department"):
         Xd = pd.get_dummies(grp[["level", "country"]], drop_first=True).astype(float)
@@ -69,13 +82,27 @@ def pay_gap(gender_client: HiBobClient) -> dict[str, Any]:
         gap = float(1 - np.exp(b[1]))
         low = float(1 - np.exp(b[1] + 1.645 * se_d))  # 90% interval on the gap
         high = float(1 - np.exp(b[1] - 1.645 * se_d))
-        by_dept.append({"department": dept, "suppressed": False, "women": nf, "men": nm,
-                        "adjusted_gap": round(gap, 4), "interval": [round(low, 4), round(high, 4)],
-                        "over_threshold": gap >= cfg["threshold"],
-                        "evidence": low > 0})
-    return {"available": True, "overall": overall, "by_department": by_dept, "categories": rows,
-            "threshold": cfg["threshold"], "min_group": cfg["min_group"],
-            "non_binary_reported_separately": "suppressed below the minimum group size"}
+        by_dept.append(
+            {
+                "department": dept,
+                "suppressed": False,
+                "women": nf,
+                "men": nm,
+                "adjusted_gap": round(gap, 4),
+                "interval": [round(low, 4), round(high, 4)],
+                "over_threshold": gap >= cfg["threshold"],
+                "evidence": low > 0,
+            }
+        )
+    return {
+        "available": True,
+        "overall": overall,
+        "by_department": by_dept,
+        "categories": rows,
+        "threshold": cfg["threshold"],
+        "min_group": cfg["min_group"],
+        "non_binary_reported_separately": "suppressed below the minimum group size",
+    }
 
 
 def explain_gl_breaks() -> list[dict[str, Any]]:
@@ -89,8 +116,7 @@ def explain_gl_breaks() -> list[dict[str, Any]]:
         prev = None
         for _, r in w.iterrows():
             if prev is not None and r.department != prev:
-                moves.append({"employee_id": emp, "from": prev, "to": r.department,
-                              "month": str(r.effective_date)[:7]})
+                moves.append({"employee_id": emp, "from": prev, "to": r.department, "month": str(r.effective_date)[:7]})
             prev = r.department
     out = []
     for (month, country), f in flagged.groupby(["month", "country"]):
@@ -100,14 +126,25 @@ def explain_gl_breaks() -> list[dict[str, Any]]:
                 if abs(u.difference + o.difference) > 1:
                     continue
                 # Finance booked cost to o.department that HiBob places in u.department: someone who moved u <- o
-                cands = [m for m in moves if m["from"] == o.department and m["to"] == u.department
-                         and m["month"] <= month]
+                cands = [
+                    m for m in moves if m["from"] == o.department and m["to"] == u.department and m["month"] <= month
+                ]
                 cost = recon[(recon.month == month) & (recon.country == country) & recon.paid]
-                hit = [m for m in cands
-                       if abs(float(cost[cost.employee_id == m["employee_id"]].employer_cost.sum()) + u.difference) <= 1]
-                out.append({"month": month, "country": country, "booked_to": o.department,
-                            "belongs_to": u.department, "amount": round(float(o.difference), 2),
-                            "explained_by": [m["employee_id"] for m in hit]})
+                hit = [
+                    m
+                    for m in cands
+                    if abs(float(cost[cost.employee_id == m["employee_id"]].employer_cost.sum()) + u.difference) <= 1
+                ]
+                out.append(
+                    {
+                        "month": month,
+                        "country": country,
+                        "booked_to": o.department,
+                        "belongs_to": u.department,
+                        "amount": round(float(o.difference), 2),
+                        "explained_by": [m["employee_id"] for m in hit],
+                    }
+                )
     return out
 
 
@@ -116,20 +153,29 @@ def workforce_summary() -> dict[str, Any]:
     hc = mart("fct_headcount_monthly")
     months = sorted(hc.month.unique())
     last = p["month"]
-    window = months[-p["attrition_window_months"]:]
+    window = months[-p["attrition_window_months"] :]
     w = hc[hc.month.isin(window)]
     avg_head = w.groupby("month").headcount.sum().mean()
     by_dept = []
     for dept, g in w.groupby("department"):
         avg = g.groupby("month").headcount.sum().mean()
-        by_dept.append({"department": dept, "headcount": int(hc[(hc.month == last) & (hc.department == dept)]
-                                                             .headcount.sum()),
-                        "leavers_12m": int(g.leavers.sum()), "voluntary_12m": int(g.voluntary_leavers.sum()),
-                        "attrition_12m": round(float(g.leavers.sum() / avg), 3) if avg else None})
+        by_dept.append(
+            {
+                "department": dept,
+                "headcount": int(hc[(hc.month == last) & (hc.department == dept)].headcount.sum()),
+                "leavers_12m": int(g.leavers.sum()),
+                "voluntary_12m": int(g.voluntary_leavers.sum()),
+                "attrition_12m": round(float(g.leavers.sum() / avg), 3) if avg else None,
+            }
+        )
     trend = hc.groupby("month")[["headcount", "hires", "leavers"]].sum().reset_index()
-    return {"month": last, "headcount": int(hc[hc.month == last].headcount.sum()),
-            "fte": float(hc[hc.month == last].fte.sum()),
-            "attrition_12m": round(float(w.leavers.sum() / avg_head), 3),
-            "voluntary_attrition_12m": round(float(w.voluntary_leavers.sum() / avg_head), 3),
-            "by_department": by_dept, "trend": trend.to_dict("records"),
-            "by_country": hc[hc.month == last].groupby("country").headcount.sum().to_dict()}
+    return {
+        "month": last,
+        "headcount": int(hc[hc.month == last].headcount.sum()),
+        "fte": float(hc[hc.month == last].fte.sum()),
+        "attrition_12m": round(float(w.leavers.sum() / avg_head), 3),
+        "voluntary_attrition_12m": round(float(w.voluntary_leavers.sum() / avg_head), 3),
+        "by_department": by_dept,
+        "trend": trend.to_dict("records"),
+        "by_country": hc[hc.month == last].groupby("country").headcount.sum().to_dict(),
+    }

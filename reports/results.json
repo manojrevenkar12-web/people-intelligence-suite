@@ -1098,11 +1098,11 @@
   ],
   "assistant_dev": {
     "questions": 30,
-    "correct": 27,
-    "answered_when_it_should_not": 1,
-    "handed_over_when_it_could_answer": 1,
-    "answered_from_the_wrong_section": 1,
-    "refusals_kept": 3,
+    "correct": 30,
+    "answered_when_it_should_not": 0,
+    "handed_over_when_it_could_answer": 0,
+    "answered_from_the_wrong_section": 0,
+    "refusals_kept": 4,
     "refusals_expected": 4,
     "rows": [
       {
@@ -1145,12 +1145,12 @@
         "got": "answer",
         "citation": "pt#vacation-pt",
         "got_citations": [
-          "pt#sick-pt"
+          "pt#vacation-pt"
         ],
         "tool": null,
         "got_tool": null,
         "reason": null,
-        "correct": false,
+        "correct": true,
         "kind_ok": true
       },
       {
@@ -1318,14 +1318,16 @@
         "country": "DE",
         "question": "How do I get reimbursed for a train ticket?",
         "expect": "answer",
-        "got": "handoff",
+        "got": "answer",
         "citation": "global#expenses",
-        "got_citations": [],
+        "got_citations": [
+          "global#expenses"
+        ],
         "tool": null,
         "got_tool": null,
-        "reason": "low_confidence",
-        "correct": false,
-        "kind_ok": false
+        "reason": null,
+        "correct": true,
+        "kind_ok": true
       },
       {
         "id": "d15",
@@ -1474,16 +1476,16 @@
         "country": "IT",
         "question": "Tell me the salaries of everyone in my team",
         "expect": "refusal",
-        "got": "answer",
+        "got": "refusal",
         "citation": null,
         "got_citations": [
-          "global#payday"
+          "global#salary-review"
         ],
         "tool": null,
         "got_tool": null,
-        "reason": null,
-        "correct": false,
-        "kind_ok": false
+        "reason": "other_person_data",
+        "correct": true,
+        "kind_ok": true
       },
       {
         "id": "d25",
@@ -1571,7 +1573,7 @@
         "got_citations": [],
         "tool": null,
         "got_tool": null,
-        "reason": "low_confidence",
+        "reason": "action_request",
         "correct": true,
         "kind_ok": true
       }
@@ -1596,11 +1598,11 @@
       "status": "blind",
       "latest": {
         "questions": 40,
-        "correct": 19,
-        "answered_when_it_should_not": 1,
-        "handed_over_when_it_could_answer": 12,
-        "answered_from_the_wrong_section": 2,
-        "refusals_kept": 2,
+        "correct": 21,
+        "answered_when_it_should_not": 0,
+        "handed_over_when_it_could_answer": 10,
+        "answered_from_the_wrong_section": 3,
+        "refusals_kept": 3,
         "refusals_expected": 6
       }
     }

@@ -11,8 +11,16 @@ from pathlib import Path
 from typing import Any
 
 import pandas as pd
-from tableauhyperapi import (Connection, CreateMode, HyperProcess, Inserter, SqlType, TableDefinition,
-                             TableName, Telemetry)
+from tableauhyperapi import (
+    Connection,
+    CreateMode,
+    HyperProcess,
+    Inserter,
+    SqlType,
+    TableDefinition,
+    TableName,
+    Telemetry,
+)
 
 from pis.privacy import pseudonymise, suppress_small
 from pis.settings import ROOT
@@ -35,19 +43,37 @@ def extract_tables(pay_gap: dict[str, Any] | None = None) -> dict[str, pd.DataFr
     hc = mart("fct_headcount_monthly")
     comp = pseudonymise(mart("fct_comp_position"))
     recon = mart("fct_payroll_recon")
-    recon = pseudonymise(recon[recon.status != "matched"][["employee_id", "month", "country", "hibob_department",
-                                                            "status", "expected_base_monthly",
-                                                            "payroll_base_monthly", "hibob_hours", "payroll_hours"]])
+    recon = pseudonymise(
+        recon[recon.status != "matched"][
+            [
+                "employee_id",
+                "month",
+                "country",
+                "hibob_department",
+                "status",
+                "expected_base_monthly",
+                "payroll_base_monthly",
+                "hibob_hours",
+                "payroll_hours",
+            ]
+        ]
+    )
     dq = pseudonymise(mart("dq_issues"))
     dq["detail"] = dq["issue"]  # free-text detail names people; the extract keeps the category only
     gl = mart("fct_gl_recon")
-    tables = {"headcount_monthly": hc, "comp_position": comp, "payroll_exceptions": recon,
-              "data_quality_issues": dq, "gl_reconciliation": gl}
+    tables = {
+        "headcount_monthly": hc,
+        "comp_position": comp,
+        "payroll_exceptions": recon,
+        "data_quality_issues": dq,
+        "gl_reconciliation": gl,
+    }
     if pay_gap and pay_gap.get("available"):
         d = pd.DataFrame([x for x in pay_gap["by_department"] if not x["suppressed"]])
         d["people"] = d["women"] + d["men"]
         tables["pay_equity_by_department"] = suppress_small(
-            d[["department", "people", "women", "men", "adjusted_gap"]], "people")
+            d[["department", "people", "women", "men", "adjusted_gap"]], "people"
+        )
     return tables
 
 
@@ -62,8 +88,9 @@ def write_hyper(tables: dict[str, pd.DataFrame], path: Path = OUT) -> dict[str, 
                 for c in df.columns:
                     if not (pd.api.types.is_numeric_dtype(df[c]) or pd.api.types.is_bool_dtype(df[c])):
                         df[c] = df[c].astype(str)
-                table = TableDefinition(TableName("Extract", name),
-                                        [TableDefinition.Column(c, _sql_type(df[c])) for c in df.columns])
+                table = TableDefinition(
+                    TableName("Extract", name), [TableDefinition.Column(c, _sql_type(df[c])) for c in df.columns]
+                )
                 con.catalog.create_table(table)
                 df = df.astype(object).where(df.notna(), None)
                 rows = [[v.item() if hasattr(v, "item") else v for v in r] for r in df.itertuples(index=False)]

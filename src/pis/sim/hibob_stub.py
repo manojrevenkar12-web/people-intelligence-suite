@@ -44,12 +44,19 @@ FIELD_GETTERS = {
 }
 
 
-def create_app(data_dir: Path, user: str = "SERVICE-PIS", token: str = "test-token",
-               categories: set[str] | None = None, throttle_every: int = 0) -> FastAPI:
+def create_app(
+    data_dir: Path,
+    user: str = "SERVICE-PIS",
+    token: str = "test-token",
+    categories: set[str] | None = None,
+    throttle_every: int = 0,
+) -> FastAPI:
     hibob = data_dir / "sources" / "hibob"
     people = json.loads((hibob / "people.json").read_text())
-    tables = {"salaries": json.loads((hibob / "salaries.json").read_text()),
-              "work": json.loads((hibob / "work.json").read_text())}
+    tables = {
+        "salaries": json.loads((hibob / "salaries.json").read_text()),
+        "work": json.loads((hibob / "work.json").read_text()),
+    }
     timeoff = {t["employeeId"]: t for t in json.loads((hibob / "timeoff.json").read_text())}
     perms = categories or DEFAULT_PERMS
     expected = "Basic " + base64.b64encode(f"{user}:{token}".encode()).decode()
@@ -105,7 +112,7 @@ def create_app(data_dir: Path, user: str = "SERVICE-PIS", token: str = "test-tok
         if table == "salaries" and "payroll" not in perms:
             return {"results": [], "response_metadata": {"next_cursor": None}}
         start = int(cursor or 0)
-        page = tables[table][start:start + limit]
+        page = tables[table][start : start + limit]
         nxt = start + limit if start + limit < len(tables[table]) else None
         return {"results": page, "response_metadata": {"next_cursor": str(nxt) if nxt is not None else None}}
 

@@ -9,3 +9,4 @@ __pycache__/
 warehouse/target/
 warehouse/logs/
 .venv/
+hyperd*.log

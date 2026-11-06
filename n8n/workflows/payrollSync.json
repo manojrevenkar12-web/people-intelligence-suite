@@ -1,0 +1,248 @@
+{
+  "id": "payrollSync",
+  "name": "Payroll sync",
+  "nodes": [
+    {
+      "id": "weekday-06:30",
+      "name": "Weekday 06:30",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        0,
+        0
+      ],
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "cronExpression",
+              "expression": "30 6 * * 1-5"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "read-change-plan",
+      "name": "Read change plan",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        240,
+        0
+      ],
+      "parameters": {
+        "method": "GET",
+        "url": "={{ $env.PIS_API_URL }}/sync/plan",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth"
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "pisApiToken",
+          "name": "people-intelligence API token"
+        }
+      }
+    },
+    {
+      "id": "one-item-each",
+      "name": "One item each",
+      "type": "n8n-nodes-base.splitOut",
+      "typeVersion": 1,
+      "position": [
+        480,
+        0
+      ],
+      "parameters": {
+        "fieldToSplitOut": "items"
+      }
+    },
+    {
+      "id": "mechanical-fix?",
+      "name": "Mechanical fix?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [
+        720,
+        0
+      ],
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true
+          },
+          "combinator": "and",
+          "conditions": [
+            {
+              "leftValue": "={{ $json.route }}",
+              "rightValue": "payroll",
+              "operator": {
+                "type": "string",
+                "operation": "equals"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "send-to-payroll-provider",
+      "name": "Send to payroll provider",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        960,
+        -120
+      ],
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $env.PAYROLL_API_URL }}/change-requests",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Idempotency-Key",
+              "value": "={{ $json.key }}"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify($json) }}",
+        "options": {
+          "retry": {
+            "maxTries": 3,
+            "waitBetweenTries": 2000
+          }
+        }
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "payrollApi",
+          "name": "payroll provider API"
+        }
+      }
+    },
+    {
+      "id": "send-to-people-team",
+      "name": "Send to People team",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        960,
+        120
+      ],
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $env.HELPDESK_URL }}/tickets",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify({ queue: 'people-ops', action: $json.action, employee: $json.employee_id, reason: $json.reason, key: $json.key }) }}"
+      }
+    },
+    {
+      "id": "acknowledge",
+      "name": "Acknowledge",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        1200,
+        0
+      ],
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $env.PIS_API_URL }}/sync/ack",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify({ key: $('One item each').item.json.key, outcome: $('One item each').item.json.route === 'payroll' ? 'sent' : 'queued', reference: $json.id || null }) }}"
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "pisApiToken",
+          "name": "people-intelligence API token"
+        }
+      }
+    }
+  ],
+  "connections": {
+    "Weekday 06:30": {
+      "main": [
+        [
+          {
+            "node": "Read change plan",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Read change plan": {
+      "main": [
+        [
+          {
+            "node": "One item each",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "One item each": {
+      "main": [
+        [
+          {
+            "node": "Mechanical fix?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Mechanical fix?": {
+      "main": [
+        [
+          {
+            "node": "Send to payroll provider",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Send to People team",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Send to payroll provider": {
+      "main": [
+        [
+          {
+            "node": "Acknowledge",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Send to People team": {
+      "main": [
+        [
+          {
+            "node": "Acknowledge",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "active": false
+}

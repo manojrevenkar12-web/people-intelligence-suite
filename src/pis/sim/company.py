@@ -21,18 +21,41 @@ import yaml
 ROOT = Path(__file__).resolve().parents[3]
 
 FIRST = {
-    "DE": (["Lena", "Anna", "Marie", "Julia", "Laura", "Sophie", "Lea", "Hannah", "Katrin", "Nina"],
-           ["Jonas", "Lukas", "Felix", "Paul", "Max", "Tim", "Jan", "Niklas", "Moritz", "Tobias"]),
-    "ES": (["Lucía", "María", "Paula", "Carmen", "Sara", "Elena", "Marta", "Irene"],
-           ["Hugo", "Pablo", "Daniel", "Alejandro", "Javier", "Diego", "Sergio", "Álvaro"]),
-    "PT": (["Beatriz", "Inês", "Mariana", "Ana", "Joana", "Rita", "Catarina", "Sofia"],
-           ["João", "Rodrigo", "Tiago", "Duarte", "Miguel", "Pedro", "Rui", "Nuno"]),
-    "IT": (["Giulia", "Chiara", "Francesca", "Sara", "Martina", "Elisa", "Valentina", "Alessia"],
-           ["Luca", "Marco", "Matteo", "Andrea", "Lorenzo", "Davide", "Simone", "Federico"]),
+    "DE": (
+        ["Lena", "Anna", "Marie", "Julia", "Laura", "Sophie", "Lea", "Hannah", "Katrin", "Nina"],
+        ["Jonas", "Lukas", "Felix", "Paul", "Max", "Tim", "Jan", "Niklas", "Moritz", "Tobias"],
+    ),
+    "ES": (
+        ["Lucía", "María", "Paula", "Carmen", "Sara", "Elena", "Marta", "Irene"],
+        ["Hugo", "Pablo", "Daniel", "Alejandro", "Javier", "Diego", "Sergio", "Álvaro"],
+    ),
+    "PT": (
+        ["Beatriz", "Inês", "Mariana", "Ana", "Joana", "Rita", "Catarina", "Sofia"],
+        ["João", "Rodrigo", "Tiago", "Duarte", "Miguel", "Pedro", "Rui", "Nuno"],
+    ),
+    "IT": (
+        ["Giulia", "Chiara", "Francesca", "Sara", "Martina", "Elisa", "Valentina", "Alessia"],
+        ["Luca", "Marco", "Matteo", "Andrea", "Lorenzo", "Davide", "Simone", "Federico"],
+    ),
 }
 LAST = {
-    "DE": ["Schmidt", "Fischer", "Weber", "Wagner", "Becker", "Hoffmann", "Koch", "Richter", "Klein", "Wolf",
-           "Neumann", "Schwarz", "Krüger", "Hartmann", "Lange"],
+    "DE": [
+        "Schmidt",
+        "Fischer",
+        "Weber",
+        "Wagner",
+        "Becker",
+        "Hoffmann",
+        "Koch",
+        "Richter",
+        "Klein",
+        "Wolf",
+        "Neumann",
+        "Schwarz",
+        "Krüger",
+        "Hartmann",
+        "Lange",
+    ],
     "ES": ["García", "Martínez", "López", "Sánchez", "Romero", "Navarro", "Torres", "Ruiz", "Moreno", "Ortega"],
     "PT": ["Silva", "Santos", "Ferreira", "Pereira", "Costa", "Oliveira", "Rodrigues", "Martins", "Sousa", "Lopes"],
     "IT": ["Rossi", "Russo", "Ferrari", "Esposito", "Bianchi", "Romano", "Colombo", "Ricci", "Marino", "Greco"],
@@ -198,8 +221,9 @@ class Company:
                         base = max(base * 1.08, self._band(p.country, p.work[-1][1], new_lvl) * 0.9)
                     p.salary.append((m, round(base * (1 + max(0.0, self.rng.normal(c["merit_mean"], 0.015))), -2)))
             if self.rng.random() < 0.35:  # an internal transfer
-                movers = [p for p in active if p.end is None and p.start < m - timedelta(days=200)
-                          and p.work[-1][0] < m]
+                movers = [
+                    p for p in active if p.end is None and p.start < m - timedelta(days=200) and p.work[-1][0] < m
+                ]
                 if movers:
                     p = movers[int(self.rng.integers(len(movers)))]
                     new_dept = self._pick({k: v for k, v in c["departments"].items() if k != p.work[-1][1]})
@@ -214,8 +238,15 @@ class Company:
                 continue
             dept = p.department_on(end if p.end is None else p.end)
             mine = LEVELS.index(p.work[-1][3])
-            peers = [q for q in self.people.values() if q is not p and q is not self.ceo and q.end is None
-                     and q.department_on(end) == dept and LEVELS.index(q.work[-1][3]) > mine]
+            peers = [
+                q
+                for q in self.people.values()
+                if q is not p
+                and q is not self.ceo
+                and q.end is None
+                and q.department_on(end) == dept
+                and LEVELS.index(q.work[-1][3]) > mine
+            ]
             if not peers:
                 p.reports_to = self.ceo.id
                 continue
@@ -236,23 +267,38 @@ class Company:
             return [pool[int(i)] for i in idx]
 
         leavers = [p for p in self.people.values() if p.end and p.end < last and p.end >= self.months[1]]
-        self.paid_after = {p.id: next_month(date(p.end.year, p.end.month, 1)) for p in choose(leavers, d["leaver_paid"])}
+        self.paid_after = {
+            p.id: next_month(date(p.end.year, p.end.month, 1)) for p in choose(leavers, d["leaver_paid"])
+        }
         T["leaver_paid"] = [{"employee_id": k, "month": v.isoformat()[:7]} for k, v in self.paid_after.items()]
 
         joiners = [p for p in self.people.values() if p.start >= self.months[1] and p.end is None]
         self.joiner_missing = {p.id: date(p.start.year, p.start.month, 1) for p in choose(joiners, d["joiner_missing"])}
         T["joiner_missing"] = [{"employee_id": k, "month": v.isoformat()[:7]} for k, v in self.joiner_missing.items()]
 
-        changed = [p for p in self.people.values() if len(p.salary) > 1 and p.id not in self.paid_after
-                   and p.salary[-1][0] >= self.months[0] and (p.end is None or p.end >= p.salary[-1][0])]
+        changed = [
+            p
+            for p in self.people.values()
+            if len(p.salary) > 1
+            and p.id not in self.paid_after
+            and p.salary[-1][0] >= self.months[0]
+            and (p.end is None or p.end >= p.salary[-1][0])
+        ]
         self.raise_missing: dict[str, tuple[date, float]] = {}
         for p in choose(changed, d["raise_not_in_payroll"]):
             self.raise_missing[p.id] = (p.salary[-1][0], p.salary[-2][1])
-        T["raise_not_in_payroll"] = [{"employee_id": k, "from_month": v[0].isoformat()[:7]}
-                                     for k, v in self.raise_missing.items()]
+        T["raise_not_in_payroll"] = [
+            {"employee_id": k, "from_month": v[0].isoformat()[:7]} for k, v in self.raise_missing.items()
+        ]
 
-        part = [p for p in self.people.values() if p.hours < 40 and p.id not in self.raise_missing
-                and p.id not in self.paid_after and p.id not in self.joiner_missing]
+        part = [
+            p
+            for p in self.people.values()
+            if p.hours < 40
+            and p.id not in self.raise_missing
+            and p.id not in self.paid_after
+            and p.id not in self.joiner_missing
+        ]
         self.fte_wrong = {p.id for p in choose(part, d["fte_mismatch"])}
         T["fte_mismatch"] = [{"employee_id": k} for k in self.fte_wrong]
 
@@ -272,26 +318,52 @@ class Company:
         T["duplicate_rehire"] = []
         old = [p for p in self.people.values() if p.end and p.end < self.months[-6]]
         for p in choose(old, d["duplicate_rehire"]):
-            q = Person(self._id(), p.first, p.surname, p.email.replace("@", ".rehire@"), p.gender, p.birth,
-                       p.country, p.department, p.level, p.title, self.months[-3] + timedelta(days=14), p.hours)
+            q = Person(
+                self._id(),
+                p.first,
+                p.surname,
+                p.email.replace("@", ".rehire@"),
+                p.gender,
+                p.birth,
+                p.country,
+                p.department,
+                p.level,
+                p.title,
+                self.months[-3] + timedelta(days=14),
+                p.hours,
+            )
             q.salary = [(q.start, p.salary[-1][1])]
             q.work = [(q.start, p.department, p.title, p.level)]
             q.reports_to = self.ceo.id
             self.people[q.id] = q
             T["duplicate_rehire"].append({"employee_id": q.id, "same_as": p.id})
 
-        moved = [p for p in self.people.values() if len({w[1] for w in p.work}) > 1 and p.end is None
-                 and p.id not in self.raise_missing and p.id not in self.fte_wrong]
+        moved = [
+            p
+            for p in self.people.values()
+            if len({w[1] for w in p.work}) > 1
+            and p.end is None
+            and p.id not in self.raise_missing
+            and p.id not in self.fte_wrong
+        ]
         self.gl_old: dict[str, tuple[date, str]] = {}
         for p in choose(moved, d["gl_old_cost_center"]):
             last_move = max(i for i, w in enumerate(p.work) if w[1] != p.work[i - 1][1]) if len(p.work) > 1 else 1
             self.gl_old[p.id] = (p.work[last_move][0], p.work[last_move - 1][1])
-        T["gl_old_cost_center"] = [{"employee_id": k, "from_month": v[0].isoformat()[:7], "old_department": v[1]}
-                                   for k, v in self.gl_old.items()]
+        T["gl_old_cost_center"] = [
+            {"employee_id": k, "from_month": v[0].isoformat()[:7], "old_department": v[1]}
+            for k, v in self.gl_old.items()
+        ]
         # approved in the compensation tool, never entered in HiBob (so payroll never paid it either)
         self.cycle = max(m for m in self.months if m.month == self.cfg["review_month"])
-        reviewed = [p for p in self.people.values() if p.end is None and p.id not in self.raise_missing
-                    and p.id not in self.gl_old and any(e == self.cycle for e, _ in p.salary)]
+        reviewed = [
+            p
+            for p in self.people.values()
+            if p.end is None
+            and p.id not in self.raise_missing
+            and p.id not in self.gl_old
+            and any(e == self.cycle for e, _ in p.salary)
+        ]
         self.comp_missing: dict[str, float] = {}
         for p in choose(reviewed, d["comp_not_in_hibob"]):
             self.comp_missing[p.id] = next(v for e, v in p.salary if e == self.cycle)
@@ -323,10 +395,19 @@ class Company:
                 gross = round(monthly * frac, 2)
                 dept = p.department_on(me) if not extra else p.department_on(p.end)
                 gl_dept = self.gl_old[p.id][1] if p.id in self.gl_old and m >= self.gl_old[p.id][0] else dept
-                rows.append({"month": m.isoformat()[:7], "employee_id": p.id, "country": p.country,
-                             "department": dept, "gl_department": gl_dept, "weekly_hours": hours,
-                             "base_monthly": round(monthly, 2), "gross": gross,
-                             "employer_cost": round(gross * (1 + rate[p.country]), 2)})
+                rows.append(
+                    {
+                        "month": m.isoformat()[:7],
+                        "employee_id": p.id,
+                        "country": p.country,
+                        "department": dept,
+                        "gl_department": gl_dept,
+                        "weekly_hours": hours,
+                        "base_monthly": round(monthly, 2),
+                        "gross": gross,
+                        "employer_cost": round(gross * (1 + rate[p.country]), 2),
+                    }
+                )
         return rows
 
     # ----------------------------------------------------------------------------------- writers
@@ -339,26 +420,60 @@ class Company:
         people = []
         for p in self.people.values():
             status = "Active" if p.end is None or p.end >= last else "Inactive"
-            people.append({
-                "id": p.id, "firstName": p.first, "surname": p.surname, "displayName": f"{p.first} {p.surname}",
-                "email": p.email,
-                "work": {"department": p.department_on(last if p.end is None else p.end), "title": p.work[-1][2],
-                         "site": self.cfg["countries"][p.country]["site"], "startDate": p.start.isoformat(),
-                         "reportsTo": {"id": p.reports_to} if p.reports_to else None,
-                         "customColumns": {"level": p.work[-1][3]}},
-                "internal": {"status": status, "lifecycleStatus": "employed" if status == "Active" else "terminated",
-                             "terminationDate": p.end.isoformat() if p.end else None,
-                             "terminationReason": p.reason},
-                "payroll": {"employment": {"type": "Part time" if p.hours < 40 else "Full time",
-                                           "weeklyHours": p.hours, "country": p.country}},
-                "personal": {"gender": p.gender, "birthDate": p.birth.isoformat()},
-            })
+            people.append(
+                {
+                    "id": p.id,
+                    "firstName": p.first,
+                    "surname": p.surname,
+                    "displayName": f"{p.first} {p.surname}",
+                    "email": p.email,
+                    "work": {
+                        "department": p.department_on(last if p.end is None else p.end),
+                        "title": p.work[-1][2],
+                        "site": self.cfg["countries"][p.country]["site"],
+                        "startDate": p.start.isoformat(),
+                        "reportsTo": {"id": p.reports_to} if p.reports_to else None,
+                        "customColumns": {"level": p.work[-1][3]},
+                    },
+                    "internal": {
+                        "status": status,
+                        "lifecycleStatus": "employed" if status == "Active" else "terminated",
+                        "terminationDate": p.end.isoformat() if p.end else None,
+                        "terminationReason": p.reason,
+                    },
+                    "payroll": {
+                        "employment": {
+                            "type": "Part time" if p.hours < 40 else "Full time",
+                            "weeklyHours": p.hours,
+                            "country": p.country,
+                        }
+                    },
+                    "personal": {"gender": p.gender, "birthDate": p.birth.isoformat()},
+                }
+            )
         (src / "hibob" / "people.json").write_text(json.dumps(people, ensure_ascii=False, indent=0))
-        sal = [{"employeeId": p.id, "effectiveDate": e.isoformat(), "base": {"value": v, "currency": "EUR"},
-                "payPeriod": "Annual"} for p in self.people.values() for e, v in p.salary]
+        sal = [
+            {
+                "employeeId": p.id,
+                "effectiveDate": e.isoformat(),
+                "base": {"value": v, "currency": "EUR"},
+                "payPeriod": "Annual",
+            }
+            for p in self.people.values()
+            for e, v in p.salary
+        ]
         (src / "hibob" / "salaries.json").write_text(json.dumps(sal, indent=0))
-        work = [{"employeeId": p.id, "effectiveDate": e.isoformat(), "department": dep, "title": t,
-                 "customColumns": {"level": lv}} for p in self.people.values() for e, dep, t, lv in p.work]
+        work = [
+            {
+                "employeeId": p.id,
+                "effectiveDate": e.isoformat(),
+                "department": dep,
+                "title": t,
+                "customColumns": {"level": lv},
+            }
+            for p in self.people.values()
+            for e, dep, t, lv in p.work
+        ]
         (src / "hibob" / "work.json").write_text(json.dumps(work, indent=0))
         timeoff = []
         for p in sorted(self.people.values(), key=lambda q: q.id):
@@ -366,8 +481,16 @@ class Company:
                 continue
             ent = ENTITLEMENT[p.country] * p.hours / 40
             used = round(float(self.rng.uniform(0.3, 0.95)) * ent, 1)
-            timeoff.append({"employeeId": p.id, "policyType": "Holiday", "year": last.year,
-                            "total": round(ent, 1), "used": used, "balance": round(ent - used, 1)})
+            timeoff.append(
+                {
+                    "employeeId": p.id,
+                    "policyType": "Holiday",
+                    "year": last.year,
+                    "total": round(ent, 1),
+                    "used": used,
+                    "balance": round(ent - used, 1),
+                }
+            )
         (src / "hibob" / "timeoff.json").write_text(json.dumps(timeoff, indent=0))
 
         rows = self.payroll_rows()
@@ -383,21 +506,59 @@ class Company:
             with path.open("w", newline="", encoding="utf-8") as f:
                 if key.startswith("datev"):
                     w = csv.writer(f, delimiter=";")
-                    w.writerow(["Monat", "Mitarbeiter-ID", "Kostenstelle", "Wochenstunden", "Grundgehalt",
-                                "Brutto", "Arbeitgeberkosten"])
+                    w.writerow(
+                        [
+                            "Monat",
+                            "Mitarbeiter-ID",
+                            "Kostenstelle",
+                            "Wochenstunden",
+                            "Grundgehalt",
+                            "Brutto",
+                            "Arbeitgeberkosten",
+                        ]
+                    )
                     for r in rs:
-                        w.writerow([r["month"], r["employee_id"], r["department"], r["weekly_hours"],
-                                    de(r["base_monthly"]), de(r["gross"]), de(r["employer_cost"])])
+                        w.writerow(
+                            [
+                                r["month"],
+                                r["employee_id"],
+                                r["department"],
+                                r["weekly_hours"],
+                                de(r["base_monthly"]),
+                                de(r["gross"]),
+                                de(r["employer_cost"]),
+                            ]
+                        )
                 else:
                     scale = 100 if (rs[0]["month"], rs[0]["country"]) == self.cents else 1
                     w = csv.writer(f)
-                    w.writerow(["pay_period", "employee_ref", "country", "cost_centre", "weekly_hours",
-                                "base_monthly", "gross_pay", "employer_cost", "currency"])
+                    w.writerow(
+                        [
+                            "pay_period",
+                            "employee_ref",
+                            "country",
+                            "cost_centre",
+                            "weekly_hours",
+                            "base_monthly",
+                            "gross_pay",
+                            "employer_cost",
+                            "currency",
+                        ]
+                    )
                     for r in rs:
-                        w.writerow([r["month"], r["employee_id"], r["country"],
-                                    alias.get(r["department"], r["department"]), r["weekly_hours"],
-                                    round(r["base_monthly"] * scale, 2), round(r["gross"] * scale, 2),
-                                    round(r["employer_cost"] * scale, 2), "EUR"])
+                        w.writerow(
+                            [
+                                r["month"],
+                                r["employee_id"],
+                                r["country"],
+                                alias.get(r["department"], r["department"]),
+                                r["weekly_hours"],
+                                round(r["base_monthly"] * scale, 2),
+                                round(r["gross"] * scale, 2),
+                                round(r["employer_cost"] * scale, 2),
+                                "EUR",
+                            ]
+                        )
         gl: dict[tuple[str, str, str], float] = {}
         for r in rows:
             k = (r["month"], r["country"], r["gl_department"])
@@ -414,8 +575,16 @@ class Company:
             new = self.comp_missing.get(p.id) or next((v for e, v in p.salary if e == cycle), None)
             prev = next((v for e, v in reversed(p.salary) if e < cycle), None)
             if new is not None and prev is not None:
-                comp.append({"employee_id": p.id, "cycle": cycle.isoformat()[:7], "current_base": prev,
-                             "approved_base": new, "effective_date": cycle.isoformat(), "status": "approved"})
+                comp.append(
+                    {
+                        "employee_id": p.id,
+                        "cycle": cycle.isoformat()[:7],
+                        "current_base": prev,
+                        "approved_base": new,
+                        "effective_date": cycle.isoformat(),
+                        "status": "approved",
+                    }
+                )
         with (src / "comp" / "cycle.csv").open("w", newline="") as f:
             w = csv.DictWriter(f, fieldnames=list(comp[0]))
             w.writeheader()

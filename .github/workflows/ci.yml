@@ -1,0 +1,19 @@
+name: ci
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -e ".[dev]"
+      - run: ruff check src tests
+      - name: tests (HiBob stand-in, contracts, dbt build, reconciliation, privacy, assistant, sync, n8n)
+        run: pytest -q
+      - name: evaluation and report regenerate cleanly
+        run: |
+          pis evaluate > /dev/null
+          pis report
+          git diff --stat -- reports/heldout

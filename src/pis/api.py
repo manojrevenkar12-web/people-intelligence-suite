@@ -40,16 +40,28 @@ class HiBobPeople:
         return self._by_email.get(email.lower())
 
     def profile(self, employee_id: str) -> dict[str, Any] | None:
-        body = {"fields": ["root.id", "root.displayName", "work.reportsTo", "internal.status",
-                           "payroll.employment.country"], "showInactive": True,
-                "filters": [{"fieldPath": "root.id", "operator": "equals", "values": [employee_id]}]}
+        body = {
+            "fields": [
+                "root.id",
+                "root.displayName",
+                "work.reportsTo",
+                "internal.status",
+                "payroll.employment.country",
+            ],
+            "showInactive": True,
+            "filters": [{"fieldPath": "root.id", "operator": "equals", "values": [employee_id]}],
+        }
         rows = self.client._call("POST", "/v1/people/search", json=body)["employees"]
         if not rows:
             return None
         r = {k[1:].replace("/", "."): v["value"] for k, v in rows[0].items() if k.startswith("/")}
-        return {"employee_id": r["root.id"], "display_name": r.get("root.displayName"),
-                "manager_id": r.get("work.reportsTo"), "status": r.get("internal.status"),
-                "country": r.get("payroll.employment.country")}
+        return {
+            "employee_id": r["root.id"],
+            "display_name": r.get("root.displayName"),
+            "manager_id": r.get("work.reportsTo"),
+            "status": r.get("internal.status"),
+            "country": r.get("payroll.employment.country"),
+        }
 
     def balance(self, employee_id: str) -> dict[str, Any] | None:
         self.audit.append("assistant", "read_timeoff_balance", employee_id, "employee self-service")
@@ -82,19 +94,46 @@ def sync_plan() -> list[dict[str, Any]]:
             action, value = "update_weekly_hours", int(x.hibob_hours)
         else:
             action, value = "add_to_payroll", None
-        items.append({"employee_id": x.employee_id, "country": x.country, "month": month, "action": action,
-                      "value": value, "route": "payroll", "reason": x.status})
+        items.append(
+            {
+                "employee_id": x.employee_id,
+                "country": x.country,
+                "month": month,
+                "action": action,
+                "value": value,
+                "route": "payroll",
+                "reason": x.status,
+            }
+        )
     for _, x in r[r.status == "leaver_paid"].iterrows():  # money already paid out: a person decides on recovery
-        items.append({"employee_id": x.employee_id, "country": x.country, "month": x.month,
-                      "action": "review_overpayment", "value": round(float(x.gross), 2), "route": "people",
-                      "reason": "paid after leaving"})
+        items.append(
+            {
+                "employee_id": x.employee_id,
+                "country": x.country,
+                "month": x.month,
+                "action": "review_overpayment",
+                "value": round(float(x.gross), 2),
+                "route": "people",
+                "reason": "paid after leaving",
+            }
+        )
     for _, x in mart("dq_issues").iterrows():
         if x.issue in ("possible_duplicate", "manager_is_leaver", "missing_manager", "comp_not_in_hibob"):
-            items.append({"employee_id": x.employee_id, "country": None, "month": month,
-                          "action": f"fix_{x.issue}", "value": None, "route": "people", "reason": x.detail})
+            items.append(
+                {
+                    "employee_id": x.employee_id,
+                    "country": None,
+                    "month": month,
+                    "action": f"fix_{x.issue}",
+                    "value": None,
+                    "route": "people",
+                    "reason": x.detail,
+                }
+            )
     for it in items:
-        it["key"] = hashlib.sha256(json.dumps([it["employee_id"], it["action"], it["month"], it["value"]])
-                                   .encode()).hexdigest()[:20]
+        it["key"] = hashlib.sha256(
+            json.dumps([it["employee_id"], it["action"], it["month"], it["value"]]).encode()
+        ).hexdigest()[:20]
     return items
 
 
@@ -112,8 +151,11 @@ def create_app(people: HiBobPeople, token: str | None = None, acks: Path | None 
     def done() -> set[str]:
         if not acks.exists():
             return set()
-        return {json.loads(line)["key"] for line in acks.read_text().splitlines()
-                if json.loads(line)["outcome"] in ("sent", "queued")}
+        return {
+            json.loads(line)["key"]
+            for line in acks.read_text().splitlines()
+            if json.loads(line)["outcome"] in ("sent", "queued")
+        }
 
     @app.get("/health")
     def health() -> dict[str, str]:
@@ -123,8 +165,12 @@ def create_app(people: HiBobPeople, token: str | None = None, acks: Path | None 
     def ask(body: AskIn) -> dict[str, Any]:
         emp = people.resolve(body.email)
         if emp is None:
-            return {"kind": "refusal", "text": "I can only help current employees. Please contact the People team.",
-                    "citations": [], "reason": "unknown_user"}
+            return {
+                "kind": "refusal",
+                "text": "I can only help current employees. Please contact the People team.",
+                "citations": [],
+                "reason": "unknown_user",
+            }
         a = assistant.ask(emp, body.question)
         out = {"kind": a.kind, "text": a.text, "citations": a.citations, "tool": a.tool, "reason": a.reason}
         if a.kind == "handoff":

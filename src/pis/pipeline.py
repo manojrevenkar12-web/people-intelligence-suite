@@ -24,13 +24,18 @@ def hibob_client(throttle_every: int = 0, pay_equity: bool = False) -> HiBobClie
 
     cats = {"root", "personal"} if pay_equity else None  # pay equity may read gender, nothing about pay
     app = create_app(DATA, throttle_every=throttle_every, categories=cats)
-    return HiBobClient("http://hibob.local", "SERVICE-PIS", "test-token", http=TestClient(app),
-                       sleep=lambda s: None)
+    return HiBobClient("http://hibob.local", "SERVICE-PIS", "test-token", http=TestClient(app), sleep=lambda s: None)
 
 
 def run(data: Path | None = None, throttle_every: int = 7) -> dict[str, Any]:
     data = data or DATA
     res = ingest(hibob_client(throttle_every), data / "sources", data / "landing")
     built = dbt_build(data / "landing", data / "warehouse.duckdb")
-    return {"landed": res.landed, "quarantined": len(res.quarantined), "hibob_requests": res.hibob_requests,
-            "hibob_retries": res.hibob_retries, "missing_fields": res.missing_fields, "dbt_nodes": built["nodes"]}
+    return {
+        "landed": res.landed,
+        "quarantined": len(res.quarantined),
+        "hibob_requests": res.hibob_requests,
+        "hibob_retries": res.hibob_retries,
+        "missing_fields": res.missing_fields,
+        "dbt_nodes": built["nodes"],
+    }

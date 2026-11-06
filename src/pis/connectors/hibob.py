@@ -21,10 +21,21 @@ from typing import Any
 import httpx
 
 PEOPLE_FIELDS = [
-    "root.id", "root.displayName", "root.email", "work.department", "work.title", "work.site",
-    "work.startDate", "work.reportsTo", "work.customColumns.level", "internal.status",
-    "internal.terminationDate", "internal.terminationReason", "payroll.employment.type",
-    "payroll.employment.weeklyHours", "payroll.employment.country",
+    "root.id",
+    "root.displayName",
+    "root.email",
+    "work.department",
+    "work.title",
+    "work.site",
+    "work.startDate",
+    "work.reportsTo",
+    "work.customColumns.level",
+    "internal.status",
+    "internal.terminationDate",
+    "internal.terminationReason",
+    "payroll.employment.type",
+    "payroll.employment.weeklyHours",
+    "payroll.employment.country",
 ]
 
 
@@ -36,8 +47,16 @@ class ReadReport:
 
 
 class HiBobClient:
-    def __init__(self, base_url: str, user: str, token: str, http: httpx.Client | None = None,
-                 batch: int = 100, max_retries: int = 5, sleep=time.sleep):  # type: ignore[no-untyped-def]
+    def __init__(
+        self,
+        base_url: str,
+        user: str,
+        token: str,
+        http: httpx.Client | None = None,
+        batch: int = 100,
+        max_retries: int = 5,
+        sleep=time.sleep,
+    ):  # type: ignore[no-untyped-def]
         auth = "Basic " + base64.b64encode(f"{user}:{token}".encode()).decode()
         self.http = http or httpx.Client(base_url=base_url, timeout=30)
         self.http.headers["Authorization"] = auth
@@ -65,8 +84,11 @@ class HiBobClient:
         ids = self.employee_ids(include_inactive)
         out = []
         for i in range(0, len(ids), self.batch):
-            body = {"fields": fields, "showInactive": include_inactive,
-                    "filters": [{"fieldPath": "root.id", "operator": "equals", "values": ids[i:i + self.batch]}]}
+            body = {
+                "fields": fields,
+                "showInactive": include_inactive,
+                "filters": [{"fieldPath": "root.id", "operator": "equals", "values": ids[i : i + self.batch]}],
+            }
             for e in self._call("POST", "/v1/people/search", json=body)["employees"]:
                 row = {k[1:].replace("/", "."): v["value"] for k, v in e.items() if k.startswith("/")}
                 for f in fields:
