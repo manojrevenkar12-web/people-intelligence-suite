@@ -1,0 +1,2018 @@
+[
+{
+"employeeId": "1064780472446129436",
+"policyType": "Holiday",
+"year": 2026,
+"total": 16.5,
+"used": 6.2,
+"balance": 10.3
+},
+{
+"employeeId": "1152128302641442894",
+"policyType": "Holiday",
+"year": 2026,
+"total": 18.0,
+"used": 15.7,
+"balance": 2.3
+},
+{
+"employeeId": "1157599089378761685",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 24.2,
+"balance": 1.8
+},
+{
+"employeeId": "1170879519295035962",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 19.1,
+"balance": 10.9
+},
+{
+"employeeId": "1223460401261552400",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 14.4,
+"balance": 7.6
+},
+{
+"employeeId": "1336002862796653221",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 20.9,
+"balance": 9.1
+},
+{
+"employeeId": "1368055320693209703",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 20.3,
+"balance": 2.7
+},
+{
+"employeeId": "1435943785550724276",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 9.3,
+"balance": 16.7
+},
+{
+"employeeId": "1455590568951246738",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 25.6,
+"balance": 4.4
+},
+{
+"employeeId": "1474013138764029829",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 12.1,
+"balance": 10.9
+},
+{
+"employeeId": "1567502316308940970",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 16.9,
+"balance": 13.1
+},
+{
+"employeeId": "1616138133237386654",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 26.0,
+"balance": 4.0
+},
+{
+"employeeId": "1720328097377974667",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 11.4,
+"balance": 18.6
+},
+{
+"employeeId": "1732432585729889274",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 8.7,
+"balance": 13.3
+},
+{
+"employeeId": "1735362750828359718",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 17.1,
+"balance": 5.9
+},
+{
+"employeeId": "1780719675249238238",
+"policyType": "Holiday",
+"year": 2026,
+"total": 15.6,
+"used": 12.1,
+"balance": 3.5
+},
+{
+"employeeId": "1792329047021057783",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 13.4,
+"balance": 16.6
+},
+{
+"employeeId": "1824753284417877169",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 22.5,
+"balance": 7.5
+},
+{
+"employeeId": "1905639620201784508",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 12.2,
+"balance": 10.8
+},
+{
+"employeeId": "1913146890209824228",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 7.0,
+"balance": 15.0
+},
+{
+"employeeId": "1915528138493259415",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 10.4,
+"balance": 11.6
+},
+{
+"employeeId": "1940720089741147176",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 8.9,
+"balance": 13.1
+},
+{
+"employeeId": "1976737364092590405",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 17.8,
+"balance": 12.2
+},
+{
+"employeeId": "1979187863806343477",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 17.8,
+"balance": 12.2
+},
+{
+"employeeId": "1979654530608624792",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 16.5,
+"balance": 13.5
+},
+{
+"employeeId": "2094129082651734225",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 20.5,
+"balance": 2.5
+},
+{
+"employeeId": "2122728155296149314",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 12.7,
+"balance": 10.3
+},
+{
+"employeeId": "2187733245881189140",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 12.7,
+"balance": 17.3
+},
+{
+"employeeId": "2206304153346949854",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 27.5,
+"balance": 2.5
+},
+{
+"employeeId": "2223020426878668385",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 16.5,
+"balance": 6.5
+},
+{
+"employeeId": "2286755332260778667",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 23.9,
+"balance": 2.1
+},
+{
+"employeeId": "2287233923932318199",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 13.6,
+"balance": 9.4
+},
+{
+"employeeId": "2303379599307999117",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 20.8,
+"balance": 9.2
+},
+{
+"employeeId": "2333844597680429582",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 13.4,
+"balance": 12.6
+},
+{
+"employeeId": "2370232903932452467",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 20.4,
+"balance": 1.6
+},
+{
+"employeeId": "2577922412801580713",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 14.4,
+"balance": 15.6
+},
+{
+"employeeId": "2584168654075656750",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 27.2,
+"balance": 2.8
+},
+{
+"employeeId": "2588169183941382962",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 15.7,
+"balance": 14.3
+},
+{
+"employeeId": "2611322799181452200",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 18.4,
+"balance": 4.6
+},
+{
+"employeeId": "2639578356795009663",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 18.7,
+"balance": 7.3
+},
+{
+"employeeId": "2722469585884791810",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 24.2,
+"balance": 5.8
+},
+{
+"employeeId": "2773820070697898372",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 13.0,
+"balance": 17.0
+},
+{
+"employeeId": "2855982593989670997",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 21.8,
+"balance": 1.2
+},
+{
+"employeeId": "2962697762399965689",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.5,
+"used": 14.0,
+"balance": 8.5
+},
+{
+"employeeId": "2984914618778839118",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 7.7,
+"balance": 14.3
+},
+{
+"employeeId": "2996155696705030874",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 22.3,
+"balance": 7.7
+},
+{
+"employeeId": "3017592865481260128",
+"policyType": "Holiday",
+"year": 2026,
+"total": 17.6,
+"used": 6.2,
+"balance": 11.4
+},
+{
+"employeeId": "3028385141352752188",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 21.6,
+"balance": 8.4
+},
+{
+"employeeId": "3039571312550545186",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 16.9,
+"balance": 5.1
+},
+{
+"employeeId": "3078173133218806174",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 9.5,
+"balance": 12.5
+},
+{
+"employeeId": "3109061638395859302",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 8.6,
+"balance": 14.4
+},
+{
+"employeeId": "3110541786879314509",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 11.6,
+"balance": 18.4
+},
+{
+"employeeId": "3112904252953327846",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 21.8,
+"balance": 8.2
+},
+{
+"employeeId": "3129897812903549488",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 17.3,
+"balance": 4.7
+},
+{
+"employeeId": "3147370505997729071",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 26.9,
+"balance": 3.1
+},
+{
+"employeeId": "3178552617823188720",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 11.8,
+"balance": 11.2
+},
+{
+"employeeId": "3212002299471591035",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 10.9,
+"balance": 19.1
+},
+{
+"employeeId": "3246261812816282184",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 21.3,
+"balance": 8.7
+},
+{
+"employeeId": "3263622942898755570",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 25.3,
+"balance": 4.7
+},
+{
+"employeeId": "3275836525792672475",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 17.0,
+"balance": 5.0
+},
+{
+"employeeId": "3344652639819717871",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 13.6,
+"balance": 8.4
+},
+{
+"employeeId": "3413156022017714316",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 12.3,
+"balance": 13.7
+},
+{
+"employeeId": "3423748739594657289",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 17.0,
+"balance": 5.0
+},
+{
+"employeeId": "3431344232095509027",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 18.8,
+"balance": 3.2
+},
+{
+"employeeId": "3437600932369844978",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 13.3,
+"balance": 16.7
+},
+{
+"employeeId": "3443009605919511340",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 19.8,
+"balance": 6.2
+},
+{
+"employeeId": "3453275927110975353",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 24.0,
+"balance": 6.0
+},
+{
+"employeeId": "3485801099143234349",
+"policyType": "Holiday",
+"year": 2026,
+"total": 15.0,
+"used": 14.2,
+"balance": 0.8
+},
+{
+"employeeId": "3487411711851868589",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 12.0,
+"balance": 10.0
+},
+{
+"employeeId": "3497845393400233129",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 16.7,
+"balance": 13.3
+},
+{
+"employeeId": "3532492199040542315",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 7.2,
+"balance": 14.8
+},
+{
+"employeeId": "3546572385546904418",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 12.1,
+"balance": 17.9
+},
+{
+"employeeId": "3559125298589834096",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 23.5,
+"balance": 6.5
+},
+{
+"employeeId": "3574807063950799874",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 10.5,
+"balance": 11.5
+},
+{
+"employeeId": "3577306478241800997",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 20.5,
+"balance": 2.5
+},
+{
+"employeeId": "3597696312054685962",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 11.2,
+"balance": 10.8
+},
+{
+"employeeId": "3638818266259313287",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 24.5,
+"balance": 5.5
+},
+{
+"employeeId": "3671899748621189889",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 16.0,
+"balance": 14.0
+},
+{
+"employeeId": "3672090734606657014",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 20.6,
+"balance": 5.4
+},
+{
+"employeeId": "3681501480681605382",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 12.9,
+"balance": 9.1
+},
+{
+"employeeId": "3685808313577121670",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 11.4,
+"balance": 14.6
+},
+{
+"employeeId": "3687274519886572874",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 13.0,
+"balance": 17.0
+},
+{
+"employeeId": "3704750825685072744",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 12.6,
+"balance": 13.4
+},
+{
+"employeeId": "3753685335968209996",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 11.3,
+"balance": 18.7
+},
+{
+"employeeId": "3820297135461640919",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 19.9,
+"balance": 3.1
+},
+{
+"employeeId": "3858468343919375472",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 27.0,
+"balance": 3.0
+},
+{
+"employeeId": "3866702301345094116",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 18.0,
+"balance": 4.0
+},
+{
+"employeeId": "3937314129576794548",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 9.1,
+"balance": 20.9
+},
+{
+"employeeId": "3949739984785248233",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 19.2,
+"balance": 2.8
+},
+{
+"employeeId": "3951798856280257973",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 21.2,
+"balance": 4.8
+},
+{
+"employeeId": "3993452689961020474",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 18.6,
+"balance": 3.4
+},
+{
+"employeeId": "4012980072540033290",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 21.3,
+"balance": 8.7
+},
+{
+"employeeId": "4014685157188789663",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 13.1,
+"balance": 16.9
+},
+{
+"employeeId": "4044982892985947637",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 12.8,
+"balance": 13.2
+},
+{
+"employeeId": "4056690555596465437",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 14.4,
+"balance": 11.6
+},
+{
+"employeeId": "4070049477850885610",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 9.7,
+"balance": 13.3
+},
+{
+"employeeId": "4072543326304255029",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 7.3,
+"balance": 15.7
+},
+{
+"employeeId": "4100843340652317605",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 27.6,
+"balance": 2.4
+},
+{
+"employeeId": "4152373976181384511",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 12.7,
+"balance": 10.3
+},
+{
+"employeeId": "4168661311810697785",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 15.3,
+"balance": 6.7
+},
+{
+"employeeId": "4195553930594464431",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 8.1,
+"balance": 13.9
+},
+{
+"employeeId": "4343975654156853659",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 22.3,
+"balance": 3.7
+},
+{
+"employeeId": "4349108857802524823",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 23.7,
+"balance": 6.3
+},
+{
+"employeeId": "4358167458959531120",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 9.8,
+"balance": 20.2
+},
+{
+"employeeId": "4365034484079436596",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 12.9,
+"balance": 17.1
+},
+{
+"employeeId": "4395236200908644228",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 23.5,
+"balance": 6.5
+},
+{
+"employeeId": "4439974895209304656",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 8.8,
+"balance": 17.2
+},
+{
+"employeeId": "4544438954975053539",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 8.2,
+"balance": 17.8
+},
+{
+"employeeId": "4617678842337667507",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 8.7,
+"balance": 14.3
+},
+{
+"employeeId": "4622557144451261767",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 8.6,
+"balance": 13.4
+},
+{
+"employeeId": "4637682563378689385",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 18.5,
+"balance": 4.5
+},
+{
+"employeeId": "4707312323045475305",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 24.3,
+"balance": 5.7
+},
+{
+"employeeId": "4737966009997574828",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 20.2,
+"balance": 9.8
+},
+{
+"employeeId": "4738706228865768197",
+"policyType": "Holiday",
+"year": 2026,
+"total": 11.5,
+"used": 5.7,
+"balance": 5.8
+},
+{
+"employeeId": "4740887991431533402",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 17.8,
+"balance": 4.2
+},
+{
+"employeeId": "4743479622749766325",
+"policyType": "Holiday",
+"year": 2026,
+"total": 15.6,
+"used": 11.1,
+"balance": 4.5
+},
+{
+"employeeId": "4755711231391877156",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 10.2,
+"balance": 19.8
+},
+{
+"employeeId": "4758543755071698080",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 12.7,
+"balance": 17.3
+},
+{
+"employeeId": "4781292445251738413",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 16.5,
+"balance": 5.5
+},
+{
+"employeeId": "4839786301589375979",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 20.0,
+"balance": 10.0
+},
+{
+"employeeId": "4879820649049946509",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 12.8,
+"balance": 10.2
+},
+{
+"employeeId": "4920398463192085924",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 19.3,
+"balance": 10.7
+},
+{
+"employeeId": "4986659079974282119",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 13.7,
+"balance": 16.3
+},
+{
+"employeeId": "4990291379507058691",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 15.7,
+"balance": 7.3
+},
+{
+"employeeId": "5031186390856459657",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 8.6,
+"balance": 13.4
+},
+{
+"employeeId": "5078326478947386104",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 20.7,
+"balance": 1.3
+},
+{
+"employeeId": "5104698807695544070",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 21.7,
+"balance": 4.3
+},
+{
+"employeeId": "5107472365275801036",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 13.7,
+"balance": 8.3
+},
+{
+"employeeId": "5128066308195578970",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 28.1,
+"balance": 1.9
+},
+{
+"employeeId": "5150548630590416417",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 17.0,
+"balance": 6.0
+},
+{
+"employeeId": "5242792682832871089",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 14.9,
+"balance": 7.1
+},
+{
+"employeeId": "5244249266248477229",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 18.7,
+"balance": 7.3
+},
+{
+"employeeId": "5310975145662695416",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 22.7,
+"balance": 7.3
+},
+{
+"employeeId": "5339660763990694847",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 21.7,
+"balance": 1.3
+},
+{
+"employeeId": "5359566893104046184",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 18.6,
+"balance": 4.4
+},
+{
+"employeeId": "5422432536463232211",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 10.0,
+"balance": 12.0
+},
+{
+"employeeId": "5468197958990326641",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 7.4,
+"balance": 14.6
+},
+{
+"employeeId": "5472283362961336541",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 26.9,
+"balance": 3.1
+},
+{
+"employeeId": "5485438058435063215",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 17.2,
+"balance": 4.8
+},
+{
+"employeeId": "5577986326212285021",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 20.4,
+"balance": 9.6
+},
+{
+"employeeId": "5589129435988185558",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 13.6,
+"balance": 8.4
+},
+{
+"employeeId": "5599623470632152955",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 27.5,
+"balance": 2.5
+},
+{
+"employeeId": "5608075366087783807",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 7.5,
+"balance": 15.5
+},
+{
+"employeeId": "5623666902847014013",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 12.0,
+"balance": 18.0
+},
+{
+"employeeId": "5714053625246742351",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 11.6,
+"balance": 11.4
+},
+{
+"employeeId": "5714278842814363736",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 28.5,
+"balance": 1.5
+},
+{
+"employeeId": "5818494715209055026",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 16.5,
+"balance": 5.5
+},
+{
+"employeeId": "5819779432006530377",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 20.7,
+"balance": 9.3
+},
+{
+"employeeId": "5894163589606050445",
+"policyType": "Holiday",
+"year": 2026,
+"total": 15.0,
+"used": 7.8,
+"balance": 7.2
+},
+{
+"employeeId": "5918599837478603430",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 12.1,
+"balance": 17.9
+},
+{
+"employeeId": "5990020761066832280",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 7.1,
+"balance": 15.9
+},
+{
+"employeeId": "6022887333128324339",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 10.2,
+"balance": 15.8
+},
+{
+"employeeId": "6040669361072906947",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 9.1,
+"balance": 12.9
+},
+{
+"employeeId": "6067514387850311215",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 13.9,
+"balance": 8.1
+},
+{
+"employeeId": "6073305581404444868",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.5,
+"used": 12.1,
+"balance": 10.4
+},
+{
+"employeeId": "6113371164466338712",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 24.3,
+"balance": 1.7
+},
+{
+"employeeId": "6118586047053299570",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 19.8,
+"balance": 2.2
+},
+{
+"employeeId": "6130368479982299957",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 19.8,
+"balance": 10.2
+},
+{
+"employeeId": "6196230910785779295",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 9.0,
+"balance": 13.0
+},
+{
+"employeeId": "6202121823490420058",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 11.1,
+"balance": 10.9
+},
+{
+"employeeId": "6220041574443366951",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 8.3,
+"balance": 17.7
+},
+{
+"employeeId": "6231241625073500680",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 21.9,
+"balance": 8.1
+},
+{
+"employeeId": "6251070127415493746",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 12.1,
+"balance": 9.9
+},
+{
+"employeeId": "6254456110031217217",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 19.9,
+"balance": 2.1
+},
+{
+"employeeId": "6257951306165869546",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 15.2,
+"balance": 14.8
+},
+{
+"employeeId": "6279415405956029154",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 18.8,
+"balance": 3.2
+},
+{
+"employeeId": "6289979998138343852",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 12.2,
+"balance": 9.8
+},
+{
+"employeeId": "6297717906707630931",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 21.7,
+"balance": 8.3
+},
+{
+"employeeId": "6300077029086587334",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 15.9,
+"balance": 14.1
+},
+{
+"employeeId": "6347998725037612342",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 24.8,
+"balance": 5.2
+},
+{
+"employeeId": "6349502503782190860",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 13.4,
+"balance": 16.6
+},
+{
+"employeeId": "6428952777472501689",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 10.5,
+"balance": 15.5
+},
+{
+"employeeId": "6444858718155556407",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 10.0,
+"balance": 20.0
+},
+{
+"employeeId": "6495311288024177979",
+"policyType": "Holiday",
+"year": 2026,
+"total": 13.2,
+"used": 7.2,
+"balance": 6.0
+},
+{
+"employeeId": "6532887678851043690",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 23.3,
+"balance": 6.7
+},
+{
+"employeeId": "6549548156933017109",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 18.0,
+"balance": 12.0
+},
+{
+"employeeId": "6557027482427149196",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 25.4,
+"balance": 4.6
+},
+{
+"employeeId": "6615546049633611521",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 15.0,
+"balance": 7.0
+},
+{
+"employeeId": "6639583525318565892",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 16.8,
+"balance": 9.2
+},
+{
+"employeeId": "6650355934198590165",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 13.7,
+"balance": 8.3
+},
+{
+"employeeId": "6687052425572269610",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 9.8,
+"balance": 20.2
+},
+{
+"employeeId": "6699657548641414548",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 20.5,
+"balance": 9.5
+},
+{
+"employeeId": "6718547009858696264",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 9.8,
+"balance": 13.2
+},
+{
+"employeeId": "6738747783339670587",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 10.6,
+"balance": 19.4
+},
+{
+"employeeId": "6781062996679892897",
+"policyType": "Holiday",
+"year": 2026,
+"total": 15.0,
+"used": 5.5,
+"balance": 9.5
+},
+{
+"employeeId": "6864690844865067007",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 12.2,
+"balance": 17.8
+},
+{
+"employeeId": "6890906198764750234",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 16.2,
+"balance": 6.8
+},
+{
+"employeeId": "6962088135296998517",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 14.6,
+"balance": 15.4
+},
+{
+"employeeId": "6984821389423531101",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 14.8,
+"balance": 15.2
+},
+{
+"employeeId": "7002295057913626774",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 13.1,
+"balance": 9.9
+},
+{
+"employeeId": "7020686199752429324",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 27.7,
+"balance": 2.3
+},
+{
+"employeeId": "7044727938039521953",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 10.8,
+"balance": 12.2
+},
+{
+"employeeId": "7082986367921458234",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 11.4,
+"balance": 11.6
+},
+{
+"employeeId": "7085771865638399452",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 13.9,
+"balance": 16.1
+},
+{
+"employeeId": "7130802205167670876",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 11.1,
+"balance": 10.9
+},
+{
+"employeeId": "7132252109959417790",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 12.8,
+"balance": 13.2
+},
+{
+"employeeId": "7150144637450948528",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 25.2,
+"balance": 4.8
+},
+{
+"employeeId": "7156487246525282232",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 28.1,
+"balance": 1.9
+},
+{
+"employeeId": "7167668832622120142",
+"policyType": "Holiday",
+"year": 2026,
+"total": 24.0,
+"used": 13.3,
+"balance": 10.7
+},
+{
+"employeeId": "7169494457547503071",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 19.0,
+"balance": 3.0
+},
+{
+"employeeId": "7227574914945330882",
+"policyType": "Holiday",
+"year": 2026,
+"total": 16.5,
+"used": 6.1,
+"balance": 10.4
+},
+{
+"employeeId": "7242880997158104117",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 14.1,
+"balance": 8.9
+},
+{
+"employeeId": "7281923221589696165",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 25.0,
+"balance": 5.0
+},
+{
+"employeeId": "7282022765998723049",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 7.9,
+"balance": 14.1
+},
+{
+"employeeId": "7365673760202527202",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 28.5,
+"balance": 1.5
+},
+{
+"employeeId": "7367444175577198082",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 16.8,
+"balance": 13.2
+},
+{
+"employeeId": "7391740478308359829",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 18.7,
+"balance": 11.3
+},
+{
+"employeeId": "7503797413100322112",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 23.8,
+"balance": 2.2
+},
+{
+"employeeId": "7643199168670410061",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 23.3,
+"balance": 2.7
+},
+{
+"employeeId": "7670158683809876597",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 11.3,
+"balance": 14.7
+},
+{
+"employeeId": "7698431368895279608",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 15.5,
+"balance": 10.5
+},
+{
+"employeeId": "7702465228599849252",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 17.9,
+"balance": 5.1
+},
+{
+"employeeId": "7709785552973635265",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 13.8,
+"balance": 9.2
+},
+{
+"employeeId": "7715729517251144755",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 21.0,
+"balance": 2.0
+},
+{
+"employeeId": "7744200534732689691",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 11.2,
+"balance": 14.8
+},
+{
+"employeeId": "7811036881478353218",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 28.0,
+"balance": 2.0
+},
+{
+"employeeId": "7857957646534385005",
+"policyType": "Holiday",
+"year": 2026,
+"total": 15.0,
+"used": 10.6,
+"balance": 4.4
+},
+{
+"employeeId": "7879899094665849655",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 21.0,
+"balance": 9.0
+},
+{
+"employeeId": "7972958959428071305",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 22.3,
+"balance": 7.7
+},
+{
+"employeeId": "7973590236621701265",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 14.2,
+"balance": 15.8
+},
+{
+"employeeId": "8030386046151237565",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 12.9,
+"balance": 9.1
+},
+{
+"employeeId": "8035112298755715393",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 13.3,
+"balance": 16.7
+},
+{
+"employeeId": "8072455153571759864",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 21.4,
+"balance": 4.6
+},
+{
+"employeeId": "8143582065526316515",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 15.5,
+"balance": 14.5
+},
+{
+"employeeId": "8147926858089681492",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 8.6,
+"balance": 13.4
+},
+{
+"employeeId": "8179957550364288769",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 20.2,
+"balance": 2.8
+},
+{
+"employeeId": "8255478375934126527",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 15.7,
+"balance": 14.3
+},
+{
+"employeeId": "8261158354661925069",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 20.2,
+"balance": 1.8
+},
+{
+"employeeId": "8269799944624578209",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 13.0,
+"balance": 9.0
+},
+{
+"employeeId": "8279721426134488748",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 21.7,
+"balance": 8.3
+},
+{
+"employeeId": "8281795041713120205",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 17.8,
+"balance": 4.2
+},
+{
+"employeeId": "8295838471112610270",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 19.1,
+"balance": 10.9
+},
+{
+"employeeId": "8301935308156617068",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 27.4,
+"balance": 2.6
+},
+{
+"employeeId": "8328842759708704190",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 21.5,
+"balance": 4.5
+},
+{
+"employeeId": "8332932904081288700",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 22.9,
+"balance": 3.1
+},
+{
+"employeeId": "8416633062299208606",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 14.8,
+"balance": 8.2
+},
+{
+"employeeId": "8483393053745418594",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 8.8,
+"balance": 14.2
+},
+{
+"employeeId": "8533536796697038086",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 12.4,
+"balance": 17.6
+},
+{
+"employeeId": "8542234188507885563",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 11.9,
+"balance": 18.1
+},
+{
+"employeeId": "8544923760603945118",
+"policyType": "Holiday",
+"year": 2026,
+"total": 17.6,
+"used": 11.4,
+"balance": 6.2
+},
+{
+"employeeId": "8550297347801039366",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 27.5,
+"balance": 2.5
+},
+{
+"employeeId": "8602812521225144281",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 17.1,
+"balance": 8.9
+},
+{
+"employeeId": "8606517679608963770",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 15.1,
+"balance": 10.9
+},
+{
+"employeeId": "8662884623648278817",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 9.7,
+"balance": 16.3
+},
+{
+"employeeId": "8666800231962328390",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 16.3,
+"balance": 13.7
+},
+{
+"employeeId": "8776852962556908384",
+"policyType": "Holiday",
+"year": 2026,
+"total": 26.0,
+"used": 10.9,
+"balance": 15.1
+},
+{
+"employeeId": "8809065745983940482",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 17.9,
+"balance": 12.1
+},
+{
+"employeeId": "8836773843586538837",
+"policyType": "Holiday",
+"year": 2026,
+"total": 23.0,
+"used": 13.8,
+"balance": 9.2
+},
+{
+"employeeId": "8843158007044716062",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 27.2,
+"balance": 2.8
+},
+{
+"employeeId": "8874889489812555724",
+"policyType": "Holiday",
+"year": 2026,
+"total": 30.0,
+"used": 16.7,
+"balance": 13.3
+},
+{
+"employeeId": "8916294592267127119",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 19.2,
+"balance": 2.8
+},
+{
+"employeeId": "8925859473667053553",
+"policyType": "Holiday",
+"year": 2026,
+"total": 22.0,
+"used": 7.2,
+"balance": 14.8
+}
+]

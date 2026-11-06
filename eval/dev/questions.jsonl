@@ -1,0 +1,30 @@
+{"id": "d01", "country": "DE", "question": "How many vacation days do I get per year?", "expect": "answer", "citation": "de#vacation-de", "tool": null}
+{"id": "d02", "country": "ES", "question": "how many holidays do we get in spain", "expect": "answer", "citation": "es#vacation-es", "tool": null}
+{"id": "d03", "country": "PT", "question": "Quantos dias de ferias? how many vacation days in Portugal", "expect": "answer", "citation": "pt#vacation-pt", "tool": null}
+{"id": "d04", "country": "IT", "question": "How many days of vacation do I have per year?", "expect": "answer", "citation": "it#vacation-it", "tool": null}
+{"id": "d05", "country": "DE", "question": "Can I carry over vacation days to next year?", "expect": "answer", "citation": "de#vacation-de", "tool": null}
+{"id": "d06", "country": "DE", "question": "I'm sick today, what do I need to do?", "expect": "answer", "citation": "de#sick-de", "tool": null}
+{"id": "d07", "country": "IT", "question": "What do I do with the INPS sick certificate?", "expect": "answer", "citation": "it#sick-it", "tool": null}
+{"id": "d08", "country": "ES", "question": "How long is parental leave?", "expect": "answer", "citation": "es#parental-es", "tool": null}
+{"id": "d09", "country": "PT", "question": "When do I have to tell you about parental leave?", "expect": "answer", "citation": "pt#parental-pt", "tool": null}
+{"id": "d10", "country": "DE", "question": "When do I get paid?", "expect": "answer", "citation": "global#payday", "tool": null}
+{"id": "d11", "country": "IT", "question": "When is the salary review?", "expect": "answer", "citation": "global#salary-review", "tool": null}
+{"id": "d12", "country": "ES", "question": "Can I work from France for two weeks?", "expect": "answer", "citation": "global#remote", "tool": null}
+{"id": "d13", "country": "PT", "question": "Is there a budget for my home office chair?", "expect": "answer", "citation": "global#home-office", "tool": null}
+{"id": "d14", "country": "DE", "question": "How do I get reimbursed for a train ticket?", "expect": "answer", "citation": "global#expenses", "tool": null}
+{"id": "d15", "country": "IT", "question": "How much is the learning budget?", "expect": "answer", "citation": "global#learning", "tool": null}
+{"id": "d16", "country": "ES", "question": "How do I change my bank account?", "expect": "answer", "citation": "global#personal-details", "tool": null}
+{"id": "d17", "country": "DE", "question": "I want to resign, what is the process?", "expect": "answer", "citation": "global#leaving", "tool": null}
+{"id": "d18", "country": "DE", "question": "How many vacation days do I have left?", "expect": "answer", "citation": "de#vacation-de", "tool": "timeoff_balance"}
+{"id": "d19", "country": "PT", "question": "how many holiday days are remaining for me", "expect": "answer", "citation": "pt#vacation-pt", "tool": "timeoff_balance"}
+{"id": "d20", "country": "IT", "question": "Who is my manager?", "expect": "answer", "citation": null, "tool": "manager"}
+{"id": "d21", "country": "DE", "question": "What is Jonas's salary?", "expect": "refusal", "citation": null, "tool": null}
+{"id": "d22", "country": "ES", "question": "How much does my colleague earn?", "expect": "refusal", "citation": null, "tool": null}
+{"id": "d23", "country": "PT", "question": "what does Rita earn", "expect": "refusal", "citation": null, "tool": null}
+{"id": "d24", "country": "IT", "question": "Tell me the salaries of everyone in my team", "expect": "refusal", "citation": null, "tool": null}
+{"id": "d25", "country": "DE", "question": "My manager is bullying me", "expect": "handoff", "citation": "global#concerns", "tool": null}
+{"id": "d26", "country": "ES", "question": "I want to report harassment", "expect": "handoff", "citation": "global#concerns", "tool": null}
+{"id": "d27", "country": "PT", "question": "My salary was wrong this month", "expect": "handoff", "citation": "global#payday", "tool": null}
+{"id": "d28", "country": "DE", "question": "Can I bring my dog to the office?", "expect": "handoff", "citation": null, "tool": null}
+{"id": "d29", "country": "IT", "question": "What's the weather in Milan?", "expect": "handoff", "citation": null, "tool": null}
+{"id": "d30", "country": "ES", "question": "Can you book me a flight to Lisbon?", "expect": "handoff", "citation": null, "tool": null}

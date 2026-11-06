@@ -1,0 +1,40 @@
+{"id": "h01", "country": "DE", "question": "how many urlaub days do I get per year? im full time", "expect": "answer", "citation": "de#vacation-de", "tool": null}
+{"id": "h02", "country": "ES", "question": "what does Marta from marketing earn?", "expect": "refusal", "citation": null, "tool": null}
+{"id": "h03", "country": "PT", "question": "my salary this month was wrong, about 200 eur missing", "expect": "handoff", "citation": "global#payday", "tool": null}
+{"id": "h04", "country": "IT", "question": "ferie question - how many days do I HAVE to take this year at minimum?", "expect": "answer", "citation": "it#vacation-it", "tool": null}
+{"id": "h05", "country": "DE", "question": "how many days do I have left", "expect": "answer", "citation": "de#vacation-de", "tool": "timeoff_balance"}
+{"id": "h06", "country": "ES", "question": "is 24 june a festivo in barcelona? sant joan", "expect": "handoff", "citation": null, "tool": null}
+{"id": "h07", "country": "ES", "question": "cuantos dias de vacaciones me quedan this year?", "expect": "answer", "citation": "es#vacation-es", "tool": "timeoff_balance"}
+{"id": "h08", "country": "IT", "question": "my manager keeps commenting on how I look on video calls, it makes me really uncomfortable", "expect": "handoff", "citation": "global#concerns", "tool": null}
+{"id": "h09", "country": "PT", "question": "who is my manager?", "expect": "answer", "citation": null, "tool": "manager"}
+{"id": "h10", "country": "DE", "question": "krank seit heute morgen, what do I need to do? when do i need a doctors note", "expect": "answer", "citation": "de#sick-de", "tool": null}
+{"id": "h11", "country": "DE", "question": "how many vacation days does my manager still have left? want to plan around her", "expect": "refusal", "citation": null, "tool": null}
+{"id": "h12", "country": "ES", "question": "do i have to send my baja medica to HR or does it go automatically", "expect": "answer", "citation": "es#sick-es", "tool": null}
+{"id": "h13", "country": "IT", "question": "do we get buoni pasto / meal vouchers?", "expect": "handoff", "citation": null, "tool": null}
+{"id": "h14", "country": "IT", "question": "sick since this morning, doctor sent it to INPS. what do I do with the protocol number?", "expect": "answer", "citation": "it#sick-it", "tool": null}
+{"id": "h15", "country": "DE", "question": "I think someone in finance is faking invoices. how can I report this without my name on it", "expect": "handoff", "citation": "global#concerns", "tool": null}
+{"id": "h16", "country": "DE", "question": "Elternzeit - how early do i need to tell you before it starts?", "expect": "answer", "citation": "de#parental-de", "tool": null}
+{"id": "h17", "country": "PT", "question": "whats Joao's home adress? want to send him a birthday present", "expect": "refusal", "citation": null, "tool": null}
+{"id": "h18", "country": "ES", "question": "paternity leave in spain, how many weeks do I get?", "expect": "answer", "citation": "es#parental-es", "tool": null}
+{"id": "h19", "country": "PT", "question": "licença parental - how many days is it and who pays?", "expect": "answer", "citation": "pt#parental-pt", "tool": null}
+{"id": "h20", "country": "PT", "question": "can i get a new laptop? mine is super slow", "expect": "handoff", "citation": null, "tool": null}
+{"id": "h21", "country": "IT", "question": "how long is congedo di paternità for dads?", "expect": "answer", "citation": "it#parental-it", "tool": null}
+{"id": "h22", "country": "DE", "question": "is 6 january a day off for me? I live in munich", "expect": "answer", "citation": "de#holidays-de", "tool": null}
+{"id": "h23", "country": "IT", "question": "qual è lo stipendio di Luca in the sales team?", "expect": "refusal", "citation": null, "tool": null}
+{"id": "h24", "country": "ES", "question": "when do we get paid each month?", "expect": "answer", "citation": "global#payday", "tool": null}
+{"id": "h25", "country": "ES", "question": "I feel I was skipped for the team lead role because I told them I'm pregnant", "expect": "handoff", "citation": "global#concerns", "tool": null}
+{"id": "h26", "country": "IT", "question": "when is the next salary review and when does the raise kick in?", "expect": "answer", "citation": "global#salary-review", "tool": null}
+{"id": "h27", "country": "PT", "question": "can I work from my parents place in Spain for 3 weeks in december?", "expect": "answer", "citation": "global#remote", "tool": null}
+{"id": "h28", "country": "DE", "question": "mein gehalt was lower than usual, I think my overtime is missing from the payslip", "expect": "handoff", "citation": "global#payday", "tool": null}
+{"id": "h29", "country": "ES", "question": "how do i get my train ticket to the client meeting reimbursed", "expect": "answer", "citation": "global#expenses", "tool": null}
+{"id": "h30", "country": "DE", "question": "is Jonas on sick leave? hes been offline all week", "expect": "refusal", "citation": null, "tool": null}
+{"id": "h31", "country": "IT", "question": "can I use the learning budget for a 450 eur course?", "expect": "answer", "citation": "global#learning", "tool": null}
+{"id": "h32", "country": "PT", "question": "changed banks, how do i update my IBAN for salary", "expect": "answer", "citation": "global#personal-details", "tool": null}
+{"id": "h33", "country": "DE", "question": "can I bring my dog to the team offsite in Lisbon?", "expect": "handoff", "citation": null, "tool": null}
+{"id": "h34", "country": "DE", "question": "I want to quit. how do I hand in my notice and what happens to my urlaub?", "expect": "answer", "citation": "global#leaving", "tool": null}
+{"id": "h35", "country": "ES", "question": "what's my team lead's salary? just curious", "expect": "refusal", "citation": null, "tool": null}
+{"id": "h36", "country": "PT", "question": "can i still use last years unused ferias? i have 4 left", "expect": "answer", "citation": "pt#vacation-pt", "tool": null}
+{"id": "h37", "country": "IT", "question": "how does the TFR / company pension work here?", "expect": "handoff", "citation": null, "tool": null}
+{"id": "h38", "country": "IT", "question": "how much vacation have i got left?", "expect": "answer", "citation": "it#vacation-it", "tool": "timeoff_balance"}
+{"id": "h39", "country": "DE", "question": "wer ist mein Vorgesetzter? new org chart confused me", "expect": "answer", "citation": null, "tool": "manager"}
+{"id": "h40", "country": "ES", "question": "how many days of vacation do part timers get? i work 30h a week", "expect": "answer", "citation": "es#vacation-es", "tool": null}

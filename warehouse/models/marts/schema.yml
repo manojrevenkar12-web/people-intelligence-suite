@@ -1,0 +1,26 @@
+version: 2
+models:
+  - name: fct_payroll_recon
+    columns:
+      - name: status
+        tests:
+          - not_null
+          - accepted_values:
+              values: [matched, source_quarantined, unknown_in_hibob, leaver_paid, paid_before_start,
+                       joiner_missing, not_paid, hours_mismatch, salary_mismatch]
+  - name: employee_month
+    columns:
+      - name: annual_base
+        tests: [not_null]
+      - name: department
+        tests: [not_null]
+  - name: fct_comp_position
+    columns:
+      - name: employee_id
+        tests: [unique, not_null]
+      - name: compa_ratio
+        tests: [not_null]
+  - name: fct_headcount_monthly
+    columns:
+      - name: headcount
+        tests: [not_null]

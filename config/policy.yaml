@@ -1,0 +1,42 @@
+# Business settings the People team owns. Nothing here is the simulated truth.
+reporting:
+  month: "2026-10"
+  attrition_window_months: 12
+  span_of_control_max: 10
+reconciliation:
+  tolerance_abs_eur: 2.0          # rounding between HiBob salary/12 and payroll
+  tolerance_rel: 0.005
+  gl_tolerance_abs_eur: 50.0
+  fte_full: 40                    # weekly hours of a full-time contract
+department_aliases:              # how payroll vendors and Finance spell departments
+  "Cust. Success": "Customer Success"
+  "CS": "Customer Success"
+  "Data and Analytics": "Data & Analytics"
+  "R&D": "Engineering"
+pay_gap:
+  threshold: 0.05                 # EU Pay Transparency Directive: a 5% unexplained gap triggers a joint pay assessment
+  min_group: 5                    # never report a group smaller than this
+contracts:
+  salary_min_eur: 15000
+  salary_max_eur: 400000
+  monthly_gross_max_eur: 40000
+privacy:
+  pseudonym_key_env: PIS_PSEUDONYM_KEY
+  roles:                          # which fields each role may read
+    employee_self: [root.id, root.displayName, work.department, work.title, work.site, work.reportsTo, timeoff.balance]
+    manager: [root.id, root.displayName, work.department, work.title, work.site, work.startDate, timeoff.balance]
+    people_partner: [root.id, root.displayName, work.department, work.title, work.site, work.startDate, work.reportsTo,
+                     internal.status, payroll.employment, salary]
+    leadership: [aggregates]
+assistant:
+  min_score: 2.2                  # retrieval score below which the assistant hands over instead of answering
+  min_coverage: 0.5               # share of the question's words the section must contain
+  handoff_queue: people-help
+
+org:
+  root_titles: ["Chief Executive Officer"]   # people who report to nobody on purpose
+pay_bands:                      # the company's published bands: midpoints for Germany, other countries by factor
+  mid_de: {L1: 42000, L2: 55000, L3: 68000, L4: 84000, L5: 102000, L6: 128000}
+  country_factor: {DE: 1.0, ES: 0.78, PT: 0.66, IT: 0.80}
+  family_premium: {Engineering: 1.06, "Data & Analytics": 1.06, Product: 1.04}
+  range: 0.2                    # band runs from mid*(1-range) to mid*(1+range)

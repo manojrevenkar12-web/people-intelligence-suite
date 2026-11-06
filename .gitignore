@@ -1,0 +1,11 @@
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+/data/landing/
+/data/warehouse.duckdb*
+/data/audit/
+/data/sync/
+warehouse/target/
+warehouse/logs/
+.venv/

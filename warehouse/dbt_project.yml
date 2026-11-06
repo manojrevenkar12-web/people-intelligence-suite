@@ -1,0 +1,21 @@
+name: people_intelligence
+version: "1.0.0"
+config-version: 2
+profile: people_intelligence
+model-paths: ["models"]
+test-paths: ["tests"]
+macro-paths: ["macros"]
+target-path: "target"
+vars:
+  landing: "../data/landing"
+  reporting_month: "2026-10"
+  months: 24
+  tolerance_abs: 2.0
+  tolerance_rel: 0.005
+  gl_tolerance: 50.0
+models:
+  people_intelligence:
+    staging:
+      +materialized: view
+    marts:
+      +materialized: table

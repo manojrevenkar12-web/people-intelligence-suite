@@ -1,0 +1,121 @@
+{
+  "leaver_paid": [
+    {
+      "employee_id": "1211617842543124231",
+      "month": "2025-11"
+    },
+    {
+      "employee_id": "7495381001768963165",
+      "month": "2026-07"
+    },
+    {
+      "employee_id": "4834219720186302666",
+      "month": "2025-07"
+    }
+  ],
+  "joiner_missing": [
+    {
+      "employee_id": "1368055320693209703",
+      "month": "2026-02"
+    },
+    {
+      "employee_id": "4781292445251738413",
+      "month": "2026-04"
+    },
+    {
+      "employee_id": "2223020426878668385",
+      "month": "2025-03"
+    }
+  ],
+  "raise_not_in_payroll": [
+    {
+      "employee_id": "8072455153571759864",
+      "from_month": "2026-04"
+    },
+    {
+      "employee_id": "2584168654075656750",
+      "from_month": "2026-04"
+    },
+    {
+      "employee_id": "6297717906707630931",
+      "from_month": "2026-04"
+    },
+    {
+      "employee_id": "5422432536463232211",
+      "from_month": "2026-04"
+    },
+    {
+      "employee_id": "5189423472988107706",
+      "from_month": "2025-04"
+    }
+  ],
+  "fte_mismatch": [
+    {
+      "employee_id": "2500026674847732488"
+    },
+    {
+      "employee_id": "3046705280937699263"
+    }
+  ],
+  "manager_is_leaver": [
+    {
+      "employee_id": "4044982892985947637"
+    },
+    {
+      "employee_id": "6718547009858696264"
+    },
+    {
+      "employee_id": "3443009605919511340"
+    }
+  ],
+  "missing_manager": [
+    {
+      "employee_id": "3078173133218806174"
+    },
+    {
+      "employee_id": "7709785552973635265"
+    }
+  ],
+  "duplicate_rehire": [
+    {
+      "employee_id": "8261158354661925069",
+      "same_as": "7544617753700819856"
+    }
+  ],
+  "gl_old_cost_center": [
+    {
+      "employee_id": "3937314129576794548",
+      "from_month": "2025-03",
+      "old_department": "People"
+    },
+    {
+      "employee_id": "2855982593989670997",
+      "from_month": "2025-06",
+      "old_department": "Product"
+    }
+  ],
+  "comp_not_in_hibob": [
+    {
+      "employee_id": "3753685335968209996"
+    },
+    {
+      "employee_id": "6687052425572269610"
+    },
+    {
+      "employee_id": "6022887333128324339"
+    }
+  ],
+  "vendor_cents_month": [
+    {
+      "vendor": "cloudpay",
+      "country": "IT",
+      "month": "2026-03"
+    }
+  ],
+  "pay_gap": [
+    {
+      "department": "Customer Success",
+      "female_discount": 0.075
+    }
+  ]
+}

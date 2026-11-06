@@ -1,0 +1,7220 @@
+[
+{
+"employeeId": "4743479622749766325",
+"effectiveDate": "2017-04-12",
+"base": {
+"value": 44000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4743479622749766325",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 45600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4743479622749766325",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 47200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2722469585884791810",
+"effectiveDate": "2022-01-19",
+"base": {
+"value": 63700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2722469585884791810",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 65600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2722469585884791810",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 67600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4974987483148034685",
+"effectiveDate": "2016-12-05",
+"base": {
+"value": 34400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5078326478947386104",
+"effectiveDate": "2023-12-27",
+"base": {
+"value": 36400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5078326478947386104",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 37800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5078326478947386104",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 37800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1474013138764029829",
+"effectiveDate": "2017-10-15",
+"base": {
+"value": 31900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1474013138764029829",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 32800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1474013138764029829",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 34000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2206304153346949854",
+"effectiveDate": "2020-01-08",
+"base": {
+"value": 63300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2206304153346949854",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 65100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2206304153346949854",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 67400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6297717906707630931",
+"effectiveDate": "2019-05-28",
+"base": {
+"value": 40900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6297717906707630931",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 42000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6297717906707630931",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 43700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8072455153571759864",
+"effectiveDate": "2018-01-24",
+"base": {
+"value": 50500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8072455153571759864",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 53100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8072455153571759864",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 56300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3577306478241800997",
+"effectiveDate": "2023-04-30",
+"base": {
+"value": 52000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3577306478241800997",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 53000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3577306478241800997",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 59700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3753685335968209996",
+"effectiveDate": "2024-04-26",
+"base": {
+"value": 57200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3753685335968209996",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 58700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7023820028782032095",
+"effectiveDate": "2017-11-06",
+"base": {
+"value": 44200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7023820028782032095",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 44500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2588169183941382962",
+"effectiveDate": "2019-08-30",
+"base": {
+"value": 37000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2588169183941382962",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 38700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2588169183941382962",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 40400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8843158007044716062",
+"effectiveDate": "2022-12-18",
+"base": {
+"value": 106700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8843158007044716062",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 111800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8843158007044716062",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 115600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4439974895209304656",
+"effectiveDate": "2017-03-26",
+"base": {
+"value": 52300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4439974895209304656",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 53500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4439974895209304656",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 55100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4186204477434964881",
+"effectiveDate": "2024-03-18",
+"base": {
+"value": 66800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4186204477434964881",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 67500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3453275927110975353",
+"effectiveDate": "2023-06-02",
+"base": {
+"value": 80100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3453275927110975353",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 81200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3453275927110975353",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 99700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1905639620201784508",
+"effectiveDate": "2019-07-16",
+"base": {
+"value": 41900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1905639620201784508",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 43900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1905639620201784508",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 45500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2500026674847732488",
+"effectiveDate": "2019-04-07",
+"base": {
+"value": 79300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2500026674847732488",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 80700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6264208652893807194",
+"effectiveDate": "2022-10-28",
+"base": {
+"value": 77500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6264208652893807194",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 80400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1901735933782960604",
+"effectiveDate": "2018-05-02",
+"base": {
+"value": 36900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1901735933782960604",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 38700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1901735933782960604",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 40300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5589129435988185558",
+"effectiveDate": "2022-03-28",
+"base": {
+"value": 57600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5589129435988185558",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 58500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5589129435988185558",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 59800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8143582065526316515",
+"effectiveDate": "2022-09-03",
+"base": {
+"value": 57100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8143582065526316515",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 59100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8143582065526316515",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 68400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6257951306165869546",
+"effectiveDate": "2017-11-22",
+"base": {
+"value": 50600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6257951306165869546",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 52600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6257951306165869546",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 54600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3638818266259313287",
+"effectiveDate": "2020-01-30",
+"base": {
+"value": 66200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3638818266259313287",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 67900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3638818266259313287",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 82600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2045473966458213569",
+"effectiveDate": "2022-10-18",
+"base": {
+"value": 69200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2045473966458213569",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 78900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2045473966458213569",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 82700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6687052425572269610",
+"effectiveDate": "2018-11-30",
+"base": {
+"value": 97800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6687052425572269610",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 100000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3129897812903549488",
+"effectiveDate": "2021-10-14",
+"base": {
+"value": 53200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3129897812903549488",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 61200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3129897812903549488",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 63100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7744200534732689691",
+"effectiveDate": "2023-01-31",
+"base": {
+"value": 49500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7744200534732689691",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 51100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7744200534732689691",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 54900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4358167458959531120",
+"effectiveDate": "2017-04-28",
+"base": {
+"value": 46600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4358167458959531120",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 49100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4358167458959531120",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 56600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7082986367921458234",
+"effectiveDate": "2022-01-17",
+"base": {
+"value": 47200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7082986367921458234",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 47800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7082986367921458234",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 49900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5599623470632152955",
+"effectiveDate": "2021-09-09",
+"base": {
+"value": 82400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5599623470632152955",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 85400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5599623470632152955",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 89000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3497845393400233129",
+"effectiveDate": "2017-06-03",
+"base": {
+"value": 63000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3497845393400233129",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 65000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3497845393400233129",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 74000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1999251057421326404",
+"effectiveDate": "2022-04-10",
+"base": {
+"value": 103700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3263622942898755570",
+"effectiveDate": "2016-12-13",
+"base": {
+"value": 89100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3263622942898755570",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 101900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3263622942898755570",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 107900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8836773843586538837",
+"effectiveDate": "2020-08-02",
+"base": {
+"value": 41500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8836773843586538837",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 42900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8836773843586538837",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 44700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1531185748026232531",
+"effectiveDate": "2022-10-29",
+"base": {
+"value": 56100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1531185748026232531",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 58400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3413156022017714316",
+"effectiveDate": "2017-07-11",
+"base": {
+"value": 67200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3413156022017714316",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 69100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3413156022017714316",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 74200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1732432585729889274",
+"effectiveDate": "2018-12-07",
+"base": {
+"value": 65500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1732432585729889274",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 66700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1732432585729889274",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 69200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6536969030280134667",
+"effectiveDate": "2021-09-24",
+"base": {
+"value": 51900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6536969030280134667",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 53300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8666800231962328390",
+"effectiveDate": "2021-06-21",
+"base": {
+"value": 46600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8666800231962328390",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 47400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8666800231962328390",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 48700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4622557144451261767",
+"effectiveDate": "2020-12-29",
+"base": {
+"value": 52500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4622557144451261767",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 53000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4622557144451261767",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 54300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7002295057913626774",
+"effectiveDate": "2024-06-10",
+"base": {
+"value": 55100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7002295057913626774",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 56600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7002295057913626774",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 58300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4168661311810697785",
+"effectiveDate": "2023-11-24",
+"base": {
+"value": 44200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4168661311810697785",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 45800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4168661311810697785",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 47300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7281923221589696165",
+"effectiveDate": "2020-05-03",
+"base": {
+"value": 74800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7281923221589696165",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 78300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7281923221589696165",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 80700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4365034484079436596",
+"effectiveDate": "2018-10-15",
+"base": {
+"value": 78800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4365034484079436596",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 82100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4365034484079436596",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 92500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8583188635806500937",
+"effectiveDate": "2020-02-20",
+"base": {
+"value": 72500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8583188635806500937",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 74900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2584168654075656750",
+"effectiveDate": "2017-12-26",
+"base": {
+"value": 66800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2584168654075656750",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 69400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2584168654075656750",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 72500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3532492199040542315",
+"effectiveDate": "2020-11-03",
+"base": {
+"value": 42100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3532492199040542315",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 51900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3532492199040542315",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 52800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4012980072540033290",
+"effectiveDate": "2018-05-29",
+"base": {
+"value": 81100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4012980072540033290",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 84900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4012980072540033290",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 86300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3050499065281167804",
+"effectiveDate": "2019-08-31",
+"base": {
+"value": 62300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3050499065281167804",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 63200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3050499065281167804",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 65500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6251070127415493746",
+"effectiveDate": "2019-09-07",
+"base": {
+"value": 34100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6251070127415493746",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 35200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6251070127415493746",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 36300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6118586047053299570",
+"effectiveDate": "2017-06-13",
+"base": {
+"value": 35500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6118586047053299570",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 36500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6118586047053299570",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 37400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2303379599307999117",
+"effectiveDate": "2018-04-02",
+"base": {
+"value": 106200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2303379599307999117",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 108400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2303379599307999117",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 115500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8147926858089681492",
+"effectiveDate": "2024-08-20",
+"base": {
+"value": 50400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8147926858089681492",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 51800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8147926858089681492",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 53500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1259553511311680589",
+"effectiveDate": "2022-02-18",
+"base": {
+"value": 38800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1259553511311680589",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 40600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3685808313577121670",
+"effectiveDate": "2022-04-06",
+"base": {
+"value": 57300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3685808313577121670",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 59100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3685808313577121670",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 61600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3431344232095509027",
+"effectiveDate": "2022-08-31",
+"base": {
+"value": 42100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3431344232095509027",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 44500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3431344232095509027",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 45300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2139841646100057106",
+"effectiveDate": "2023-09-16",
+"base": {
+"value": 85000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2139841646100057106",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 88300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1940720089741147176",
+"effectiveDate": "2022-10-24",
+"base": {
+"value": 38900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1940720089741147176",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 40600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1940720089741147176",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 44000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4637682563378689385",
+"effectiveDate": "2021-12-29",
+"base": {
+"value": 36800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4637682563378689385",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 38200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4637682563378689385",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 39400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1211617842543124231",
+"effectiveDate": "2019-10-12",
+"base": {
+"value": 69100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1211617842543124231",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 77200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1616138133237386654",
+"effectiveDate": "2020-04-25",
+"base": {
+"value": 56700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1616138133237386654",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 58900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1616138133237386654",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 66800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5577986326212285021",
+"effectiveDate": "2022-05-04",
+"base": {
+"value": 45600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5577986326212285021",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 47400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5577986326212285021",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 49300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1045779434987292023",
+"effectiveDate": "2020-08-05",
+"base": {
+"value": 64800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1045779434987292023",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 66100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3559125298589834096",
+"effectiveDate": "2017-11-23",
+"base": {
+"value": 38900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3559125298589834096",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 39800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3559125298589834096",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 41600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5714278842814363736",
+"effectiveDate": "2018-11-01",
+"base": {
+"value": 71900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5714278842814363736",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 74800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5714278842814363736",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 76900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5359566893104046184",
+"effectiveDate": "2020-03-27",
+"base": {
+"value": 64800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5359566893104046184",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 67300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5359566893104046184",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 67300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2996155696705030874",
+"effectiveDate": "2022-04-02",
+"base": {
+"value": 63800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2996155696705030874",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 64600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2996155696705030874",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 65500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2370232903932452467",
+"effectiveDate": "2017-06-12",
+"base": {
+"value": 28300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2370232903932452467",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 28900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2370232903932452467",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 30600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3487411711851868589",
+"effectiveDate": "2017-01-13",
+"base": {
+"value": 33500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3487411711851868589",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 34000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3487411711851868589",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 35500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3276275143391704971",
+"effectiveDate": "2018-05-12",
+"base": {
+"value": 49800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3276275143391704971",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 52500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3276275143391704971",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 54900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3046705280937699263",
+"effectiveDate": "2017-12-20",
+"base": {
+"value": 51300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3046705280937699263",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 53000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5819779432006530377",
+"effectiveDate": "2021-05-16",
+"base": {
+"value": 89700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5819779432006530377",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 92700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5819779432006530377",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 111300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1824753284417877169",
+"effectiveDate": "2021-04-16",
+"base": {
+"value": 58700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1824753284417877169",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 60700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1824753284417877169",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 62600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6428952777472501689",
+"effectiveDate": "2018-04-09",
+"base": {
+"value": 77800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6428952777472501689",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 81800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6428952777472501689",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 84300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8542234188507885563",
+"effectiveDate": "2020-04-17",
+"base": {
+"value": 64400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8542234188507885563",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 66900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8542234188507885563",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 68200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2118541171283692142",
+"effectiveDate": "2019-06-07",
+"base": {
+"value": 55400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2118541171283692142",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 57600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3993452689961020474",
+"effectiveDate": "2021-05-01",
+"base": {
+"value": 53800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3993452689961020474",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 56000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3993452689961020474",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 58600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5623666902847014013",
+"effectiveDate": "2022-04-17",
+"base": {
+"value": 90500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5623666902847014013",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 92400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5623666902847014013",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 94800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3028385141352752188",
+"effectiveDate": "2021-07-22",
+"base": {
+"value": 52200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3028385141352752188",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 53200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3028385141352752188",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 53800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3687274519886572874",
+"effectiveDate": "2023-04-05",
+"base": {
+"value": 116500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3687274519886572874",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 121000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3687274519886572874",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 125500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4481669036629530555",
+"effectiveDate": "2019-03-14",
+"base": {
+"value": 77700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4481669036629530555",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 79400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4481669036629530555",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 82100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1223460401261552400",
+"effectiveDate": "2017-06-03",
+"base": {
+"value": 35300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1223460401261552400",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 44500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1223460401261552400",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 45700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7367444175577198082",
+"effectiveDate": "2016-11-28",
+"base": {
+"value": 45500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7367444175577198082",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 47300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7367444175577198082",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 49200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5150548630590416417",
+"effectiveDate": "2024-01-26",
+"base": {
+"value": 35200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5150548630590416417",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 36800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5150548630590416417",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 38400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7811036881478353218",
+"effectiveDate": "2023-10-14",
+"base": {
+"value": 97100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7811036881478353218",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 101300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7811036881478353218",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 106600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6699657548641414548",
+"effectiveDate": "2024-06-22",
+"base": {
+"value": 63700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6699657548641414548",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 66900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6699657548641414548",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 68800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1435943785550724276",
+"effectiveDate": "2019-12-29",
+"base": {
+"value": 46600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1435943785550724276",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 47800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1435943785550724276",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 49000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5990020761066832280",
+"effectiveDate": "2016-12-01",
+"base": {
+"value": 81200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5990020761066832280",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 84900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5990020761066832280",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 88800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1455590568951246738",
+"effectiveDate": "2017-11-03",
+"base": {
+"value": 43800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1455590568951246738",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 51700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1455590568951246738",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 53600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6254456110031217217",
+"effectiveDate": "2020-06-28",
+"base": {
+"value": 41900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6254456110031217217",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 42500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6254456110031217217",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 47300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3672090734606657014",
+"effectiveDate": "2020-09-10",
+"base": {
+"value": 46000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3672090734606657014",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 46800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3672090734606657014",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 49100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1780719675249238238",
+"effectiveDate": "2019-01-22",
+"base": {
+"value": 75400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1780719675249238238",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 83400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1780719675249238238",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 88100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8022989346224315064",
+"effectiveDate": "2019-10-29",
+"base": {
+"value": 89100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8022989346224315064",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 92800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3109061638395859302",
+"effectiveDate": "2019-12-17",
+"base": {
+"value": 45300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3109061638395859302",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 46800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3109061638395859302",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 49000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4707312323045475305",
+"effectiveDate": "2024-08-25",
+"base": {
+"value": 56600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4707312323045475305",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 58600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4707312323045475305",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 59900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8925859473667053553",
+"effectiveDate": "2017-03-27",
+"base": {
+"value": 72300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8925859473667053553",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 75100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8925859473667053553",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 75100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3546572385546904418",
+"effectiveDate": "2024-01-04",
+"base": {
+"value": 49000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3546572385546904418",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 50400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3546572385546904418",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 57100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1913146890209824228",
+"effectiveDate": "2018-05-07",
+"base": {
+"value": 33100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1913146890209824228",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 34400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1913146890209824228",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 35500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2405458766107507275",
+"effectiveDate": "2021-09-01",
+"base": {
+"value": 34700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8483393053745418594",
+"effectiveDate": "2020-03-26",
+"base": {
+"value": 52500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8483393053745418594",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 53300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8483393053745418594",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 55200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3437600932369844978",
+"effectiveDate": "2019-04-03",
+"base": {
+"value": 67300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3437600932369844978",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 68900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3437600932369844978",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 73500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6220041574443366951",
+"effectiveDate": "2023-05-13",
+"base": {
+"value": 56300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6220041574443366951",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 58600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6220041574443366951",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 61500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5107472365275801036",
+"effectiveDate": "2017-11-15",
+"base": {
+"value": 66900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5107472365275801036",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 81900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5107472365275801036",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 85100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7988063021175076285",
+"effectiveDate": "2019-05-20",
+"base": {
+"value": 25800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7988063021175076285",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 26200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6022887333128324339",
+"effectiveDate": "2023-12-26",
+"base": {
+"value": 61800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6022887333128324339",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 64400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1696931365393504699",
+"effectiveDate": "2017-07-05",
+"base": {
+"value": 95600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1696931365393504699",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 96500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3704750825685072744",
+"effectiveDate": "2022-06-18",
+"base": {
+"value": 26200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3704750825685072744",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 27100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3704750825685072744",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 27400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7643199168670410061",
+"effectiveDate": "2022-06-29",
+"base": {
+"value": 56200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7643199168670410061",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 59000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7643199168670410061",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 66600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3423748739594657289",
+"effectiveDate": "2023-09-30",
+"base": {
+"value": 36400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3423748739594657289",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 36700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3423748739594657289",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 37900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2288071187659341098",
+"effectiveDate": "2022-07-21",
+"base": {
+"value": 54500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2288071187659341098",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 56700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8416633062299208606",
+"effectiveDate": "2018-06-02",
+"base": {
+"value": 31100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8416633062299208606",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 32400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8416633062299208606",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 33800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4100843340652317605",
+"effectiveDate": "2024-02-29",
+"base": {
+"value": 47700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4100843340652317605",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 50600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4100843340652317605",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 53400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3866702301345094116",
+"effectiveDate": "2024-10-01",
+"base": {
+"value": 64100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3866702301345094116",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 66200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3866702301345094116",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 67900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8295838471112610270",
+"effectiveDate": "2021-11-05",
+"base": {
+"value": 113000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8295838471112610270",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 120300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8295838471112610270",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 125500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6865129216948174684",
+"effectiveDate": "2016-11-05",
+"base": {
+"value": 108000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8179957550364288769",
+"effectiveDate": "2017-04-11",
+"base": {
+"value": 52300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8179957550364288769",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 55000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8179957550364288769",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 55300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6890906198764750234",
+"effectiveDate": "2022-11-19",
+"base": {
+"value": 92300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6890906198764750234",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 94100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6890906198764750234",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 102600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8916294592267127119",
+"effectiveDate": "2017-12-20",
+"base": {
+"value": 30600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8916294592267127119",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 31500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8916294592267127119",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 32800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2187733245881189140",
+"effectiveDate": "2019-11-23",
+"base": {
+"value": 70900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2187733245881189140",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 73700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2187733245881189140",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 77200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6202121823490420058",
+"effectiveDate": "2020-04-16",
+"base": {
+"value": 34300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6202121823490420058",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 35800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6202121823490420058",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 36700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3112904252953327846",
+"effectiveDate": "2021-03-31",
+"base": {
+"value": 71500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3112904252953327846",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 75100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3112904252953327846",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 79100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6300077029086587334",
+"effectiveDate": "2022-07-26",
+"base": {
+"value": 96700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6300077029086587334",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 99500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6300077029086587334",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 103100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5339660763990694847",
+"effectiveDate": "2024-02-03",
+"base": {
+"value": 45200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5339660763990694847",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 46200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5339660763990694847",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 48600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5244249266248477229",
+"effectiveDate": "2022-12-19",
+"base": {
+"value": 68700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5244249266248477229",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 71100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5244249266248477229",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 81300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4990291379507058691",
+"effectiveDate": "2020-11-21",
+"base": {
+"value": 44600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4990291379507058691",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 44700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4990291379507058691",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 45700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1979654530608624792",
+"effectiveDate": "2023-11-01",
+"base": {
+"value": 87500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1979654530608624792",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 89500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1979654530608624792",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 94300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2122728155296149314",
+"effectiveDate": "2017-09-13",
+"base": {
+"value": 48900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2122728155296149314",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 54300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2122728155296149314",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 57300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7973590236621701265",
+"effectiveDate": "2021-10-30",
+"base": {
+"value": 77500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7973590236621701265",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 78900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7973590236621701265",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 80700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6573815826660659996",
+"effectiveDate": "2019-12-01",
+"base": {
+"value": 29000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6573815826660659996",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 31000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6573815826660659996",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 32800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1720328097377974667",
+"effectiveDate": "2017-05-03",
+"base": {
+"value": 70800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1720328097377974667",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 74000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1720328097377974667",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 75100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6824754979142804370",
+"effectiveDate": "2023-04-05",
+"base": {
+"value": 98300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6824754979142804370",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 101600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3949739984785248233",
+"effectiveDate": "2021-02-07",
+"base": {
+"value": 60700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3949739984785248233",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 63500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3949739984785248233",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 66200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8602812521225144281",
+"effectiveDate": "2020-11-12",
+"base": {
+"value": 53400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8602812521225144281",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 55300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8602812521225144281",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 56500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3443009605919511340",
+"effectiveDate": "2018-08-05",
+"base": {
+"value": 67400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3443009605919511340",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 69100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3443009605919511340",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 76400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2577922412801580713",
+"effectiveDate": "2022-04-28",
+"base": {
+"value": 102300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2577922412801580713",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 106700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2577922412801580713",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 110400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8550297347801039366",
+"effectiveDate": "2018-08-17",
+"base": {
+"value": 96500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8550297347801039366",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 98100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8550297347801039366",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 101300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4908846182151074656",
+"effectiveDate": "2020-05-17",
+"base": {
+"value": 69900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2984914618778839118",
+"effectiveDate": "2024-09-17",
+"base": {
+"value": 68900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2984914618778839118",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 70500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2984914618778839118",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 73900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7169494457547503071",
+"effectiveDate": "2023-03-18",
+"base": {
+"value": 59600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7169494457547503071",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 62500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7169494457547503071",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 64500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7044727938039521953",
+"effectiveDate": "2016-11-29",
+"base": {
+"value": 43800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7044727938039521953",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 53800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7044727938039521953",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 54400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6067514387850311215",
+"effectiveDate": "2022-07-11",
+"base": {
+"value": 41700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6067514387850311215",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 43700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6067514387850311215",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 45900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7365673760202527202",
+"effectiveDate": "2022-07-23",
+"base": {
+"value": 57900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7365673760202527202",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 60200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7365673760202527202",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 64100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6738747783339670587",
+"effectiveDate": "2021-11-10",
+"base": {
+"value": 65700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6738747783339670587",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 66700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6738747783339670587",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 67400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1170879519295035962",
+"effectiveDate": "2022-08-19",
+"base": {
+"value": 56300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1170879519295035962",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 57900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1170879519295035962",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 60800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3574807063950799874",
+"effectiveDate": "2018-04-17",
+"base": {
+"value": 35700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3574807063950799874",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 37500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3574807063950799874",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 38000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3110541786879314509",
+"effectiveDate": "2023-08-26",
+"base": {
+"value": 80400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3110541786879314509",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 83100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3110541786879314509",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 86900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8533536796697038086",
+"effectiveDate": "2021-02-08",
+"base": {
+"value": 86000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8533536796697038086",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 90100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8533536796697038086",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 92800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3585359892713064286",
+"effectiveDate": "2023-01-21",
+"base": {
+"value": 53000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7085771865638399452",
+"effectiveDate": "2022-04-04",
+"base": {
+"value": 109400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7085771865638399452",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 113300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7085771865638399452",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 115400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4014685157188789663",
+"effectiveDate": "2018-01-08",
+"base": {
+"value": 48600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4014685157188789663",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 49400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4014685157188789663",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 51200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7489973136870433914",
+"effectiveDate": "2021-09-18",
+"base": {
+"value": 69200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7489973136870433914",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 72600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6984821389423531101",
+"effectiveDate": "2018-10-17",
+"base": {
+"value": 43800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6984821389423531101",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 45100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6984821389423531101",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 46300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5310975145662695416",
+"effectiveDate": "2019-07-23",
+"base": {
+"value": 73100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5310975145662695416",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 73700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5310975145662695416",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 78100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3178552617823188720",
+"effectiveDate": "2022-05-19",
+"base": {
+"value": 35700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3178552617823188720",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 37800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3178552617823188720",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 39100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4617678842337667507",
+"effectiveDate": "2017-04-08",
+"base": {
+"value": 38500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4617678842337667507",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 39800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4617678842337667507",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 41400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4343975654156853659",
+"effectiveDate": "2018-11-23",
+"base": {
+"value": 65100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4343975654156853659",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 66800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4343975654156853659",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 69200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6622724758338846757",
+"effectiveDate": "2023-04-13",
+"base": {
+"value": 75200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6622724758338846757",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 75200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6622724758338846757",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 78800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6196230910785779295",
+"effectiveDate": "2019-03-26",
+"base": {
+"value": 38700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6196230910785779295",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 39800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6196230910785779295",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 44800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3039571312550545186",
+"effectiveDate": "2021-06-17",
+"base": {
+"value": 64300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3039571312550545186",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 66800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3039571312550545186",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 76800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2287233923932318199",
+"effectiveDate": "2022-01-28",
+"base": {
+"value": 60300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2287233923932318199",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 68500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2287233923932318199",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 71200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3987064178565584838",
+"effectiveDate": "2021-07-18",
+"base": {
+"value": 90700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2639578356795009663",
+"effectiveDate": "2018-06-22",
+"base": {
+"value": 55500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2639578356795009663",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 57100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2639578356795009663",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 59400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4152373976181384511",
+"effectiveDate": "2024-03-18",
+"base": {
+"value": 86400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4152373976181384511",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 86500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4152373976181384511",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 89700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3603844769767090365",
+"effectiveDate": "2020-07-08",
+"base": {
+"value": 42000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3603844769767090365",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 44100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7777825342884282877",
+"effectiveDate": "2020-06-14",
+"base": {
+"value": 82800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2855982593989670997",
+"effectiveDate": "2022-03-04",
+"base": {
+"value": 89600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2855982593989670997",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 92800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2855982593989670997",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 96400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8776852962556908384",
+"effectiveDate": "2019-03-16",
+"base": {
+"value": 46400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8776852962556908384",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 48700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8776852962556908384",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 50300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6549548156933017109",
+"effectiveDate": "2021-02-17",
+"base": {
+"value": 44600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6549548156933017109",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 47300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6549548156933017109",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 48700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3246261812816282184",
+"effectiveDate": "2020-05-01",
+"base": {
+"value": 60900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3246261812816282184",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 62400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3246261812816282184",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 64400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7453501665690790815",
+"effectiveDate": "2020-11-16",
+"base": {
+"value": 56100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7453501665690790815",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 56100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7453501665690790815",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 58400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7227574914945330882",
+"effectiveDate": "2024-09-18",
+"base": {
+"value": 38300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7227574914945330882",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 40200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7227574914945330882",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 42200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3858468343919375472",
+"effectiveDate": "2018-09-26",
+"base": {
+"value": 84300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3858468343919375472",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 86100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3858468343919375472",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 89700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5294607392709910753",
+"effectiveDate": "2018-02-24",
+"base": {
+"value": 59600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5294607392709910753",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 72500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5294607392709910753",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 74900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7617786545323059219",
+"effectiveDate": "2021-07-17",
+"base": {
+"value": 86000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3671899748621189889",
+"effectiveDate": "2019-02-10",
+"base": {
+"value": 84300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3671899748621189889",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 87800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3671899748621189889",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 91600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4758543755071698080",
+"effectiveDate": "2020-05-16",
+"base": {
+"value": 95400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4758543755071698080",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 105400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4758543755071698080",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 110700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2962697762399965689",
+"effectiveDate": "2018-10-17",
+"base": {
+"value": 82500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2962697762399965689",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 87600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2962697762399965689",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 91500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5818494715209055026",
+"effectiveDate": "2020-10-22",
+"base": {
+"value": 55500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5818494715209055026",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 58000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5818494715209055026",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 61500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4738706228865768197",
+"effectiveDate": "2021-05-02",
+"base": {
+"value": 63800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4738706228865768197",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 64100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4738706228865768197",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 66500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6231241625073500680",
+"effectiveDate": "2022-07-03",
+"base": {
+"value": 79500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6231241625073500680",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 82300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6231241625073500680",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 85400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8328842759708704190",
+"effectiveDate": "2020-05-16",
+"base": {
+"value": 72300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8328842759708704190",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 74100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8328842759708704190",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 76200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3078173133218806174",
+"effectiveDate": "2019-05-07",
+"base": {
+"value": 48000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3078173133218806174",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 50200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3078173133218806174",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 51500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4044982892985947637",
+"effectiveDate": "2023-08-10",
+"base": {
+"value": 54100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4044982892985947637",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 55800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4044982892985947637",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 58000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3275836525792672475",
+"effectiveDate": "2018-07-08",
+"base": {
+"value": 76700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3275836525792672475",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 80800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3275836525792672475",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 83400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3058803512078918605",
+"effectiveDate": "2018-06-08",
+"base": {
+"value": 47400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1976737364092590405",
+"effectiveDate": "2023-05-09",
+"base": {
+"value": 68100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1976737364092590405",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 71100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1976737364092590405",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 74400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1741840577069724677",
+"effectiveDate": "2020-04-22",
+"base": {
+"value": 73400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7544617753700819856",
+"effectiveDate": "2022-02-04",
+"base": {
+"value": 45100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7544617753700819856",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 48200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1979187863806343477",
+"effectiveDate": "2022-09-24",
+"base": {
+"value": 45000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1979187863806343477",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 46900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1979187863806343477",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 55600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7698431368895279608",
+"effectiveDate": "2018-09-13",
+"base": {
+"value": 59900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7698431368895279608",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 61400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7698431368895279608",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 63700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1152128302641442894",
+"effectiveDate": "2017-09-14",
+"base": {
+"value": 55600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1152128302641442894",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 57500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1152128302641442894",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 61200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7130802205167670876",
+"effectiveDate": "2018-03-31",
+"base": {
+"value": 58200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7130802205167670876",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 59500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7130802205167670876",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 62400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1915528138493259415",
+"effectiveDate": "2024-01-25",
+"base": {
+"value": 45700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1915528138493259415",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 46500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1915528138493259415",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 48900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8269799944624578209",
+"effectiveDate": "2018-05-27",
+"base": {
+"value": 42800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8269799944624578209",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 44400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8269799944624578209",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 45600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4839786301589375979",
+"effectiveDate": "2024-06-07",
+"base": {
+"value": 80200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4839786301589375979",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 83600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4839786301589375979",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 92400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5031186390856459657",
+"effectiveDate": "2023-02-22",
+"base": {
+"value": 54000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5031186390856459657",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 55600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5031186390856459657",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 57300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5608075366087783807",
+"effectiveDate": "2022-02-06",
+"base": {
+"value": 30400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5608075366087783807",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 31500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5608075366087783807",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 33200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7857957646534385005",
+"effectiveDate": "2022-08-15",
+"base": {
+"value": 59900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7857957646534385005",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 61100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7857957646534385005",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 62500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4879820649049946509",
+"effectiveDate": "2020-08-01",
+"base": {
+"value": 63000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4879820649049946509",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 64600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4879820649049946509",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 67000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8420634433414500664",
+"effectiveDate": "2023-07-27",
+"base": {
+"value": 52100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8420634433414500664",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 53500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8420634433414500664",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 56700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6864690844865067007",
+"effectiveDate": "2020-10-08",
+"base": {
+"value": 65800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6864690844865067007",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 65800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6864690844865067007",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 78000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7020686199752429324",
+"effectiveDate": "2020-06-13",
+"base": {
+"value": 67300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7020686199752429324",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 67800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7020686199752429324",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 70300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8519061759548578135",
+"effectiveDate": "2023-05-25",
+"base": {
+"value": 69400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8519061759548578135",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 71200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7922001474125505307",
+"effectiveDate": "2022-05-29",
+"base": {
+"value": 81200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3597696312054685962",
+"effectiveDate": "2024-06-03",
+"base": {
+"value": 38600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3597696312054685962",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 39300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3597696312054685962",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 41100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2357584947632692673",
+"effectiveDate": "2023-12-23",
+"base": {
+"value": 63600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2357584947632692673",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 73800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5091154181709421313",
+"effectiveDate": "2021-06-11",
+"base": {
+"value": 108400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5091154181709421313",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 108800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1064780472446129436",
+"effectiveDate": "2017-08-19",
+"base": {
+"value": 37500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1064780472446129436",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 39000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1064780472446129436",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 42700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7930524130602422888",
+"effectiveDate": "2021-12-07",
+"base": {
+"value": 45600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7930524130602422888",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 48000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5242792682832871089",
+"effectiveDate": "2017-01-28",
+"base": {
+"value": 74200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5242792682832871089",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 76600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5242792682832871089",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 80800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6495311288024177979",
+"effectiveDate": "2017-09-30",
+"base": {
+"value": 51500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6495311288024177979",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 53600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6495311288024177979",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 55400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5894163589606050445",
+"effectiveDate": "2017-05-06",
+"base": {
+"value": 73200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5894163589606050445",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 75800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5894163589606050445",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 78300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7242880997158104117",
+"effectiveDate": "2022-11-03",
+"base": {
+"value": 67800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7242880997158104117",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 80800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7242880997158104117",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 81700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8874889489812555724",
+"effectiveDate": "2023-12-19",
+"base": {
+"value": 83600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8874889489812555724",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 86500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8874889489812555724",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 88700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4986659079974282119",
+"effectiveDate": "2018-02-05",
+"base": {
+"value": 69300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4986659079974282119",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 70100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4986659079974282119",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 70100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4737966009997574828",
+"effectiveDate": "2023-01-02",
+"base": {
+"value": 73800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4737966009997574828",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 78200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4737966009997574828",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 82400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8606517679608963770",
+"effectiveDate": "2016-11-24",
+"base": {
+"value": 47800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8606517679608963770",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 48300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8606517679608963770",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 51000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6578007713483090613",
+"effectiveDate": "2016-12-25",
+"base": {
+"value": 30900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6578007713483090613",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 32200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3017592865481260128",
+"effectiveDate": "2019-02-04",
+"base": {
+"value": 47200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3017592865481260128",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 49400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3017592865481260128",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 50600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4589320961675969042",
+"effectiveDate": "2021-09-05",
+"base": {
+"value": 47000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4589320961675969042",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 47700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1157599089378761685",
+"effectiveDate": "2019-10-05",
+"base": {
+"value": 33500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1157599089378761685",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 34400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1157599089378761685",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 36200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4544438954975053539",
+"effectiveDate": "2023-09-22",
+"base": {
+"value": 65200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4544438954975053539",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 67100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4544438954975053539",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 70000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7132252109959417790",
+"effectiveDate": "2021-08-19",
+"base": {
+"value": 53200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7132252109959417790",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 55100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7132252109959417790",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 56400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8660036756868581805",
+"effectiveDate": "2024-08-08",
+"base": {
+"value": 31900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8660036756868581805",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 33400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3937314129576794548",
+"effectiveDate": "2023-08-25",
+"base": {
+"value": 87000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3937314129576794548",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 88200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3937314129576794548",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 90100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7243035126568875664",
+"effectiveDate": "2017-11-12",
+"base": {
+"value": 36800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7243035126568875664",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 37900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5398348556176599580",
+"effectiveDate": "2023-06-03",
+"base": {
+"value": 59700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5398348556176599580",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 62500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6349502503782190860",
+"effectiveDate": "2023-10-19",
+"base": {
+"value": 77800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6349502503782190860",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 81600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6349502503782190860",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 89100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2286755332260778667",
+"effectiveDate": "2020-01-15",
+"base": {
+"value": 60300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2286755332260778667",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 63300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2286755332260778667",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 64200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5855983744077758961",
+"effectiveDate": "2017-09-15",
+"base": {
+"value": 41200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5855983744077758961",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 43100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6650355934198590165",
+"effectiveDate": "2019-05-17",
+"base": {
+"value": 36700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6650355934198590165",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 37800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6650355934198590165",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 38200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6073305581404444868",
+"effectiveDate": "2017-06-18",
+"base": {
+"value": 68100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6073305581404444868",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 69300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6073305581404444868",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 72400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1084606767229824771",
+"effectiveDate": "2022-07-03",
+"base": {
+"value": 47700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1084606767229824771",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 50100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1084606767229824771",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 53400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6718547009858696264",
+"effectiveDate": "2023-08-01",
+"base": {
+"value": 52700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6718547009858696264",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 54400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6718547009858696264",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 56800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8544923760603945118",
+"effectiveDate": "2023-01-18",
+"base": {
+"value": 45000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8544923760603945118",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 47000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8544923760603945118",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 47400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6639583525318565892",
+"effectiveDate": "2013-01-01",
+"base": {
+"value": 115000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1792329047021057783",
+"effectiveDate": "2024-11-08",
+"base": {
+"value": 62600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1792329047021057783",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 72400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1792329047021057783",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 74600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2204049293017277696",
+"effectiveDate": "2024-11-15",
+"base": {
+"value": 47400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2204049293017277696",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 47800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2822429298564413501",
+"effectiveDate": "2024-12-08",
+"base": {
+"value": 75500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2822429298564413501",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 78500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2822429298564413501",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 81200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4834219720186302666",
+"effectiveDate": "2024-12-01",
+"base": {
+"value": 81900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4834219720186302666",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 86600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4395236200908644228",
+"effectiveDate": "2024-12-01",
+"base": {
+"value": 98600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4395236200908644228",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 101100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4395236200908644228",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 102600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8281795041713120205",
+"effectiveDate": "2024-12-01",
+"base": {
+"value": 61900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8281795041713120205",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 62800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8281795041713120205",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 64200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6532887678851043690",
+"effectiveDate": "2024-12-08",
+"base": {
+"value": 121000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6532887678851043690",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 126000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6532887678851043690",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 131200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8030386046151237565",
+"effectiveDate": "2024-12-15",
+"base": {
+"value": 48200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8030386046151237565",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 50100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8030386046151237565",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 55800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7391740478308359829",
+"effectiveDate": "2024-12-01",
+"base": {
+"value": 55600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7391740478308359829",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 57000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7391740478308359829",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 58400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6040669361072906947",
+"effectiveDate": "2025-01-15",
+"base": {
+"value": 83500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6040669361072906947",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 84500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6040669361072906947",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 85400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5189423472988107706",
+"effectiveDate": "2025-01-08",
+"base": {
+"value": 76900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5189423472988107706",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 81200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8662884623648278817",
+"effectiveDate": "2025-01-01",
+"base": {
+"value": 80300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8662884623648278817",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 82500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8662884623648278817",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 86500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1735362750828359718",
+"effectiveDate": "2025-01-08",
+"base": {
+"value": 64400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1735362750828359718",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 67900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1735362750828359718",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 70700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4070049477850885610",
+"effectiveDate": "2025-01-01",
+"base": {
+"value": 65300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4070049477850885610",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 66100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4070049477850885610",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 70300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5025236778689494781",
+"effectiveDate": "2025-02-01",
+"base": {
+"value": 44300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5025236778689494781",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 46000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5714053625246742351",
+"effectiveDate": "2025-02-08",
+"base": {
+"value": 51100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5714053625246742351",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 52200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5714053625246742351",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 53000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1567502316308940970",
+"effectiveDate": "2025-02-08",
+"base": {
+"value": 61100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1567502316308940970",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 62900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1567502316308940970",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 65700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1336002862796653221",
+"effectiveDate": "2025-02-08",
+"base": {
+"value": 50500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1336002862796653221",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 52600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1336002862796653221",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 55000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6557027482427149196",
+"effectiveDate": "2025-02-15",
+"base": {
+"value": 42200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6557027482427149196",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 43400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6557027482427149196",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 45000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3212002299471591035",
+"effectiveDate": "2025-02-15",
+"base": {
+"value": 87200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3212002299471591035",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 91100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3212002299471591035",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 93400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2223020426878668385",
+"effectiveDate": "2025-03-08",
+"base": {
+"value": 82500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2223020426878668385",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 85600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2223020426878668385",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 88100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7156487246525282232",
+"effectiveDate": "2025-03-15",
+"base": {
+"value": 55800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7156487246525282232",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 57100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7156487246525282232",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 59200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2611322799181452200",
+"effectiveDate": "2025-03-01",
+"base": {
+"value": 53100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2611322799181452200",
+"effectiveDate": "2025-04-01",
+"base": {
+"value": 53900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2611322799181452200",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 59400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4740887991431533402",
+"effectiveDate": "2025-04-08",
+"base": {
+"value": 50000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4740887991431533402",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 52300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7709785552973635265",
+"effectiveDate": "2025-04-15",
+"base": {
+"value": 52100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7709785552973635265",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 54000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8255478375934126527",
+"effectiveDate": "2025-05-01",
+"base": {
+"value": 63000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8255478375934126527",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 64900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2333844597680429582",
+"effectiveDate": "2025-05-01",
+"base": {
+"value": 78100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2333844597680429582",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 81000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6130368479982299957",
+"effectiveDate": "2025-05-15",
+"base": {
+"value": 59200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6130368479982299957",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 61400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5104698807695544070",
+"effectiveDate": "2025-05-15",
+"base": {
+"value": 97600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5104698807695544070",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 101700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8035112298755715393",
+"effectiveDate": "2025-05-15",
+"base": {
+"value": 75800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8035112298755715393",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 78700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2077976205149819053",
+"effectiveDate": "2025-06-08",
+"base": {
+"value": 32400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5422432536463232211",
+"effectiveDate": "2025-07-01",
+"base": {
+"value": 29000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5422432536463232211",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 29700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1071054683228308041",
+"effectiveDate": "2025-07-08",
+"base": {
+"value": 52100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3820297135461640919",
+"effectiveDate": "2025-07-15",
+"base": {
+"value": 66100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3820297135461640919",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 73500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2773820070697898372",
+"effectiveDate": "2025-07-08",
+"base": {
+"value": 114800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2773820070697898372",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 119100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6600184797719341185",
+"effectiveDate": "2025-08-01",
+"base": {
+"value": 58700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7167668832622120142",
+"effectiveDate": "2025-08-15",
+"base": {
+"value": 104100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7167668832622120142",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 107700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5918599837478603430",
+"effectiveDate": "2025-09-08",
+"base": {
+"value": 62100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5918599837478603430",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 65700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4920398463192085924",
+"effectiveDate": "2025-09-01",
+"base": {
+"value": 98400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4920398463192085924",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 101000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8279721426134488748",
+"effectiveDate": "2025-09-08",
+"base": {
+"value": 57200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8279721426134488748",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 66800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5468197958990326641",
+"effectiveDate": "2025-10-15",
+"base": {
+"value": 50500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5468197958990326641",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 52100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1597526883971328782",
+"effectiveDate": "2025-10-08",
+"base": {
+"value": 34600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7495381001768963165",
+"effectiveDate": "2025-10-15",
+"base": {
+"value": 44600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7495381001768963165",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 45300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4072543326304255029",
+"effectiveDate": "2025-11-15",
+"base": {
+"value": 48800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4072543326304255029",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 50600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5472283362961336541",
+"effectiveDate": "2025-11-08",
+"base": {
+"value": 77600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5472283362961336541",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 79300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6444858718155556407",
+"effectiveDate": "2025-12-15",
+"base": {
+"value": 95900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6444858718155556407",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 98700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7503797413100322112",
+"effectiveDate": "2025-12-01",
+"base": {
+"value": 35400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7503797413100322112",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 36200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4755711231391877156",
+"effectiveDate": "2025-12-08",
+"base": {
+"value": 70000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4755711231391877156",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 72300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7282022765998723049",
+"effectiveDate": "2026-01-01",
+"base": {
+"value": 57400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7282022765998723049",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 59600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5485438058435063215",
+"effectiveDate": "2026-01-08",
+"base": {
+"value": 54700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5485438058435063215",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 54700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4439426711870881426",
+"effectiveDate": "2026-01-08",
+"base": {
+"value": 53100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4439426711870881426",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 54900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3147370505997729071",
+"effectiveDate": "2026-01-01",
+"base": {
+"value": 54800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3147370505997729071",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 57000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5128066308195578970",
+"effectiveDate": "2026-02-08",
+"base": {
+"value": 56700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "5128066308195578970",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 57800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1368055320693209703",
+"effectiveDate": "2026-02-15",
+"base": {
+"value": 78700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "1368055320693209703",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 80900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6615546049633611521",
+"effectiveDate": "2026-03-08",
+"base": {
+"value": 55800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6615546049633611521",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 59200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6289979998138343852",
+"effectiveDate": "2026-03-01",
+"base": {
+"value": 34800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6289979998138343852",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 35800.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6113371164466338712",
+"effectiveDate": "2026-04-15",
+"base": {
+"value": 78100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8332932904081288700",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 64500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7715729517251144755",
+"effectiveDate": "2026-04-08",
+"base": {
+"value": 42000.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4781292445251738413",
+"effectiveDate": "2026-04-01",
+"base": {
+"value": 53300.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7670158683809876597",
+"effectiveDate": "2026-05-08",
+"base": {
+"value": 27100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7150144637450948528",
+"effectiveDate": "2026-05-08",
+"base": {
+"value": 45400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4195553930594464431",
+"effectiveDate": "2026-05-01",
+"base": {
+"value": 39500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6279415405956029154",
+"effectiveDate": "2026-05-15",
+"base": {
+"value": 81700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3485801099143234349",
+"effectiveDate": "2026-06-01",
+"base": {
+"value": 44500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4056690555596465437",
+"effectiveDate": "2026-06-01",
+"base": {
+"value": 35900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3951798856280257973",
+"effectiveDate": "2026-06-08",
+"base": {
+"value": 94400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8301935308156617068",
+"effectiveDate": "2026-06-01",
+"base": {
+"value": 90900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6962088135296998517",
+"effectiveDate": "2026-07-08",
+"base": {
+"value": 63400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7972958959428071305",
+"effectiveDate": "2026-07-08",
+"base": {
+"value": 73200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6347998725037612342",
+"effectiveDate": "2026-07-08",
+"base": {
+"value": 50500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "6781062996679892897",
+"effectiveDate": "2026-08-08",
+"base": {
+"value": 69900.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "4349108857802524823",
+"effectiveDate": "2026-08-08",
+"base": {
+"value": 60700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7879899094665849655",
+"effectiveDate": "2026-09-15",
+"base": {
+"value": 43400.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8809065745983940482",
+"effectiveDate": "2026-09-08",
+"base": {
+"value": 91100.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "2094129082651734225",
+"effectiveDate": "2026-09-15",
+"base": {
+"value": 65500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3344652639819717871",
+"effectiveDate": "2026-09-01",
+"base": {
+"value": 42500.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "7702465228599849252",
+"effectiveDate": "2026-09-15",
+"base": {
+"value": 69700.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "3681501480681605382",
+"effectiveDate": "2026-10-15",
+"base": {
+"value": 86600.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+},
+{
+"employeeId": "8261158354661925069",
+"effectiveDate": "2026-08-15",
+"base": {
+"value": 48200.0,
+"currency": "EUR"
+},
+"payPeriod": "Annual"
+}
+]

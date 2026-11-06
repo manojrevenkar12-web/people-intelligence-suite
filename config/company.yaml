@@ -1,0 +1,40 @@
+# The simulated company: the truth. Only src/pis/sim and src/pis/evaluate.py read this file.
+seed: 7
+months: 24                      # history, ending with the reporting month
+end_month: "2026-10"
+headcount_start: 236
+countries:                      # share of hires, employer social cost rate, payroll vendor format
+  DE: {share: 0.44, employer_rate: 0.205, vendor: datev, site: Hamburg}
+  ES: {share: 0.21, employer_rate: 0.31, vendor: cloudpay, site: Madrid}
+  PT: {share: 0.20, employer_rate: 0.2375, vendor: cloudpay, site: Lisbon}
+  IT: {share: 0.15, employer_rate: 0.30, vendor: cloudpay, site: Milan}
+departments: {Engineering: 0.28, Product: 0.09, Design: 0.06, Marketing: 0.10, "Customer Success": 0.17,
+              Sales: 0.10, Finance: 0.06, People: 0.05, "Data & Analytics": 0.09}
+levels: {L1: 0.10, L2: 0.27, L3: 0.30, L4: 0.20, L5: 0.10, L6: 0.03}
+band_mid_de: {L1: 42000, L2: 55000, L3: 68000, L4: 84000, L5: 102000, L6: 128000}
+country_factor: {DE: 1.0, ES: 0.78, PT: 0.66, IT: 0.80}
+department_factor: {Engineering: 1.08, "Data & Analytics": 1.06, Product: 1.05, Design: 0.98, Marketing: 0.95,
+                    "Customer Success": 0.88, Sales: 0.97, Finance: 1.0, People: 0.94}
+female_share: 0.47
+nonbinary_share: 0.02
+part_time_share: 0.09
+monthly_leave_rate: 0.011       # leavers per head per month
+monthly_hire_rate: 0.0125
+voluntary_share: 0.72
+review_month: 4                 # April merit review
+merit_mean: 0.035
+promotion_rate: 0.08            # per year
+# A real gap, for the pay-gap analysis to find: within the same level and country.
+planted_gap: {department: "Customer Success", female_discount: 0.075}
+defects:                        # what the People and Finance data get wrong, and how often
+  leaver_paid: 3                # terminated in HiBob, still paid the month after
+  joiner_missing: 3             # started, missing from the first payroll month
+  raise_not_in_payroll: 5       # salary change in HiBob, payroll kept the old base
+  fte_mismatch: 2               # part-time in HiBob, full time in payroll
+  comp_not_in_hibob: 3          # approved in the compensation tool, never entered in HiBob
+  manager_is_leaver: 3          # reportsTo points at a terminated employee
+  missing_manager: 2
+  duplicate_rehire: 1           # a rehire created as a second person
+  gl_old_cost_center: 2         # transferred employee still booked to the old department in the GL
+  vendor_cents_month: 1         # one cloudpay file sends amounts in cents
+  department_alias: 2           # payroll cost centre written as an alias

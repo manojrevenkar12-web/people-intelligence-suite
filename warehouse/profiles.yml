@@ -1,0 +1,16 @@
+people_intelligence:
+  target: duckdb
+  outputs:
+    duckdb:
+      type: duckdb
+      path: "{{ env_var('PIS_WAREHOUSE', '../data/warehouse.duckdb') }}"
+      threads: 2
+    postgres:            # the same models against PostgreSQL in production
+      type: postgres
+      host: "{{ env_var('PIS_PG_HOST', 'localhost') }}"
+      user: "{{ env_var('PIS_PG_USER', 'pis') }}"
+      password: "{{ env_var('PIS_PG_PASSWORD', '') }}"
+      dbname: "{{ env_var('PIS_PG_DB', 'people') }}"
+      schema: analytics
+      port: 5432
+      threads: 2

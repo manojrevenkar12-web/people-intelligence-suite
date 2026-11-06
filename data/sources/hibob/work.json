@@ -1,0 +1,3278 @@
+[
+{
+"employeeId": "4743479622749766325",
+"effectiveDate": "2017-04-12",
+"department": "Sales",
+"title": "Sales Lead",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "2722469585884791810",
+"effectiveDate": "2022-01-19",
+"department": "Marketing",
+"title": "Growth Marketer",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "4974987483148034685",
+"effectiveDate": "2016-12-05",
+"department": "Engineering",
+"title": "Engineering Manager",
+"customColumns": {
+"level": "L1"
+}
+},
+{
+"employeeId": "5078326478947386104",
+"effectiveDate": "2023-12-27",
+"department": "Engineering",
+"title": "Engineering Manager",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "1474013138764029829",
+"effectiveDate": "2017-10-15",
+"department": "Sales",
+"title": "Partnerships Manager",
+"customColumns": {
+"level": "L1"
+}
+},
+{
+"employeeId": "2206304153346949854",
+"effectiveDate": "2020-01-08",
+"department": "Finance",
+"title": "Accountant",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "6297717906707630931",
+"effectiveDate": "2019-05-28",
+"department": "Design",
+"title": "Product Designer",
+"customColumns": {
+"level": "L1"
+}
+},
+{
+"employeeId": "6297717906707630931",
+"effectiveDate": "2025-05-01",
+"department": "Engineering",
+"title": "Engineering Manager",
+"customColumns": {
+"level": "L1"
+}
+},
+{
+"employeeId": "8072455153571759864",
+"effectiveDate": "2018-01-24",
+"department": "People",
+"title": "People Partner",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "3577306478241800997",
+"effectiveDate": "2023-04-30",
+"department": "Design",
+"title": "Design Lead",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "3577306478241800997",
+"effectiveDate": "2026-04-01",
+"department": "Design",
+"title": "Design Lead",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "3753685335968209996",
+"effectiveDate": "2024-04-26",
+"department": "Engineering",
+"title": "Frontend Engineer",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "3753685335968209996",
+"effectiveDate": "2026-04-01",
+"department": "Engineering",
+"title": "Frontend Engineer",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "7023820028782032095",
+"effectiveDate": "2017-11-06",
+"department": "Product",
+"title": "Group Product Manager",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "2588169183941382962",
+"effectiveDate": "2019-08-30",
+"department": "Finance",
+"title": "Finance Manager",
+"customColumns": {
+"level": "L1"
+}
+},
+{
+"employeeId": "8843158007044716062",
+"effectiveDate": "2022-12-18",
+"department": "Product",
+"title": "Product Manager",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "4439974895209304656",
+"effectiveDate": "2017-03-26",
+"department": "Sales",
+"title": "Sales Lead",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "4186204477434964881",
+"effectiveDate": "2024-03-18",
+"department": "Engineering",
+"title": "Software Engineer",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "3453275927110975353",
+"effectiveDate": "2023-06-02",
+"department": "Data & Analytics",
+"title": "Analytics Engineer",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "3453275927110975353",
+"effectiveDate": "2026-04-01",
+"department": "Data & Analytics",
+"title": "Analytics Engineer",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "1905639620201784508",
+"effectiveDate": "2019-07-16",
+"department": "Customer Success",
+"title": "Customer Success Lead",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "2500026674847732488",
+"effectiveDate": "2019-04-07",
+"department": "Marketing",
+"title": "Marketing Manager",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "6264208652893807194",
+"effectiveDate": "2022-10-28",
+"department": "Engineering",
+"title": "Backend Engineer",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "1901735933782960604",
+"effectiveDate": "2018-05-02",
+"department": "Customer Success",
+"title": "Customer Success Lead",
+"customColumns": {
+"level": "L1"
+}
+},
+{
+"employeeId": "5589129435988185558",
+"effectiveDate": "2022-03-28",
+"department": "Product",
+"title": "Group Product Manager",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "8143582065526316515",
+"effectiveDate": "2022-09-03",
+"department": "Customer Success",
+"title": "Customer Success Lead",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "8143582065526316515",
+"effectiveDate": "2026-04-01",
+"department": "Customer Success",
+"title": "Customer Success Lead",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "6257951306165869546",
+"effectiveDate": "2017-11-22",
+"department": "Customer Success",
+"title": "Customer Success Lead",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "3638818266259313287",
+"effectiveDate": "2020-01-30",
+"department": "Customer Success",
+"title": "Support Specialist",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "3638818266259313287",
+"effectiveDate": "2026-04-01",
+"department": "Customer Success",
+"title": "Support Specialist",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "2045473966458213569",
+"effectiveDate": "2022-10-18",
+"department": "Sales",
+"title": "Account Executive",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "2045473966458213569",
+"effectiveDate": "2025-04-01",
+"department": "Sales",
+"title": "Account Executive",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "6687052425572269610",
+"effectiveDate": "2018-11-30",
+"department": "Product",
+"title": "Product Manager",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "3129897812903549488",
+"effectiveDate": "2021-10-14",
+"department": "Sales",
+"title": "Sales Lead",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "3129897812903549488",
+"effectiveDate": "2025-04-01",
+"department": "Sales",
+"title": "Sales Lead",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "7744200534732689691",
+"effectiveDate": "2023-01-31",
+"department": "Engineering",
+"title": "Frontend Engineer",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "4358167458959531120",
+"effectiveDate": "2017-04-28",
+"department": "Customer Success",
+"title": "Customer Success Agent",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "4358167458959531120",
+"effectiveDate": "2026-04-01",
+"department": "Customer Success",
+"title": "Customer Success Agent",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "7082986367921458234",
+"effectiveDate": "2022-01-17",
+"department": "Design",
+"title": "UX Researcher",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "5599623470632152955",
+"effectiveDate": "2021-09-09",
+"department": "Sales",
+"title": "Partnerships Manager",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "3497845393400233129",
+"effectiveDate": "2017-06-03",
+"department": "Data & Analytics",
+"title": "Data Analyst",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "3497845393400233129",
+"effectiveDate": "2026-04-01",
+"department": "Data & Analytics",
+"title": "Data Analyst",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "1999251057421326404",
+"effectiveDate": "2022-04-10",
+"department": "Engineering",
+"title": "Frontend Engineer",
+"customColumns": {
+"level": "L6"
+}
+},
+{
+"employeeId": "3263622942898755570",
+"effectiveDate": "2016-12-13",
+"department": "Engineering",
+"title": "Software Engineer",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "3263622942898755570",
+"effectiveDate": "2025-04-01",
+"department": "Engineering",
+"title": "Software Engineer",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "8836773843586538837",
+"effectiveDate": "2020-08-02",
+"department": "Customer Success",
+"title": "Support Specialist",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "1531185748026232531",
+"effectiveDate": "2022-10-29",
+"department": "Engineering",
+"title": "Engineering Manager",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "3413156022017714316",
+"effectiveDate": "2017-07-11",
+"department": "Sales",
+"title": "Sales Lead",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "1732432585729889274",
+"effectiveDate": "2018-12-07",
+"department": "Engineering",
+"title": "Engineering Manager",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "6536969030280134667",
+"effectiveDate": "2021-09-24",
+"department": "Product",
+"title": "Product Owner",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "8666800231962328390",
+"effectiveDate": "2021-06-21",
+"department": "Customer Success",
+"title": "Customer Success Agent",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "4622557144451261767",
+"effectiveDate": "2020-12-29",
+"department": "Marketing",
+"title": "Content Marketer",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "7002295057913626774",
+"effectiveDate": "2024-06-10",
+"department": "Engineering",
+"title": "Backend Engineer",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "4168661311810697785",
+"effectiveDate": "2023-11-24",
+"department": "Marketing",
+"title": "Growth Marketer",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "7281923221589696165",
+"effectiveDate": "2020-05-03",
+"department": "Marketing",
+"title": "Marketing Manager",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "4365034484079436596",
+"effectiveDate": "2018-10-15",
+"department": "Design",
+"title": "UX Researcher",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "4365034484079436596",
+"effectiveDate": "2026-04-01",
+"department": "Design",
+"title": "UX Researcher",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "8583188635806500937",
+"effectiveDate": "2020-02-20",
+"department": "Product",
+"title": "Product Manager",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "2584168654075656750",
+"effectiveDate": "2017-12-26",
+"department": "People",
+"title": "People Partner",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "3532492199040542315",
+"effectiveDate": "2020-11-03",
+"department": "Finance",
+"title": "Finance Manager",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "3532492199040542315",
+"effectiveDate": "2025-04-01",
+"department": "Finance",
+"title": "Finance Manager",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "4012980072540033290",
+"effectiveDate": "2018-05-29",
+"department": "Sales",
+"title": "Account Executive",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "3050499065281167804",
+"effectiveDate": "2019-08-31",
+"department": "Marketing",
+"title": "Marketing Manager",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "6251070127415493746",
+"effectiveDate": "2019-09-07",
+"department": "Sales",
+"title": "Account Executive",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "6118586047053299570",
+"effectiveDate": "2017-06-13",
+"department": "Sales",
+"title": "Account Executive",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "2303379599307999117",
+"effectiveDate": "2018-04-02",
+"department": "Product",
+"title": "Product Manager",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "8147926858089681492",
+"effectiveDate": "2024-08-20",
+"department": "Engineering",
+"title": "Backend Engineer",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "1259553511311680589",
+"effectiveDate": "2022-02-18",
+"department": "Customer Success",
+"title": "Customer Success Lead",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "3685808313577121670",
+"effectiveDate": "2022-04-06",
+"department": "Data & Analytics",
+"title": "Analytics Engineer",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "3431344232095509027",
+"effectiveDate": "2022-08-31",
+"department": "Customer Success",
+"title": "Customer Success Lead",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "2139841646100057106",
+"effectiveDate": "2023-09-16",
+"department": "Engineering",
+"title": "Software Engineer",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "1940720089741147176",
+"effectiveDate": "2022-10-24",
+"department": "Engineering",
+"title": "Frontend Engineer",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "4637682563378689385",
+"effectiveDate": "2021-12-29",
+"department": "Finance",
+"title": "Finance Manager",
+"customColumns": {
+"level": "L1"
+}
+},
+{
+"employeeId": "1211617842543124231",
+"effectiveDate": "2019-10-12",
+"department": "Sales",
+"title": "Partnerships Manager",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "1211617842543124231",
+"effectiveDate": "2025-04-01",
+"department": "Sales",
+"title": "Partnerships Manager",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "1616138133237386654",
+"effectiveDate": "2020-04-25",
+"department": "Sales",
+"title": "Sales Lead",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "1616138133237386654",
+"effectiveDate": "2026-04-01",
+"department": "Sales",
+"title": "Sales Lead",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "5577986326212285021",
+"effectiveDate": "2022-05-04",
+"department": "Engineering",
+"title": "Backend Engineer",
+"customColumns": {
+"level": "L1"
+}
+},
+{
+"employeeId": "1045779434987292023",
+"effectiveDate": "2020-08-05",
+"department": "People",
+"title": "People Partner",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "3559125298589834096",
+"effectiveDate": "2017-11-23",
+"department": "Sales",
+"title": "Partnerships Manager",
+"customColumns": {
+"level": "L1"
+}
+},
+{
+"employeeId": "5714278842814363736",
+"effectiveDate": "2018-11-01",
+"department": "Engineering",
+"title": "Frontend Engineer",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "5359566893104046184",
+"effectiveDate": "2020-03-27",
+"department": "Engineering",
+"title": "Frontend Engineer",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "2996155696705030874",
+"effectiveDate": "2022-04-02",
+"department": "Design",
+"title": "UX Researcher",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "2370232903932452467",
+"effectiveDate": "2017-06-12",
+"department": "Data & Analytics",
+"title": "Analytics Engineer",
+"customColumns": {
+"level": "L1"
+}
+},
+{
+"employeeId": "3487411711851868589",
+"effectiveDate": "2017-01-13",
+"department": "Marketing",
+"title": "Growth Marketer",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "3276275143391704971",
+"effectiveDate": "2018-05-12",
+"department": "People",
+"title": "People Partner",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "3046705280937699263",
+"effectiveDate": "2017-12-20",
+"department": "Marketing",
+"title": "Marketing Manager",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "5819779432006530377",
+"effectiveDate": "2021-05-16",
+"department": "People",
+"title": "Talent Partner",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "5819779432006530377",
+"effectiveDate": "2026-04-01",
+"department": "People",
+"title": "Talent Partner",
+"customColumns": {
+"level": "L6"
+}
+},
+{
+"employeeId": "1824753284417877169",
+"effectiveDate": "2021-04-16",
+"department": "Sales",
+"title": "Account Executive",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "6428952777472501689",
+"effectiveDate": "2018-04-09",
+"department": "Engineering",
+"title": "Software Engineer",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "8542234188507885563",
+"effectiveDate": "2020-04-17",
+"department": "Finance",
+"title": "Financial Analyst",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "2118541171283692142",
+"effectiveDate": "2019-06-07",
+"department": "Design",
+"title": "UX Researcher",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "3993452689961020474",
+"effectiveDate": "2021-05-01",
+"department": "Customer Success",
+"title": "Support Specialist",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "5623666902847014013",
+"effectiveDate": "2022-04-17",
+"department": "Engineering",
+"title": "Backend Engineer",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "3028385141352752188",
+"effectiveDate": "2021-07-22",
+"department": "Customer Success",
+"title": "Customer Success Agent",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "3687274519886572874",
+"effectiveDate": "2023-04-05",
+"department": "Customer Success",
+"title": "Customer Success Agent",
+"customColumns": {
+"level": "L6"
+}
+},
+{
+"employeeId": "4481669036629530555",
+"effectiveDate": "2019-03-14",
+"department": "Engineering",
+"title": "Engineering Manager",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "1223460401261552400",
+"effectiveDate": "2017-06-03",
+"department": "Engineering",
+"title": "Software Engineer",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "1223460401261552400",
+"effectiveDate": "2025-04-01",
+"department": "Engineering",
+"title": "Software Engineer",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "7367444175577198082",
+"effectiveDate": "2016-11-28",
+"department": "Customer Success",
+"title": "Customer Success Lead",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "5150548630590416417",
+"effectiveDate": "2024-01-26",
+"department": "Customer Success",
+"title": "Customer Success Lead",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "7811036881478353218",
+"effectiveDate": "2023-10-14",
+"department": "Engineering",
+"title": "Engineering Manager",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "6699657548641414548",
+"effectiveDate": "2024-06-22",
+"department": "People",
+"title": "People Operations Specialist",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "1435943785550724276",
+"effectiveDate": "2019-12-29",
+"department": "Product",
+"title": "Product Owner",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "5990020761066832280",
+"effectiveDate": "2016-12-01",
+"department": "Marketing",
+"title": "Content Marketer",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "1455590568951246738",
+"effectiveDate": "2017-11-03",
+"department": "Finance",
+"title": "Financial Analyst",
+"customColumns": {
+"level": "L1"
+}
+},
+{
+"employeeId": "1455590568951246738",
+"effectiveDate": "2025-04-01",
+"department": "Finance",
+"title": "Financial Analyst",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "6254456110031217217",
+"effectiveDate": "2020-06-28",
+"department": "Engineering",
+"title": "Frontend Engineer",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "6254456110031217217",
+"effectiveDate": "2026-04-01",
+"department": "Engineering",
+"title": "Frontend Engineer",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "3672090734606657014",
+"effectiveDate": "2020-09-10",
+"department": "Marketing",
+"title": "Marketing Manager",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "1780719675249238238",
+"effectiveDate": "2019-01-22",
+"department": "Engineering",
+"title": "Engineering Manager",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "1780719675249238238",
+"effectiveDate": "2025-04-01",
+"department": "Engineering",
+"title": "Engineering Manager",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "8022989346224315064",
+"effectiveDate": "2019-10-29",
+"department": "Data & Analytics",
+"title": "Data Analyst",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "3109061638395859302",
+"effectiveDate": "2019-12-17",
+"department": "Product",
+"title": "Group Product Manager",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "4707312323045475305",
+"effectiveDate": "2024-08-25",
+"department": "Customer Success",
+"title": "Customer Success Lead",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "8925859473667053553",
+"effectiveDate": "2017-03-27",
+"department": "Product",
+"title": "Product Owner",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "3546572385546904418",
+"effectiveDate": "2024-01-04",
+"department": "Data & Analytics",
+"title": "Data Scientist",
+"customColumns": {
+"level": "L1"
+}
+},
+{
+"employeeId": "3546572385546904418",
+"effectiveDate": "2026-04-01",
+"department": "Data & Analytics",
+"title": "Data Scientist",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "1913146890209824228",
+"effectiveDate": "2018-05-07",
+"department": "Customer Success",
+"title": "Support Specialist",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "2405458766107507275",
+"effectiveDate": "2021-09-01",
+"department": "Sales",
+"title": "Sales Lead",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "8483393053745418594",
+"effectiveDate": "2020-03-26",
+"department": "People",
+"title": "People Partner",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "3437600932369844978",
+"effectiveDate": "2019-04-03",
+"department": "Data & Analytics",
+"title": "Data Analyst",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "6220041574443366951",
+"effectiveDate": "2023-05-13",
+"department": "Product",
+"title": "Product Owner",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "5107472365275801036",
+"effectiveDate": "2017-11-15",
+"department": "Product",
+"title": "Product Owner",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "5107472365275801036",
+"effectiveDate": "2025-04-01",
+"department": "Product",
+"title": "Product Owner",
+"customColumns": {
+"level": "L6"
+}
+},
+{
+"employeeId": "7988063021175076285",
+"effectiveDate": "2019-05-20",
+"department": "Finance",
+"title": "Finance Manager",
+"customColumns": {
+"level": "L1"
+}
+},
+{
+"employeeId": "6022887333128324339",
+"effectiveDate": "2023-12-26",
+"department": "Sales",
+"title": "Sales Lead",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "1696931365393504699",
+"effectiveDate": "2017-07-05",
+"department": "Product",
+"title": "Product Owner",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "3704750825685072744",
+"effectiveDate": "2022-06-18",
+"department": "Customer Success",
+"title": "Support Specialist",
+"customColumns": {
+"level": "L1"
+}
+},
+{
+"employeeId": "7643199168670410061",
+"effectiveDate": "2022-06-29",
+"department": "Sales",
+"title": "Partnerships Manager",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "7643199168670410061",
+"effectiveDate": "2026-04-01",
+"department": "Sales",
+"title": "Partnerships Manager",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "3423748739594657289",
+"effectiveDate": "2023-09-30",
+"department": "Customer Success",
+"title": "Customer Success Agent",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "2288071187659341098",
+"effectiveDate": "2022-07-21",
+"department": "Engineering",
+"title": "Backend Engineer",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "8416633062299208606",
+"effectiveDate": "2018-06-02",
+"department": "Data & Analytics",
+"title": "Data Analyst",
+"customColumns": {
+"level": "L1"
+}
+},
+{
+"employeeId": "4100843340652317605",
+"effectiveDate": "2024-02-29",
+"department": "Sales",
+"title": "Sales Lead",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "3866702301345094116",
+"effectiveDate": "2024-10-01",
+"department": "Engineering",
+"title": "Backend Engineer",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "8295838471112610270",
+"effectiveDate": "2021-11-05",
+"department": "Design",
+"title": "UX Researcher",
+"customColumns": {
+"level": "L6"
+}
+},
+{
+"employeeId": "6865129216948174684",
+"effectiveDate": "2016-11-05",
+"department": "Engineering",
+"title": "Engineering Manager",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "8179957550364288769",
+"effectiveDate": "2017-04-11",
+"department": "Engineering",
+"title": "Frontend Engineer",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "6890906198764750234",
+"effectiveDate": "2022-11-19",
+"department": "Engineering",
+"title": "Backend Engineer",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "6890906198764750234",
+"effectiveDate": "2026-04-01",
+"department": "Engineering",
+"title": "Backend Engineer",
+"customColumns": {
+"level": "L6"
+}
+},
+{
+"employeeId": "8916294592267127119",
+"effectiveDate": "2017-12-20",
+"department": "Data & Analytics",
+"title": "Data Analyst",
+"customColumns": {
+"level": "L1"
+}
+},
+{
+"employeeId": "2187733245881189140",
+"effectiveDate": "2019-11-23",
+"department": "Sales",
+"title": "Account Executive",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "6202121823490420058",
+"effectiveDate": "2020-04-16",
+"department": "Finance",
+"title": "Finance Manager",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "3112904252953327846",
+"effectiveDate": "2021-03-31",
+"department": "Data & Analytics",
+"title": "Analytics Engineer",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "6300077029086587334",
+"effectiveDate": "2022-07-26",
+"department": "Engineering",
+"title": "Frontend Engineer",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "5339660763990694847",
+"effectiveDate": "2024-02-03",
+"department": "Marketing",
+"title": "Marketing Manager",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "5244249266248477229",
+"effectiveDate": "2022-12-19",
+"department": "Engineering",
+"title": "Frontend Engineer",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "5244249266248477229",
+"effectiveDate": "2026-04-01",
+"department": "Engineering",
+"title": "Frontend Engineer",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "4990291379507058691",
+"effectiveDate": "2020-11-21",
+"department": "Customer Success",
+"title": "Support Specialist",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "1979654530608624792",
+"effectiveDate": "2023-11-01",
+"department": "Customer Success",
+"title": "Customer Success Agent",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "2122728155296149314",
+"effectiveDate": "2017-09-13",
+"department": "Engineering",
+"title": "Backend Engineer",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "2122728155296149314",
+"effectiveDate": "2025-04-01",
+"department": "Engineering",
+"title": "Backend Engineer",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "7973590236621701265",
+"effectiveDate": "2021-10-30",
+"department": "Finance",
+"title": "Financial Analyst",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "6573815826660659996",
+"effectiveDate": "2019-12-01",
+"department": "Customer Success",
+"title": "Customer Success Agent",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "1720328097377974667",
+"effectiveDate": "2017-05-03",
+"department": "Customer Success",
+"title": "Customer Success Agent",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "6824754979142804370",
+"effectiveDate": "2023-04-05",
+"department": "Finance",
+"title": "Financial Analyst",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "3949739984785248233",
+"effectiveDate": "2021-02-07",
+"department": "Product",
+"title": "Product Owner",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "8602812521225144281",
+"effectiveDate": "2020-11-12",
+"department": "Customer Success",
+"title": "Customer Success Agent",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "3443009605919511340",
+"effectiveDate": "2018-08-05",
+"department": "Marketing",
+"title": "Content Marketer",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "3443009605919511340",
+"effectiveDate": "2026-04-01",
+"department": "Marketing",
+"title": "Content Marketer",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "2577922412801580713",
+"effectiveDate": "2022-04-28",
+"department": "Engineering",
+"title": "Engineering Manager",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "8550297347801039366",
+"effectiveDate": "2018-08-17",
+"department": "Design",
+"title": "Design Lead",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "4908846182151074656",
+"effectiveDate": "2020-05-17",
+"department": "Engineering",
+"title": "Software Engineer",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "2984914618778839118",
+"effectiveDate": "2024-09-17",
+"department": "Data & Analytics",
+"title": "Analytics Engineer",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "7169494457547503071",
+"effectiveDate": "2023-03-18",
+"department": "Finance",
+"title": "Accountant",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "7044727938039521953",
+"effectiveDate": "2016-11-29",
+"department": "Customer Success",
+"title": "Customer Success Agent",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "7044727938039521953",
+"effectiveDate": "2025-04-01",
+"department": "Customer Success",
+"title": "Customer Success Agent",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "6067514387850311215",
+"effectiveDate": "2022-07-11",
+"department": "Engineering",
+"title": "Backend Engineer",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "7365673760202527202",
+"effectiveDate": "2022-07-23",
+"department": "Engineering",
+"title": "Frontend Engineer",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "6738747783339670587",
+"effectiveDate": "2021-11-10",
+"department": "Design",
+"title": "Product Designer",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "1170879519295035962",
+"effectiveDate": "2022-08-19",
+"department": "Engineering",
+"title": "Backend Engineer",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "3574807063950799874",
+"effectiveDate": "2018-04-17",
+"department": "Customer Success",
+"title": "Customer Success Lead",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "3110541786879314509",
+"effectiveDate": "2023-08-26",
+"department": "Customer Success",
+"title": "Customer Success Lead",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "8533536796697038086",
+"effectiveDate": "2021-02-08",
+"department": "Sales",
+"title": "Partnerships Manager",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "3585359892713064286",
+"effectiveDate": "2023-01-21",
+"department": "Engineering",
+"title": "Engineering Manager",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "7085771865638399452",
+"effectiveDate": "2022-04-04",
+"department": "Engineering",
+"title": "Backend Engineer",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "4014685157188789663",
+"effectiveDate": "2018-01-08",
+"department": "Design",
+"title": "UX Researcher",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "7489973136870433914",
+"effectiveDate": "2021-09-18",
+"department": "Engineering",
+"title": "Software Engineer",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "6984821389423531101",
+"effectiveDate": "2018-10-17",
+"department": "Customer Success",
+"title": "Customer Success Agent",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "5310975145662695416",
+"effectiveDate": "2019-07-23",
+"department": "Customer Success",
+"title": "Customer Success Lead",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "3178552617823188720",
+"effectiveDate": "2022-05-19",
+"department": "Customer Success",
+"title": "Customer Success Lead",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "4617678842337667507",
+"effectiveDate": "2017-04-08",
+"department": "Marketing",
+"title": "Content Marketer",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "4343975654156853659",
+"effectiveDate": "2018-11-23",
+"department": "Product",
+"title": "Product Manager",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "6622724758338846757",
+"effectiveDate": "2023-04-13",
+"department": "Customer Success",
+"title": "Customer Success Agent",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "6196230910785779295",
+"effectiveDate": "2019-03-26",
+"department": "Engineering",
+"title": "Engineering Manager",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "6196230910785779295",
+"effectiveDate": "2026-04-01",
+"department": "Engineering",
+"title": "Engineering Manager",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "3039571312550545186",
+"effectiveDate": "2021-06-17",
+"department": "Engineering",
+"title": "Frontend Engineer",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "3039571312550545186",
+"effectiveDate": "2026-04-01",
+"department": "Engineering",
+"title": "Frontend Engineer",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "2287233923932318199",
+"effectiveDate": "2022-01-28",
+"department": "Marketing",
+"title": "Content Marketer",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "2287233923932318199",
+"effectiveDate": "2025-04-01",
+"department": "Marketing",
+"title": "Content Marketer",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "3987064178565584838",
+"effectiveDate": "2021-07-18",
+"department": "Engineering",
+"title": "Frontend Engineer",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "2639578356795009663",
+"effectiveDate": "2018-06-22",
+"department": "Finance",
+"title": "Accountant",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "4152373976181384511",
+"effectiveDate": "2024-03-18",
+"department": "Engineering",
+"title": "Backend Engineer",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "3603844769767090365",
+"effectiveDate": "2020-07-08",
+"department": "Finance",
+"title": "Accountant",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "7777825342884282877",
+"effectiveDate": "2020-06-14",
+"department": "Engineering",
+"title": "Backend Engineer",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "2855982593989670997",
+"effectiveDate": "2022-03-04",
+"department": "Product",
+"title": "Group Product Manager",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "2855982593989670997",
+"effectiveDate": "2025-06-01",
+"department": "Customer Success",
+"title": "Customer Success Lead",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "8776852962556908384",
+"effectiveDate": "2019-03-16",
+"department": "Product",
+"title": "Product Owner",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "6549548156933017109",
+"effectiveDate": "2021-02-17",
+"department": "Finance",
+"title": "Financial Analyst",
+"customColumns": {
+"level": "L1"
+}
+},
+{
+"employeeId": "3246261812816282184",
+"effectiveDate": "2020-05-01",
+"department": "Product",
+"title": "Group Product Manager",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "7453501665690790815",
+"effectiveDate": "2020-11-16",
+"department": "Product",
+"title": "Product Manager",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "7227574914945330882",
+"effectiveDate": "2024-09-18",
+"department": "Data & Analytics",
+"title": "Data Analyst",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "3858468343919375472",
+"effectiveDate": "2018-09-26",
+"department": "Product",
+"title": "Group Product Manager",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "5294607392709910753",
+"effectiveDate": "2018-02-24",
+"department": "Marketing",
+"title": "Growth Marketer",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "5294607392709910753",
+"effectiveDate": "2025-04-01",
+"department": "Marketing",
+"title": "Growth Marketer",
+"customColumns": {
+"level": "L6"
+}
+},
+{
+"employeeId": "7617786545323059219",
+"effectiveDate": "2021-07-17",
+"department": "Engineering",
+"title": "Software Engineer",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "3671899748621189889",
+"effectiveDate": "2019-02-10",
+"department": "Finance",
+"title": "Accountant",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "4758543755071698080",
+"effectiveDate": "2020-05-16",
+"department": "Engineering",
+"title": "Frontend Engineer",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "4758543755071698080",
+"effectiveDate": "2025-04-01",
+"department": "Engineering",
+"title": "Frontend Engineer",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "2962697762399965689",
+"effectiveDate": "2018-10-17",
+"department": "Customer Success",
+"title": "Customer Success Agent",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "5818494715209055026",
+"effectiveDate": "2020-10-22",
+"department": "Customer Success",
+"title": "Customer Success Agent",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "4738706228865768197",
+"effectiveDate": "2021-05-02",
+"department": "People",
+"title": "Talent Partner",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "6231241625073500680",
+"effectiveDate": "2022-07-03",
+"department": "Marketing",
+"title": "Growth Marketer",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "8328842759708704190",
+"effectiveDate": "2020-05-16",
+"department": "Engineering",
+"title": "Frontend Engineer",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "3078173133218806174",
+"effectiveDate": "2019-05-07",
+"department": "Product",
+"title": "Product Manager",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "4044982892985947637",
+"effectiveDate": "2023-08-10",
+"department": "People",
+"title": "Talent Partner",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "3275836525792672475",
+"effectiveDate": "2018-07-08",
+"department": "Customer Success",
+"title": "Support Specialist",
+"customColumns": {
+"level": "L6"
+}
+},
+{
+"employeeId": "3058803512078918605",
+"effectiveDate": "2018-06-08",
+"department": "Customer Success",
+"title": "Customer Success Agent",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "1976737364092590405",
+"effectiveDate": "2023-05-09",
+"department": "Product",
+"title": "Product Manager",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "1741840577069724677",
+"effectiveDate": "2020-04-22",
+"department": "Data & Analytics",
+"title": "Analytics Engineer",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "7544617753700819856",
+"effectiveDate": "2022-02-04",
+"department": "Customer Success",
+"title": "Support Specialist",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "1979187863806343477",
+"effectiveDate": "2022-09-24",
+"department": "Customer Success",
+"title": "Customer Success Agent",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "1979187863806343477",
+"effectiveDate": "2026-04-01",
+"department": "Customer Success",
+"title": "Customer Success Agent",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "7698431368895279608",
+"effectiveDate": "2018-09-13",
+"department": "Product",
+"title": "Group Product Manager",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "1152128302641442894",
+"effectiveDate": "2017-09-14",
+"department": "Engineering",
+"title": "Engineering Manager",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "7130802205167670876",
+"effectiveDate": "2018-03-31",
+"department": "Product",
+"title": "Product Owner",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "1915528138493259415",
+"effectiveDate": "2024-01-25",
+"department": "Sales",
+"title": "Sales Lead",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "8269799944624578209",
+"effectiveDate": "2018-05-27",
+"department": "Design",
+"title": "UX Researcher",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "4839786301589375979",
+"effectiveDate": "2024-06-07",
+"department": "Sales",
+"title": "Sales Lead",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "4839786301589375979",
+"effectiveDate": "2026-04-01",
+"department": "Sales",
+"title": "Sales Lead",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "5031186390856459657",
+"effectiveDate": "2023-02-22",
+"department": "Engineering",
+"title": "Software Engineer",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "5608075366087783807",
+"effectiveDate": "2022-02-06",
+"department": "Marketing",
+"title": "Content Marketer",
+"customColumns": {
+"level": "L1"
+}
+},
+{
+"employeeId": "7857957646534385005",
+"effectiveDate": "2022-08-15",
+"department": "Marketing",
+"title": "Marketing Manager",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "4879820649049946509",
+"effectiveDate": "2020-08-01",
+"department": "Engineering",
+"title": "Frontend Engineer",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "8420634433414500664",
+"effectiveDate": "2023-07-27",
+"department": "Customer Success",
+"title": "Customer Success Agent",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "6864690844865067007",
+"effectiveDate": "2020-10-08",
+"department": "Finance",
+"title": "Finance Manager",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "6864690844865067007",
+"effectiveDate": "2026-04-01",
+"department": "Finance",
+"title": "Finance Manager",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "7020686199752429324",
+"effectiveDate": "2020-06-13",
+"department": "Engineering",
+"title": "Frontend Engineer",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "8519061759548578135",
+"effectiveDate": "2023-05-25",
+"department": "Engineering",
+"title": "Engineering Manager",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "7922001474125505307",
+"effectiveDate": "2022-05-29",
+"department": "People",
+"title": "People Operations Specialist",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "3597696312054685962",
+"effectiveDate": "2024-06-03",
+"department": "Engineering",
+"title": "Frontend Engineer",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "2357584947632692673",
+"effectiveDate": "2023-12-23",
+"department": "Marketing",
+"title": "Content Marketer",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "2357584947632692673",
+"effectiveDate": "2025-04-01",
+"department": "Marketing",
+"title": "Content Marketer",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "5091154181709421313",
+"effectiveDate": "2021-06-11",
+"department": "Marketing",
+"title": "Content Marketer",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "1064780472446129436",
+"effectiveDate": "2017-08-19",
+"department": "Marketing",
+"title": "Marketing Manager",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "1064780472446129436",
+"effectiveDate": "2026-04-01",
+"department": "Marketing",
+"title": "Marketing Manager",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "7930524130602422888",
+"effectiveDate": "2021-12-07",
+"department": "Customer Success",
+"title": "Customer Success Lead",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "5242792682832871089",
+"effectiveDate": "2017-01-28",
+"department": "Engineering",
+"title": "Backend Engineer",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "6495311288024177979",
+"effectiveDate": "2017-09-30",
+"department": "Engineering",
+"title": "Engineering Manager",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "5894163589606050445",
+"effectiveDate": "2017-05-06",
+"department": "Customer Success",
+"title": "Customer Success Lead",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "7242880997158104117",
+"effectiveDate": "2022-11-03",
+"department": "Engineering",
+"title": "Engineering Manager",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "7242880997158104117",
+"effectiveDate": "2025-04-01",
+"department": "Engineering",
+"title": "Engineering Manager",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "8874889489812555724",
+"effectiveDate": "2023-12-19",
+"department": "Data & Analytics",
+"title": "Analytics Engineer",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "4986659079974282119",
+"effectiveDate": "2018-02-05",
+"department": "Design",
+"title": "Product Designer",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "4737966009997574828",
+"effectiveDate": "2023-01-02",
+"department": "Data & Analytics",
+"title": "Data Analyst",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "8606517679608963770",
+"effectiveDate": "2016-11-24",
+"department": "Customer Success",
+"title": "Customer Success Lead",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "6578007713483090613",
+"effectiveDate": "2016-12-25",
+"department": "Customer Success",
+"title": "Support Specialist",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "3017592865481260128",
+"effectiveDate": "2019-02-04",
+"department": "Customer Success",
+"title": "Support Specialist",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "4589320961675969042",
+"effectiveDate": "2021-09-05",
+"department": "Engineering",
+"title": "Frontend Engineer",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "1157599089378761685",
+"effectiveDate": "2019-10-05",
+"department": "Sales",
+"title": "Partnerships Manager",
+"customColumns": {
+"level": "L1"
+}
+},
+{
+"employeeId": "4544438954975053539",
+"effectiveDate": "2023-09-22",
+"department": "People",
+"title": "Talent Partner",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "7132252109959417790",
+"effectiveDate": "2021-08-19",
+"department": "Product",
+"title": "Product Owner",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "8660036756868581805",
+"effectiveDate": "2024-08-08",
+"department": "Engineering",
+"title": "Engineering Manager",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "3937314129576794548",
+"effectiveDate": "2023-08-25",
+"department": "People",
+"title": "People Operations Specialist",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "3937314129576794548",
+"effectiveDate": "2025-03-01",
+"department": "Sales",
+"title": "Account Executive",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "7243035126568875664",
+"effectiveDate": "2017-11-12",
+"department": "Customer Success",
+"title": "Customer Success Lead",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "5398348556176599580",
+"effectiveDate": "2023-06-03",
+"department": "Engineering",
+"title": "Frontend Engineer",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "6349502503782190860",
+"effectiveDate": "2023-10-19",
+"department": "Marketing",
+"title": "Marketing Manager",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "6349502503782190860",
+"effectiveDate": "2026-04-01",
+"department": "Marketing",
+"title": "Marketing Manager",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "2286755332260778667",
+"effectiveDate": "2020-01-15",
+"department": "People",
+"title": "People Operations Specialist",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "5855983744077758961",
+"effectiveDate": "2017-09-15",
+"department": "Marketing",
+"title": "Marketing Manager",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "6650355934198590165",
+"effectiveDate": "2019-05-17",
+"department": "Sales",
+"title": "Sales Lead",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "6073305581404444868",
+"effectiveDate": "2017-06-18",
+"department": "Product",
+"title": "Group Product Manager",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "1084606767229824771",
+"effectiveDate": "2022-07-03",
+"department": "Customer Success",
+"title": "Customer Success Lead",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "6718547009858696264",
+"effectiveDate": "2023-08-01",
+"department": "Finance",
+"title": "Financial Analyst",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "8544923760603945118",
+"effectiveDate": "2023-01-18",
+"department": "Finance",
+"title": "Accountant",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "6639583525318565892",
+"effectiveDate": "2013-01-01",
+"department": "Product",
+"title": "Chief Executive Officer",
+"customColumns": {
+"level": "L6"
+}
+},
+{
+"employeeId": "1792329047021057783",
+"effectiveDate": "2024-11-08",
+"department": "People",
+"title": "People Partner",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "1792329047021057783",
+"effectiveDate": "2025-04-01",
+"department": "People",
+"title": "People Partner",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "2204049293017277696",
+"effectiveDate": "2024-11-15",
+"department": "Design",
+"title": "UX Researcher",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "2822429298564413501",
+"effectiveDate": "2024-12-08",
+"department": "Engineering",
+"title": "Backend Engineer",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "4834219720186302666",
+"effectiveDate": "2024-12-01",
+"department": "Sales",
+"title": "Account Executive",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "4395236200908644228",
+"effectiveDate": "2024-12-01",
+"department": "Engineering",
+"title": "Software Engineer",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "8281795041713120205",
+"effectiveDate": "2024-12-01",
+"department": "Engineering",
+"title": "Engineering Manager",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "6532887678851043690",
+"effectiveDate": "2024-12-08",
+"department": "Engineering",
+"title": "Frontend Engineer",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "8030386046151237565",
+"effectiveDate": "2024-12-15",
+"department": "Marketing",
+"title": "Marketing Manager",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "8030386046151237565",
+"effectiveDate": "2026-04-01",
+"department": "Marketing",
+"title": "Marketing Manager",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "7391740478308359829",
+"effectiveDate": "2024-12-01",
+"department": "Customer Success",
+"title": "Customer Success Agent",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "6040669361072906947",
+"effectiveDate": "2025-01-15",
+"department": "Finance",
+"title": "Financial Analyst",
+"customColumns": {
+"level": "L6"
+}
+},
+{
+"employeeId": "5189423472988107706",
+"effectiveDate": "2025-01-08",
+"department": "Sales",
+"title": "Partnerships Manager",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "8662884623648278817",
+"effectiveDate": "2025-01-01",
+"department": "Engineering",
+"title": "Frontend Engineer",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "1735362750828359718",
+"effectiveDate": "2025-01-08",
+"department": "Customer Success",
+"title": "Customer Success Agent",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "4070049477850885610",
+"effectiveDate": "2025-01-01",
+"department": "Sales",
+"title": "Partnerships Manager",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "5025236778689494781",
+"effectiveDate": "2025-02-01",
+"department": "Design",
+"title": "UX Researcher",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "5714053625246742351",
+"effectiveDate": "2025-02-08",
+"department": "Data & Analytics",
+"title": "Data Analyst",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "1567502316308940970",
+"effectiveDate": "2025-02-08",
+"department": "Data & Analytics",
+"title": "Data Analyst",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "1336002862796653221",
+"effectiveDate": "2025-02-08",
+"department": "Engineering",
+"title": "Backend Engineer",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "6557027482427149196",
+"effectiveDate": "2025-02-15",
+"department": "Data & Analytics",
+"title": "Data Analyst",
+"customColumns": {
+"level": "L1"
+}
+},
+{
+"employeeId": "3212002299471591035",
+"effectiveDate": "2025-02-15",
+"department": "Marketing",
+"title": "Growth Marketer",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "2223020426878668385",
+"effectiveDate": "2025-03-08",
+"department": "Product",
+"title": "Group Product Manager",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "7156487246525282232",
+"effectiveDate": "2025-03-15",
+"department": "Finance",
+"title": "Finance Manager",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "2611322799181452200",
+"effectiveDate": "2025-03-01",
+"department": "Finance",
+"title": "Finance Manager",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "2611322799181452200",
+"effectiveDate": "2026-04-01",
+"department": "Finance",
+"title": "Finance Manager",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "4740887991431533402",
+"effectiveDate": "2025-04-08",
+"department": "Engineering",
+"title": "Software Engineer",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "7709785552973635265",
+"effectiveDate": "2025-04-15",
+"department": "Marketing",
+"title": "Growth Marketer",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "8255478375934126527",
+"effectiveDate": "2025-05-01",
+"department": "People",
+"title": "Talent Partner",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "2333844597680429582",
+"effectiveDate": "2025-05-01",
+"department": "Engineering",
+"title": "Backend Engineer",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "6130368479982299957",
+"effectiveDate": "2025-05-15",
+"department": "Product",
+"title": "Product Owner",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "5104698807695544070",
+"effectiveDate": "2025-05-15",
+"department": "Product",
+"title": "Product Manager",
+"customColumns": {
+"level": "L6"
+}
+},
+{
+"employeeId": "8035112298755715393",
+"effectiveDate": "2025-05-15",
+"department": "Engineering",
+"title": "Software Engineer",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "2077976205149819053",
+"effectiveDate": "2025-06-08",
+"department": "Design",
+"title": "UX Researcher",
+"customColumns": {
+"level": "L1"
+}
+},
+{
+"employeeId": "5422432536463232211",
+"effectiveDate": "2025-07-01",
+"department": "Engineering",
+"title": "Engineering Manager",
+"customColumns": {
+"level": "L1"
+}
+},
+{
+"employeeId": "1071054683228308041",
+"effectiveDate": "2025-07-08",
+"department": "Data & Analytics",
+"title": "Analytics Engineer",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "3820297135461640919",
+"effectiveDate": "2025-07-15",
+"department": "Finance",
+"title": "Finance Manager",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "3820297135461640919",
+"effectiveDate": "2026-04-01",
+"department": "Finance",
+"title": "Finance Manager",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "2773820070697898372",
+"effectiveDate": "2025-07-08",
+"department": "Data & Analytics",
+"title": "Data Analyst",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "6600184797719341185",
+"effectiveDate": "2025-08-01",
+"department": "Data & Analytics",
+"title": "Data Analyst",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "7167668832622120142",
+"effectiveDate": "2025-08-15",
+"department": "Marketing",
+"title": "Marketing Manager",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "5918599837478603430",
+"effectiveDate": "2025-09-08",
+"department": "Data & Analytics",
+"title": "Data Scientist",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "4920398463192085924",
+"effectiveDate": "2025-09-01",
+"department": "Design",
+"title": "Design Lead",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "8279721426134488748",
+"effectiveDate": "2025-09-08",
+"department": "Data & Analytics",
+"title": "Data Scientist",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "8279721426134488748",
+"effectiveDate": "2026-04-01",
+"department": "Data & Analytics",
+"title": "Data Scientist",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "5468197958990326641",
+"effectiveDate": "2025-10-15",
+"department": "Customer Success",
+"title": "Customer Success Lead",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "1597526883971328782",
+"effectiveDate": "2025-10-08",
+"department": "Customer Success",
+"title": "Customer Success Lead",
+"customColumns": {
+"level": "L1"
+}
+},
+{
+"employeeId": "7495381001768963165",
+"effectiveDate": "2025-10-15",
+"department": "Sales",
+"title": "Account Executive",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "4072543326304255029",
+"effectiveDate": "2025-11-15",
+"department": "Customer Success",
+"title": "Customer Success Lead",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "5472283362961336541",
+"effectiveDate": "2025-11-08",
+"department": "Engineering",
+"title": "Frontend Engineer",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "6444858718155556407",
+"effectiveDate": "2025-12-15",
+"department": "Sales",
+"title": "Sales Lead",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "7503797413100322112",
+"effectiveDate": "2025-12-01",
+"department": "Engineering",
+"title": "Engineering Manager",
+"customColumns": {
+"level": "L1"
+}
+},
+{
+"employeeId": "4755711231391877156",
+"effectiveDate": "2025-12-08",
+"department": "Engineering",
+"title": "Engineering Manager",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "7282022765998723049",
+"effectiveDate": "2026-01-01",
+"department": "Sales",
+"title": "Sales Lead",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "5485438058435063215",
+"effectiveDate": "2026-01-08",
+"department": "Marketing",
+"title": "Content Marketer",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "4439426711870881426",
+"effectiveDate": "2026-01-08",
+"department": "Customer Success",
+"title": "Customer Success Lead",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "3147370505997729071",
+"effectiveDate": "2026-01-01",
+"department": "Customer Success",
+"title": "Support Specialist",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "5128066308195578970",
+"effectiveDate": "2026-02-08",
+"department": "Engineering",
+"title": "Software Engineer",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "1368055320693209703",
+"effectiveDate": "2026-02-15",
+"department": "Engineering",
+"title": "Engineering Manager",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "6615546049633611521",
+"effectiveDate": "2026-03-08",
+"department": "Sales",
+"title": "Partnerships Manager",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "6289979998138343852",
+"effectiveDate": "2026-03-01",
+"department": "Customer Success",
+"title": "Customer Success Agent",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "6113371164466338712",
+"effectiveDate": "2026-04-15",
+"department": "Engineering",
+"title": "Frontend Engineer",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "8332932904081288700",
+"effectiveDate": "2026-04-01",
+"department": "Marketing",
+"title": "Content Marketer",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "7715729517251144755",
+"effectiveDate": "2026-04-08",
+"department": "Customer Success",
+"title": "Customer Success Agent",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "4781292445251738413",
+"effectiveDate": "2026-04-01",
+"department": "Engineering",
+"title": "Backend Engineer",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "7670158683809876597",
+"effectiveDate": "2026-05-08",
+"department": "Customer Success",
+"title": "Customer Success Agent",
+"customColumns": {
+"level": "L1"
+}
+},
+{
+"employeeId": "7150144637450948528",
+"effectiveDate": "2026-05-08",
+"department": "Engineering",
+"title": "Frontend Engineer",
+"customColumns": {
+"level": "L1"
+}
+},
+{
+"employeeId": "4195553930594464431",
+"effectiveDate": "2026-05-01",
+"department": "Marketing",
+"title": "Marketing Manager",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "6279415405956029154",
+"effectiveDate": "2026-05-15",
+"department": "Sales",
+"title": "Partnerships Manager",
+"customColumns": {
+"level": "L6"
+}
+},
+{
+"employeeId": "3485801099143234349",
+"effectiveDate": "2026-06-01",
+"department": "Customer Success",
+"title": "Support Specialist",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "4056690555596465437",
+"effectiveDate": "2026-06-01",
+"department": "Data & Analytics",
+"title": "Analytics Engineer",
+"customColumns": {
+"level": "L1"
+}
+},
+{
+"employeeId": "3951798856280257973",
+"effectiveDate": "2026-06-08",
+"department": "Finance",
+"title": "Financial Analyst",
+"customColumns": {
+"level": "L6"
+}
+},
+{
+"employeeId": "8301935308156617068",
+"effectiveDate": "2026-06-01",
+"department": "Customer Success",
+"title": "Customer Success Agent",
+"customColumns": {
+"level": "L5"
+}
+},
+{
+"employeeId": "6962088135296998517",
+"effectiveDate": "2026-07-08",
+"department": "Marketing",
+"title": "Marketing Manager",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "7972958959428071305",
+"effectiveDate": "2026-07-08",
+"department": "Data & Analytics",
+"title": "Data Analyst",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "6347998725037612342",
+"effectiveDate": "2026-07-08",
+"department": "Customer Success",
+"title": "Customer Success Lead",
+"customColumns": {
+"level": "L2"
+}
+},
+{
+"employeeId": "6781062996679892897",
+"effectiveDate": "2026-08-08",
+"department": "Product",
+"title": "Product Owner",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "4349108857802524823",
+"effectiveDate": "2026-08-08",
+"department": "People",
+"title": "People Partner",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "7879899094665849655",
+"effectiveDate": "2026-09-15",
+"department": "People",
+"title": "Talent Partner",
+"customColumns": {
+"level": "L1"
+}
+},
+{
+"employeeId": "8809065745983940482",
+"effectiveDate": "2026-09-08",
+"department": "Engineering",
+"title": "Software Engineer",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "2094129082651734225",
+"effectiveDate": "2026-09-15",
+"department": "Finance",
+"title": "Finance Manager",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "3344652639819717871",
+"effectiveDate": "2026-09-01",
+"department": "Engineering",
+"title": "Software Engineer",
+"customColumns": {
+"level": "L3"
+}
+},
+{
+"employeeId": "7702465228599849252",
+"effectiveDate": "2026-09-15",
+"department": "Design",
+"title": "UX Researcher",
+"customColumns": {
+"level": "L4"
+}
+},
+{
+"employeeId": "3681501480681605382",
+"effectiveDate": "2026-10-15",
+"department": "Finance",
+"title": "Accountant",
+"customColumns": {
+"level": "L6"
+}
+},
+{
+"employeeId": "8261158354661925069",
+"effectiveDate": "2026-08-15",
+"department": "Customer Success",
+"title": "Support Specialist",
+"customColumns": {
+"level": "L4"
+}
+}
+]
